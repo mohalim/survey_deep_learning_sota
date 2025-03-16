@@ -1,0 +1,2942 @@
+\begin{thebibliography}{100}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{shamshirband_review_2021}
+S.~Shamshirband, M.~Fathi, A.~Dehzangi, A.~T. Chronopoulos, H.~Alinejad-Rokny,
+  \href{https://www.sciencedirect.com/science/article/pii/S1532046420302550}{A
+  review on deep learning approaches in healthcare systems: {Taxonomies},
+  challenges, and open issues} 113  103627.
+\newblock \href {https://doi.org/10.1016/j.jbi.2020.103627}
+  {\path{doi:10.1016/j.jbi.2020.103627}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S1532046420302550}
+
+\bibitem{wang_deep_2018}
+J.~Wang, Y.~Ma, L.~Zhang, R.~X. Gao, D.~Wu,
+  \href{https://www.sciencedirect.com/science/article/pii/S0278612518300037}{Deep
+  learning for smart manufacturing: {Methods} and applications} 48  144--156.
+\newblock \href {https://doi.org/10.1016/j.jmsy.2018.01.003}
+  {\path{doi:10.1016/j.jmsy.2018.01.003}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0278612518300037}
+
+\bibitem{pierson_deep_2017}
+H.~A. Pierson, M.~S. Gashler,
+  \href{https://doi.org/10.1080/01691864.2017.1365009}{Deep learning in
+  robotics: a review of recent research} 31~(16)  821--835, publisher: Taylor
+  \& Francis \_eprint: https://doi.org/10.1080/01691864.2017.1365009.
+\newblock \href {https://doi.org/10.1080/01691864.2017.1365009}
+  {\path{doi:10.1080/01691864.2017.1365009}}.
+\newline\urlprefix\url{https://doi.org/10.1080/01691864.2017.1365009}
+
+\bibitem{dixit_deep_2021}
+P.~Dixit, S.~Silakari,
+  \href{https://www.sciencedirect.com/science/article/pii/S1574013720304172}{Deep
+  {Learning} {Algorithms} for {Cybersecurity} {Applications}: {A}
+  {Technological} and {Status} {Review}} 39  100317.
+\newblock \href {https://doi.org/10.1016/j.cosrev.2020.100317}
+  {\path{doi:10.1016/j.cosrev.2020.100317}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S1574013720304172}
+
+\bibitem{dong_survey_2021}
+S.~Dong, P.~Wang, K.~Abbas, A survey on deep learning and its applications 40
+  100379, publisher: Elsevier.
+
+\bibitem{talaei_khoei_deep_2023}
+T.~Talaei~Khoei, H.~Ould~Slimane, N.~Kaabouch, Deep learning: {Systematic}
+  review, models, challenges, and research directions 35~(31)  23103--23124,
+  publisher: Springer.
+
+\bibitem{alzubaidi_review_2021}
+L.~Alzubaidi, J.~Zhang, A.~J. Humaidi, A.~Al-Dujaili, Y.~Duan, O.~Al-Shamma,
+  J.~Santamaria, M.~A. Fadhel, M.~Al-Amidie, L.~Farhan, Review of deep
+  learning: concepts, {CNN} architectures, challenges, applications, future
+  directions 8  1--74, publisher: Springer.
+
+\bibitem{alom_state_art_2019}
+M.~Z. Alom, T.~M. Taha, C.~Yakopcic, S.~Westberg, P.~Sidike, M.~S. Nasrin,
+  M.~Hasan, B.~C. Van~Essen, A.~A. Awwal, V.~K. Asari, A state-of-the-art
+  survey on deep learning theory and architectures 8~(3)  292, publisher:
+  Multidisciplinary Digital Publishing Institute.
+
+\bibitem{pouyanfar_survey_2018}
+S.~Pouyanfar, S.~Sadiq, Y.~Yan, H.~Tian, Y.~Tao, M.~P. Reyes, M.-L. Shyu, S.-C.
+  Chen, S.~S. Iyengar, A survey on deep learning: {Algorithms}, techniques, and
+  applications 51~(5)  1--36, publisher: ACM New York, NY, USA.
+
+\bibitem{sarker_deep_2021}
+I.~H. Sarker, Deep learning: a comprehensive overview on techniques, taxonomy,
+  applications and research directions 2~(6)  420, publisher: Springer.
+
+\bibitem{lecun_deep_2015}
+Y.~LeCun, Y.~Bengio, G.~Hinton,
+  \href{https://www.nature.com/articles/nature14539}{Deep learning} 521~(7553)
+  436--444, number: 7553 Publisher: Nature Publishing Group.
+\newblock \href {https://doi.org/10.1038/nature14539}
+  {\path{doi:10.1038/nature14539}}.
+\newline\urlprefix\url{https://www.nature.com/articles/nature14539}
+
+\bibitem{noauthor_poloclubcnn-explainer_2025}
+\href{https://github.com/poloclub/cnn-explainer}{poloclub/cnn-explainer},
+  original-date: 2019-11-03T23:15:24Z (Mar. 2025).
+\newline\urlprefix\url{https://github.com/poloclub/cnn-explainer}
+
+\bibitem{hu_squeeze-and-excitation_2019}
+J.~Hu, L.~Shen, S.~Albanie, G.~Sun, E.~Wu,
+  \href{http://arxiv.org/abs/1709.01507}{Squeeze-and-{Excitation} {Networks}},
+  arXiv:1709.01507 [cs] version: 4.
+\newblock \href {https://doi.org/10.48550/arXiv.1709.01507}
+  {\path{doi:10.48550/arXiv.1709.01507}}.
+\newline\urlprefix\url{http://arxiv.org/abs/1709.01507}
+
+\bibitem{gao_global_2018}
+Z.~Gao, J.~Xie, Q.~Wang, P.~Li, \href{http://arxiv.org/abs/1811.12006}{Global
+  {Second}-order {Pooling} {Convolutional} {Networks}}, arXiv:1811.12006 [cs]
+  version: 2.
+\newblock \href {https://doi.org/10.48550/arXiv.1811.12006}
+  {\path{doi:10.48550/arXiv.1811.12006}}.
+\newline\urlprefix\url{http://arxiv.org/abs/1811.12006}
+
+\bibitem{wang_eca-net_2020}
+Q.~Wang, B.~Wu, P.~Zhu, P.~Li, W.~Zuo, Q.~Hu,
+  \href{http://arxiv.org/abs/1910.03151}{{ECA}-{Net}: {Efficient} {Channel}
+  {Attention} for {Deep} {Convolutional} {Neural} {Networks}}, arXiv:1910.03151
+  [cs].
+\newblock \href {https://doi.org/10.48550/arXiv.1910.03151}
+  {\path{doi:10.48550/arXiv.1910.03151}}.
+\newline\urlprefix\url{http://arxiv.org/abs/1910.03151}
+
+\bibitem{liu_tam_2021}
+Z.~Liu, L.~Wang, W.~Wu, C.~Qian, T.~Lu,
+  \href{http://arxiv.org/abs/2005.06803}{{TAM}: {Temporal} {Adaptive} {Module}
+  for {Video} {Recognition}}, arXiv:2005.06803 [cs].
+\newblock \href {https://doi.org/10.48550/arXiv.2005.06803}
+  {\path{doi:10.48550/arXiv.2005.06803}}.
+\newline\urlprefix\url{http://arxiv.org/abs/2005.06803}
+
+\bibitem{vaswani_attention_2023}
+A.~Vaswani, N.~Shazeer, N.~Parmar, J.~Uszkoreit, L.~Jones, A.~N. Gomez,
+  L.~Kaiser, I.~Polosukhin, \href{http://arxiv.org/abs/1706.03762}{Attention
+  {Is} {All} {You} {Need}}, arXiv:1706.03762 [cs].
+\newblock \href {https://doi.org/10.48550/arXiv.1706.03762}
+  {\path{doi:10.48550/arXiv.1706.03762}}.
+\newline\urlprefix\url{http://arxiv.org/abs/1706.03762}
+
+\bibitem{noauthor_poloclubtransformer-explainer_2025}
+\href{https://github.com/poloclub/transformer-explainer}{poloclub/transformer-explainer},
+  original-date: 2024-05-16T21:42:10Z (Mar. 2025).
+\newline\urlprefix\url{https://github.com/poloclub/transformer-explainer}
+
+\bibitem{oktay_attention_2018}
+O.~Oktay, J.~Schlemper, L.~L. Folgoc, M.~Lee, M.~Heinrich, K.~Misawa, K.~Mori,
+  S.~McDonagh, N.~Y. Hammerla, B.~Kainz, B.~Glocker, D.~Rueckert,
+  \href{http://arxiv.org/abs/1804.03999}{Attention {U}-{Net}: {Learning}
+  {Where} to {Look} for the {Pancreas}}, arXiv:1804.03999 [cs].
+\newblock \href {https://doi.org/10.48550/arXiv.1804.03999}
+  {\path{doi:10.48550/arXiv.1804.03999}}.
+\newline\urlprefix\url{http://arxiv.org/abs/1804.03999}
+
+\bibitem{dosovitskiy_image_2021}
+A.~Dosovitskiy, L.~Beyer, A.~Kolesnikov, D.~Weissenborn, X.~Zhai,
+  T.~Unterthiner, M.~Dehghani, M.~Minderer, G.~Heigold, S.~Gelly, J.~Uszkoreit,
+  N.~Houlsby, \href{http://arxiv.org/abs/2010.11929}{An {Image} is {Worth}
+  16x16 {Words}: {Transformers} for {Image} {Recognition} at {Scale}},
+  arXiv:2010.11929 [cs].
+\newblock \href {https://doi.org/10.48550/arXiv.2010.11929}
+  {\path{doi:10.48550/arXiv.2010.11929}}.
+\newline\urlprefix\url{http://arxiv.org/abs/2010.11929}
+
+\bibitem{guo_beyond_2023}
+M.-H. Guo, Z.-N. Liu, T.-J. Mu, S.-M. Hu,
+  \href{https://ieeexplore.ieee.org/document/9912362}{Beyond
+  {Self}-{Attention}: {External} {Attention} {Using} {Two} {Linear} {Layers}
+  for {Visual} {Tasks}} 45~(5)  5436--5447, conference Name: IEEE Transactions
+  on Pattern Analysis and Machine Intelligence.
+\newblock \href {https://doi.org/10.1109/TPAMI.2022.3211006}
+  {\path{doi:10.1109/TPAMI.2022.3211006}}.
+\newline\urlprefix\url{https://ieeexplore.ieee.org/document/9912362}
+
+\bibitem{lecun_efficient_2012}
+Y.~A. LeCun, L.~Bottou, G.~B. Orr, K.-R. Müller,
+  \href{https://doi.org/10.1007/978-3-642-35289-8_3}{Efficient BackProp},
+  Springer Berlin Heidelberg, pp. 9--48.
+\newblock \href {https://doi.org/10.1007/978-3-642-35289-8_3}
+  {\path{doi:10.1007/978-3-642-35289-8_3}}.
+\newline\urlprefix\url{https://doi.org/10.1007/978-3-642-35289-8_3}
+
+\bibitem{hochreiter_gradient_2001}
+S.~Hochreiter, Y.~Bengio, P.~Frasconi, J.~Schmidhuber, et~al., Gradient flow in
+  recurrent nets: the difficulty of learning long-term dependencies, in: A
+  {Field} {Guide} to {Dynamical} {Recurrent} {Networks}, A field guide to
+  dynamical recurrent neural networks. IEEE Press In.
+
+\bibitem{dugas_incorporating_2000}
+C.~Dugas, Y.~Bengio, F.~Bélisle, C.~Nadeau, R.~Garcia,
+  \href{https://papers.nips.cc/paper_files/paper/2000/hash/44968aece94f667e4095002d140b5896-Abstract.html}{Incorporating
+  {Second}-{Order} {Functional} {Knowledge} for {Better} {Option} {Pricing}},
+  in: Advances in {Neural} {Information} {Processing} {Systems}, Vol.~13, MIT
+  Press.
+\newline\urlprefix\url{https://papers.nips.cc/paper_files/paper/2000/hash/44968aece94f667e4095002d140b5896-Abstract.html}
+
+\bibitem{glorot_deep_2011}
+X.~Glorot, A.~Bordes, Y.~Bengio,
+  \href{https://proceedings.mlr.press/v15/glorot11a.html}{Deep {Sparse}
+  {Rectifier} {Neural} {Networks}}, in: Proceedings of the {Fourteenth}
+  {International} {Conference} on {Artificial} {Intelligence} and {Statistics},
+  JMLR Workshop and Conference Proceedings, pp. 315--323, iSSN: 1938-7228.
+\newline\urlprefix\url{https://proceedings.mlr.press/v15/glorot11a.html}
+
+\bibitem{maas_rectifier_2013}
+A.~L. Maas, A.~Y. Hannun, A.~Y. Ng, et~al., Rectifier nonlinearities improve
+  neural network acoustic models, in: Proc. icml, Vol.~30, Atlanta, GA, p.~3,
+  issue: 1.
+
+\bibitem{misra_mish_2020}
+D.~Misra, \href{http://arxiv.org/abs/1908.08681}{Mish: {A} {Self} {Regularized}
+  {Non}-{Monotonic} {Activation} {Function}}, arXiv:1908.08681 [cs, stat].
+\newblock \href {https://doi.org/10.48550/arXiv.1908.08681}
+  {\path{doi:10.48550/arXiv.1908.08681}}.
+\newline\urlprefix\url{http://arxiv.org/abs/1908.08681}
+
+\bibitem{clevert_fast_2016}
+D.-A. Clevert, T.~Unterthiner, S.~Hochreiter,
+  \href{http://arxiv.org/abs/1511.07289}{Fast and {Accurate} {Deep} {Network}
+  {Learning} by {Exponential} {Linear} {Units} ({ELUs})}, arXiv:1511.07289
+  [cs].
+\newblock \href {https://doi.org/10.48550/arXiv.1511.07289}
+  {\path{doi:10.48550/arXiv.1511.07289}}.
+\newline\urlprefix\url{http://arxiv.org/abs/1511.07289}
+
+\bibitem{wang_comprehensive_2022}
+Q.~Wang, Y.~Ma, K.~Zhao, Y.~Tian,
+  \href{https://doi.org/10.1007/s40745-020-00253-5}{A {Comprehensive} {Survey}
+  of {Loss} {Functions} in {Machine} {Learning}} 9~(2)  187--212.
+\newblock \href {https://doi.org/10.1007/s40745-020-00253-5}
+  {\path{doi:10.1007/s40745-020-00253-5}}.
+\newline\urlprefix\url{https://doi.org/10.1007/s40745-020-00253-5}
+
+\bibitem{carter_tensorflow_nodate}
+D.~S. a.~S. Carter, \href{http://playground.tensorflow.org}{Tensorflow —
+  {Neural} {Network} {Playground}}.
+\newline\urlprefix\url{http://playground.tensorflow.org}
+
+\bibitem{guo_ai_nodate}
+J.~Guo, \href{https://www.deeplearning.ai/ai-notes/initialization/}{{AI}
+  {Notes}: {Initializing} neural networks}.
+\newline\urlprefix\url{https://www.deeplearning.ai/ai-notes/initialization/}
+
+\bibitem{qian_momentum_1999}
+N.~Qian,
+  \href{https://www.sciencedirect.com/science/article/pii/S0893608098001166}{On
+  the momentum term in gradient descent learning algorithms} 12~(1)  145--151.
+\newblock \href {https://doi.org/10.1016/S0893-6080(98)00116-6}
+  {\path{doi:10.1016/S0893-6080(98)00116-6}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0893608098001166}
+
+\bibitem{duchi_adaptive_2011}
+J.~Duchi, E.~Hazan, Y.~Singer,
+  \href{http://jmlr.org/papers/v12/duchi11a.html}{Adaptive {Subgradient}
+  {Methods} for {Online} {Learning} and {Stochastic} {Optimization}} 12~(61)
+  2121--2159.
+\newline\urlprefix\url{http://jmlr.org/papers/v12/duchi11a.html}
+
+\bibitem{kingma_adam_2017}
+D.~P. Kingma, J.~Ba, \href{http://arxiv.org/abs/1412.6980}{Adam: {A} {Method}
+  for {Stochastic} {Optimization}}, arXiv:1412.6980 [cs].
+\newblock \href {https://doi.org/10.48550/arXiv.1412.6980}
+  {\path{doi:10.48550/arXiv.1412.6980}}.
+\newline\urlprefix\url{http://arxiv.org/abs/1412.6980}
+
+\bibitem{prechelt_early_2012}
+L.~Prechelt, \href{https://doi.org/10.1007/978-3-642-35289-8_5}{Early
+  {Stopping} — {But} {When}?}, in: G.~Montavon, G.~B. Orr, K.-R. Müller
+  (Eds.), Neural {Networks}: {Tricks} of the {Trade}: {Second} {Edition},
+  Lecture {Notes} in {Computer} {Science}, Springer, pp. 53--67.
+\newblock \href {https://doi.org/10.1007/978-3-642-35289-8_5}
+  {\path{doi:10.1007/978-3-642-35289-8_5}}.
+\newline\urlprefix\url{https://doi.org/10.1007/978-3-642-35289-8_5}
+
+\bibitem{srivastava_dropout_2014}
+N.~Srivastava, G.~Hinton, A.~Krizhevsky, I.~Sutskever, R.~Salakhutdinov,
+  \href{http://jmlr.org/papers/v15/srivastava14a.html}{Dropout: {A} {Simple}
+  {Way} to {Prevent} {Neural} {Networks} from {Overfitting}} 15~(56)
+  1929--1958.
+\newline\urlprefix\url{http://jmlr.org/papers/v15/srivastava14a.html}
+
+\bibitem{park_analysis_2017}
+S.~Park, N.~Kwak, Analysis on the {Dropout} {Effect} in {Convolutional}
+  {Neural} {Networks}, in: S.-H. Lai, V.~Lepetit, K.~Nishino, Y.~Sato (Eds.),
+  Computer {Vision} – {ACCV} 2016, Lecture {Notes} in {Computer} {Science},
+  Springer International Publishing, pp. 189--204.
+\newblock \href {https://doi.org/10.1007/978-3-319-54184-6_12}
+  {\path{doi:10.1007/978-3-319-54184-6_12}}.
+
+\bibitem{liu_dropout_2023}
+Z.~Liu, Z.~Xu, J.~Jin, Z.~Shen, T.~Darrell, Dropout reduces underfitting, in:
+  Proceedings of the 40th {International} {Conference} on {Machine} {Learning},
+  Vol. 202 of {ICML}'23, JMLR.org, pp. 22233--22248.
+
+\bibitem{tibshirani_regression_1996}
+R.~Tibshirani, \href{https://www.jstor.org/stable/2346178}{Regression
+  {Shrinkage} and {Selection} via the {Lasso}} 58~(1)  267--288, publisher:
+  [Royal Statistical Society, Wiley].
+\newline\urlprefix\url{https://www.jstor.org/stable/2346178}
+
+\bibitem{zou_regularization_2005}
+H.~Zou, T.~Hastie,
+  \href{https://doi.org/10.1111/j.1467-9868.2005.00503.x}{Regularization and
+  {Variable} {Selection} {Via} the {Elastic} {Net}} 67~(2)  301--320.
+\newblock \href {https://doi.org/10.1111/j.1467-9868.2005.00503.x}
+  {\path{doi:10.1111/j.1467-9868.2005.00503.x}}.
+\newline\urlprefix\url{https://doi.org/10.1111/j.1467-9868.2005.00503.x}
+
+\bibitem{nakamura_adaptive_2019}
+K.~Nakamura, B.-W. Hong,
+  \href{https://ieeexplore.ieee.org/document/8811458}{Adaptive {Weight} {Decay}
+  for {Deep} {Neural} {Networks}} 7  118857--118865, conference Name: IEEE
+  Access.
+\newblock \href {https://doi.org/10.1109/ACCESS.2019.2937139}
+  {\path{doi:10.1109/ACCESS.2019.2937139}}.
+\newline\urlprefix\url{https://ieeexplore.ieee.org/document/8811458}
+
+\bibitem{ioffe_batch_2015}
+S.~Ioffe, C.~Szegedy, Batch normalization: accelerating deep network training
+  by reducing internal covariate shift, in: Proceedings of the 32nd
+  {International} {Conference} on {International} {Conference} on {Machine}
+  {Learning} - {Volume} 37, {ICML}'15, JMLR.org, pp. 448--456.
+
+\bibitem{ba_layer_2016}
+J.~Ba, J.~Kiros, G.~E. Hinton,
+  \href{https://www.semanticscholar.org/paper/Layer-Normalization-Ba-Kiros/97fb4e3d45bb098e27e0071448b6152217bd35a5}{Layer
+  {Normalization}}.
+\newline\urlprefix\url{https://www.semanticscholar.org/paper/Layer-Normalization-Ba-Kiros/97fb4e3d45bb098e27e0071448b6152217bd35a5}
+
+\bibitem{cybenko_approximation_1989}
+G.~Cybenko, \href{https://doi.org/10.1007/BF02551274}{Approximation by
+  superpositions of a sigmoidal function} 2~(4)  303--314.
+\newblock \href {https://doi.org/10.1007/BF02551274}
+  {\path{doi:10.1007/BF02551274}}.
+\newline\urlprefix\url{https://doi.org/10.1007/BF02551274}
+
+\bibitem{hornik_multilayer_1989}
+K.~Hornik, M.~Stinchcombe, H.~White,
+  \href{https://www.sciencedirect.com/science/article/pii/0893608089900208}{Multilayer
+  feedforward networks are universal approximators} 2~(5)  359--366.
+\newblock \href {https://doi.org/10.1016/0893-6080(89)90020-8}
+  {\path{doi:10.1016/0893-6080(89)90020-8}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/0893608089900208}
+
+\bibitem{widrow_neural_1994}
+B.~Widrow, D.~E. Rumelhart, M.~A. Lehr,
+  \href{https://dl.acm.org/doi/10.1145/175247.175257}{Neural networks:
+  applications in industry, business and science} 37~(3)  93--105.
+\newblock \href {https://doi.org/10.1145/175247.175257}
+  {\path{doi:10.1145/175247.175257}}.
+\newline\urlprefix\url{https://dl.acm.org/doi/10.1145/175247.175257}
+
+\bibitem{hochreiter_long_1997}
+S.~Hochreiter, J.~Schmidhuber,
+  \href{https://doi.org/10.1162/neco.1997.9.8.1735}{Long {Short}-{Term}
+  {Memory}} 9~(8)  1735--1780.
+\newblock \href {https://doi.org/10.1162/neco.1997.9.8.1735}
+  {\path{doi:10.1162/neco.1997.9.8.1735}}.
+\newline\urlprefix\url{https://doi.org/10.1162/neco.1997.9.8.1735}
+
+\bibitem{cho_learning_2014}
+K.~Cho, B.~van Merriënboer, C.~Gulcehre, D.~Bahdanau, F.~Bougares, H.~Schwenk,
+  Y.~Bengio, \href{https://aclanthology.org/D14-1179}{Learning {Phrase}
+  {Representations} using {RNN} {Encoder}–{Decoder} for {Statistical}
+  {Machine} {Translation}}, in: A.~Moschitti, B.~Pang, W.~Daelemans (Eds.),
+  Proceedings of the 2014 {Conference} on {Empirical} {Methods} in {Natural}
+  {Language} {Processing} ({EMNLP}), Association for Computational Linguistics,
+  pp. 1724--1734.
+\newblock \href {https://doi.org/10.3115/v1/D14-1179}
+  {\path{doi:10.3115/v1/D14-1179}}.
+\newline\urlprefix\url{https://aclanthology.org/D14-1179}
+
+\bibitem{shi_convolutional_2015}
+X.~Shi, Z.~Chen, H.~Wang, D.-Y. Yeung, W.-k. Wong, W.-c. Woo,
+  \href{http://arxiv.org/abs/1506.04214}{Convolutional {LSTM} {Network}: {A}
+  {Machine} {Learning} {Approach} for {Precipitation} {Nowcasting}},
+  arXiv:1506.04214 [cs] version: 2.
+\newblock \href {https://doi.org/10.48550/arXiv.1506.04214}
+  {\path{doi:10.48550/arXiv.1506.04214}}.
+\newline\urlprefix\url{http://arxiv.org/abs/1506.04214}
+
+\bibitem{van_houdt_review_2020}
+G.~Van~Houdt, C.~Mosquera, G.~Nápoles,
+  \href{https://doi.org/10.1007/s10462-020-09838-1}{A review on the long
+  short-term memory model}, Artificial Intelligence Review 53~(8) (2020)
+  5929--5955.
+\newblock \href {https://doi.org/10.1007/s10462-020-09838-1}
+  {\path{doi:10.1007/s10462-020-09838-1}}.
+\newline\urlprefix\url{https://doi.org/10.1007/s10462-020-09838-1}
+
+\bibitem{krizhevsky_imagenet_2012}
+A.~Krizhevsky, I.~Sutskever, G.~E. Hinton,
+  \href{https://proceedings.neurips.cc/paper_files/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html}{{ImageNet}
+  {Classification} with {Deep} {Convolutional} {Neural} {Networks}}, in:
+  Advances in {Neural} {Information} {Processing} {Systems}, Vol.~25, Curran
+  Associates, Inc.
+\newline\urlprefix\url{https://proceedings.neurips.cc/paper_files/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html}
+
+\bibitem{zeiler_visualizing_2013}
+M.~D. Zeiler, R.~Fergus, \href{http://arxiv.org/abs/1311.2901}{Visualizing and
+  {Understanding} {Convolutional} {Networks}}, arXiv:1311.2901 [cs] version: 3.
+\newblock \href {https://doi.org/10.48550/arXiv.1311.2901}
+  {\path{doi:10.48550/arXiv.1311.2901}}.
+\newline\urlprefix\url{http://arxiv.org/abs/1311.2901}
+
+\bibitem{lin_network_2014}
+M.~Lin, Q.~Chen, S.~Yan, \href{http://arxiv.org/abs/1312.4400}{Network {In}
+  {Network}}, arXiv:1312.4400 [cs] version: 3.
+\newblock \href {https://doi.org/10.48550/arXiv.1312.4400}
+  {\path{doi:10.48550/arXiv.1312.4400}}.
+\newline\urlprefix\url{http://arxiv.org/abs/1312.4400}
+
+\bibitem{simonyan_very_2015}
+K.~Simonyan, A.~Zisserman, \href{http://arxiv.org/abs/1409.1556}{Very {Deep}
+  {Convolutional} {Networks} for {Large}-{Scale} {Image} {Recognition}},
+  arXiv:1409.1556 [cs] version: 6.
+\newblock \href {https://doi.org/10.48550/arXiv.1409.1556}
+  {\path{doi:10.48550/arXiv.1409.1556}}.
+\newline\urlprefix\url{http://arxiv.org/abs/1409.1556}
+
+\bibitem{szegedy_going_2014}
+C.~Szegedy, W.~Liu, Y.~Jia, P.~Sermanet, S.~Reed, D.~Anguelov, D.~Erhan,
+  V.~Vanhoucke, A.~Rabinovich, \href{http://arxiv.org/abs/1409.4842}{Going
+  {Deeper} with {Convolutions}}, arXiv:1409.4842 [cs] version: 1.
+\newblock \href {https://doi.org/10.48550/arXiv.1409.4842}
+  {\path{doi:10.48550/arXiv.1409.4842}}.
+\newline\urlprefix\url{http://arxiv.org/abs/1409.4842}
+
+\bibitem{srivastava_highway_2015}
+R.~K. Srivastava, K.~Greff, J.~Schmidhuber,
+  \href{http://arxiv.org/abs/1505.00387}{Highway {Networks}}, arXiv:1505.00387
+  [cs].
+\newblock \href {https://doi.org/10.48550/arXiv.1505.00387}
+  {\path{doi:10.48550/arXiv.1505.00387}}.
+\newline\urlprefix\url{http://arxiv.org/abs/1505.00387}
+
+\bibitem{he_deep_2015}
+K.~He, X.~Zhang, S.~Ren, J.~Sun, \href{http://arxiv.org/abs/1512.03385}{Deep
+  {Residual} {Learning} for {Image} {Recognition}}, arXiv:1512.03385 [cs].
+\newblock \href {https://doi.org/10.48550/arXiv.1512.03385}
+  {\path{doi:10.48550/arXiv.1512.03385}}.
+\newline\urlprefix\url{http://arxiv.org/abs/1512.03385}
+
+\bibitem{huang_densely_2017}
+G.~Huang, Z.~Liu, L.~Van Der~Maaten, K.~Q. Weinberger, Densely connected
+  convolutional networks, in: Proceedings of the {IEEE} conference on computer
+  vision and pattern recognition, pp. 4700--4708.
+
+\bibitem{zagoruyko_wide_2017}
+S.~Zagoruyko, N.~Komodakis, \href{http://arxiv.org/abs/1605.07146}{Wide
+  {Residual} {Networks}}, arXiv:1605.07146 [cs] version: 4.
+\newblock \href {https://doi.org/10.48550/arXiv.1605.07146}
+  {\path{doi:10.48550/arXiv.1605.07146}}.
+\newline\urlprefix\url{http://arxiv.org/abs/1605.07146}
+
+\bibitem{xie_aggregated_2017}
+S.~Xie, R.~Girshick, P.~Dollár, Z.~Tu, K.~He,
+  \href{http://arxiv.org/abs/1611.05431}{Aggregated {Residual}
+  {Transformations} for {Deep} {Neural} {Networks}}, arXiv:1611.05431 [cs].
+\newblock \href {https://doi.org/10.48550/arXiv.1611.05431}
+  {\path{doi:10.48550/arXiv.1611.05431}}.
+\newline\urlprefix\url{http://arxiv.org/abs/1611.05431}
+
+\bibitem{noauthor_imagenet_nodate}
+\href{https://www.image-net.org/}{{ImageNet}}.
+\newline\urlprefix\url{https://www.image-net.org/}
+
+\bibitem{noauthor_cifar-10_nodate}
+\href{https://www.cs.toronto.edu/~kriz/cifar.html}{{CIFAR}-10 and {CIFAR}-100
+  datasets}.
+\newline\urlprefix\url{https://www.cs.toronto.edu/~kriz/cifar.html}
+
+\bibitem{chougrad_deep_2018}
+H.~Chougrad, H.~Zouaki, O.~Alheyane,
+  \href{https://www.sciencedirect.com/science/article/pii/S0169260717301451}{Deep
+  {Convolutional} {Neural} {Networks} for breast cancer screening}, Computer
+  Methods and Programs in Biomedicine 157 (2018) 19--30.
+\newblock \href {https://doi.org/10.1016/j.cmpb.2018.01.011}
+  {\path{doi:10.1016/j.cmpb.2018.01.011}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0169260717301451}
+
+\bibitem{zhao_novel_2020}
+M.~Zhao, Y.~Wei, Y.~Lu, K.~K.~L. Wong,
+  \href{https://www.sciencedirect.com/science/article/pii/S0169260720314565}{A
+  novel {U}-{Net} approach to segment the cardiac chamber in magnetic resonance
+  images with ghost artifacts}, Computer Methods and Programs in Biomedicine
+  196 (2020) 105623.
+\newblock \href {https://doi.org/10.1016/j.cmpb.2020.105623}
+  {\path{doi:10.1016/j.cmpb.2020.105623}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0169260720314565}
+
+\bibitem{cinar_hybrid_2022}
+N.~Cinar, A.~Ozcan, M.~Kaya,
+  \href{https://www.sciencedirect.com/science/article/pii/S1746809422001690}{A
+  hybrid {DenseNet121}-{UNet} model for brain tumor segmentation from {MR}
+  {Images}}, Biomedical Signal Processing and Control 76 (2022) 103647.
+\newblock \href {https://doi.org/10.1016/j.bspc.2022.103647}
+  {\path{doi:10.1016/j.bspc.2022.103647}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S1746809422001690}
+
+\bibitem{sun_self-attentional_2023}
+X.~Sun, J.~Fu, B.~Wei, Z.~Li, Y.~Li, N.~Wang,
+  \href{https://ieeexplore.ieee.org/document/9996089}{A {Self}-{Attentional}
+  {ResNet}-{LightGBM} {Model} for {IoT}-{Enabled} {Voice} {Liveness}
+  {Detection}}, IEEE Internet of Things Journal 10~(9) (2023) 8257--8270,
+  conference Name: IEEE Internet of Things Journal.
+\newblock \href {https://doi.org/10.1109/JIOT.2022.3230992}
+  {\path{doi:10.1109/JIOT.2022.3230992}}.
+\newline\urlprefix\url{https://ieeexplore.ieee.org/document/9996089}
+
+\bibitem{dong_improved_2023}
+L.~Dong, C.~Wang, G.~Yang, Z.~Huang, Z.~Zhang, C.~Li,
+  \href{https://www.mdpi.com/1424-8220/23/3/1240}{An {Improved} {ResNet}-1d
+  with {Channel} {Attention} for {Tool} {Wear} {Monitor} in {Smart}
+  {Manufacturing}}, Sensors 23~(3) (2023) 1240, number: 3 Publisher:
+  Multidisciplinary Digital Publishing Institute.
+\newblock \href {https://doi.org/10.3390/s23031240}
+  {\path{doi:10.3390/s23031240}}.
+\newline\urlprefix\url{https://www.mdpi.com/1424-8220/23/3/1240}
+
+\bibitem{hou_application_2024}
+Y.~Hou, Z.~Wu, X.~Cai, T.~Zhu,
+  \href{https://www.nature.com/articles/s41598-024-58421-z}{The application of
+  improved densenet algorithm in accurate image recognition}, Scientific
+  Reports 14~(1) (2024) 8645, publisher: Nature Publishing Group.
+\newblock \href {https://doi.org/10.1038/s41598-024-58421-z}
+  {\path{doi:10.1038/s41598-024-58421-z}}.
+\newline\urlprefix\url{https://www.nature.com/articles/s41598-024-58421-z}
+
+\bibitem{narotamo_deep_2024}
+H.~Narotamo, M.~Dias, R.~Santos, A.~V. Carreiro, H.~Gamboa, M.~Silveira,
+  \href{https://www.sciencedirect.com/science/article/pii/S174680942400199X}{Deep
+  learning for {ECG} classification: {A} comparative study of {1D} and {2D}
+  representations and multimodal fusion approaches}, Biomedical Signal
+  Processing and Control 93 (2024) 106141.
+\newblock \href {https://doi.org/10.1016/j.bspc.2024.106141}
+  {\path{doi:10.1016/j.bspc.2024.106141}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S174680942400199X}
+
+\bibitem{zhang_heart_2024}
+C.-J. Zhang, {Yuan-Lu}, F.-Q. Tang, H.-P. Cai, Y.-F. Qian, {Chao-Wang},
+  \href{https://doi.org/10.1186/s12911-024-02415-4}{Heart failure
+  classification using deep learning to extract spatiotemporal features from
+  {ECG}}, BMC Medical Informatics and Decision Making 24~(1) (2024) 17.
+\newblock \href {https://doi.org/10.1186/s12911-024-02415-4}
+  {\path{doi:10.1186/s12911-024-02415-4}}.
+\newline\urlprefix\url{https://doi.org/10.1186/s12911-024-02415-4}
+
+\bibitem{mohd_noor_deep_2022}
+M.~H. Mohd~Noor, S.~Y. Tan, M.~N. Ab~Wahab,
+  \href{https://doi.org/10.1007/s11063-022-10799-5}{Deep {Temporal}
+  {Conv}-{LSTM} for {Activity} {Recognition}}, Neural Processing Letters 54~(5)
+  (2022) 4027--4049.
+\newblock \href {https://doi.org/10.1007/s11063-022-10799-5}
+  {\path{doi:10.1007/s11063-022-10799-5}}.
+\newline\urlprefix\url{https://doi.org/10.1007/s11063-022-10799-5}
+
+\bibitem{hinton_practical_2012}
+G.~E. Hinton, \href{https://doi.org/10.1007/978-3-642-35289-8_32}{A {Practical}
+  {Guide} to {Training} {Restricted} {Boltzmann} {Machines}}, in: G.~Montavon,
+  G.~B. Orr, K.-R. Müller (Eds.), Neural {Networks}: {Tricks} of the {Trade}:
+  {Second} {Edition}, Lecture {Notes} in {Computer} {Science}, Springer, pp.
+  599--619.
+\newblock \href {https://doi.org/10.1007/978-3-642-35289-8_32}
+  {\path{doi:10.1007/978-3-642-35289-8_32}}.
+\newline\urlprefix\url{https://doi.org/10.1007/978-3-642-35289-8_32}
+
+\bibitem{hinton_fast_2006}
+G.~E. Hinton, S.~Osindero, Y.-W. Teh,
+  \href{https://doi.org/10.1162/neco.2006.18.7.1527}{A {Fast} {Learning}
+  {Algorithm} for {Deep} {Belief} {Nets}} 18~(7)  1527--1554.
+\newblock \href {https://doi.org/10.1162/neco.2006.18.7.1527}
+  {\path{doi:10.1162/neco.2006.18.7.1527}}.
+\newline\urlprefix\url{https://doi.org/10.1162/neco.2006.18.7.1527}
+
+\bibitem{hinton_deep_2009}
+G.~E. Hinton,
+  \href{http://www.scholarpedia.org/article/Deep_belief_networks}{Deep belief
+  networks} 4~(5)  5947.
+\newblock \href {https://doi.org/10.4249/scholarpedia.5947}
+  {\path{doi:10.4249/scholarpedia.5947}}.
+\newline\urlprefix\url{http://www.scholarpedia.org/article/Deep_belief_networks}
+
+\bibitem{romero_quantum_2017}
+J.~Romero, J.~P. Olson, A.~Aspuru-Guzik,
+  \href{https://dx.doi.org/10.1088/2058-9565/aa8072}{Quantum autoencoders for
+  efficient compression of quantum data} 2~(4)  045001, publisher: IOP
+  Publishing.
+\newblock \href {https://doi.org/10.1088/2058-9565/aa8072}
+  {\path{doi:10.1088/2058-9565/aa8072}}.
+\newline\urlprefix\url{https://dx.doi.org/10.1088/2058-9565/aa8072}
+
+\bibitem{li_guided_2020}
+X.~Li, T.~Zhang, X.~Zhao, Z.~Yi,
+  \href{https://doi.org/10.1007/s10489-020-01813-1}{Guided autoencoder for
+  dimensionality reduction of pedestrian features} 50~(12)  4557--4567.
+\newblock \href {https://doi.org/10.1007/s10489-020-01813-1}
+  {\path{doi:10.1007/s10489-020-01813-1}}.
+\newline\urlprefix\url{https://doi.org/10.1007/s10489-020-01813-1}
+
+\bibitem{mohd_noor_feature_2021}
+M.~H. Mohd~Noor, \href{https://doi.org/10.1007/s00521-020-05638-4}{Feature
+  learning using convolutional denoising autoencoder for activity recognition}
+  33~(17)  10909--10922.
+\newblock \href {https://doi.org/10.1007/s00521-020-05638-4}
+  {\path{doi:10.1007/s00521-020-05638-4}}.
+\newline\urlprefix\url{https://doi.org/10.1007/s00521-020-05638-4}
+
+\bibitem{li_comprehensive_2023}
+P.~Li, Y.~Pei, J.~Li,
+  \href{https://www.sciencedirect.com/science/article/pii/S1568494623001941}{A
+  comprehensive survey on design and application of autoencoder in deep
+  learning} 138  110176.
+\newblock \href {https://doi.org/10.1016/j.asoc.2023.110176}
+  {\path{doi:10.1016/j.asoc.2023.110176}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S1568494623001941}
+
+\bibitem{ng_sparse_2011}
+A.~Ng, et~al., Sparse autoencoder 72~(2011)  1--19.
+
+\bibitem{rifai_higher_2011}
+S.~Rifai, G.~Mesnil, P.~Vincent, X.~Muller, Y.~Bengio, Y.~Dauphin, X.~Glorot,
+  Higher {Order} {Contractive} {Auto}-{Encoder}, in: D.~Gunopulos, T.~Hofmann,
+  D.~Malerba, M.~Vazirgiannis (Eds.), Machine {Learning} and {Knowledge}
+  {Discovery} in {Databases}, Lecture {Notes} in {Computer} {Science},
+  Springer, pp. 645--660.
+\newblock \href {https://doi.org/10.1007/978-3-642-23783-6_41}
+  {\path{doi:10.1007/978-3-642-23783-6_41}}.
+
+\bibitem{vincent_extracting_2008}
+P.~Vincent, H.~Larochelle, Y.~Bengio, P.-A. Manzagol,
+  \href{https://doi.org/10.1145/1390156.1390294}{Extracting and composing
+  robust features with denoising autoencoders}, in: Proceedings of the 25th
+  international conference on {Machine} learning, {ICML} '08, Association for
+  Computing Machinery, pp. 1096--1103.
+\newblock \href {https://doi.org/10.1145/1390156.1390294}
+  {\path{doi:10.1145/1390156.1390294}}.
+\newline\urlprefix\url{https://doi.org/10.1145/1390156.1390294}
+
+\bibitem{chen_marginalized_2012}
+M.~Chen, Z.~Xu, K.~Q. Weinberger, F.~Sha, Marginalized denoising autoencoders
+  for domain adaptation, in: Proceedings of the 29th {International}
+  {Coference} on {International} {Conference} on {Machine} {Learning},
+  {ICML}'12, Omnipress, pp. 1627--1634.
+
+\bibitem{kingma_auto-encoding_2013}
+D.~P. Kingma, M.~Welling, Auto-encoding variational bayes.
+
+\bibitem{goodfellow_generative_2014}
+I.~Goodfellow, J.~Pouget-Abadie, M.~Mirza, B.~Xu, D.~Warde-Farley, S.~Ozair,
+  A.~Courville, Y.~Bengio, Generative adversarial nets 27.
+
+\bibitem{odena_conditional_2017}
+A.~Odena, C.~Olah, J.~Shlens, Conditional image synthesis with auxiliary
+  classifier gans, in: International conference on machine learning, PMLR, pp.
+  2642--2651.
+
+\bibitem{chen_infogan_2016}
+X.~Chen, Y.~Duan, R.~Houthooft, J.~Schulman, I.~Sutskever, P.~Abbeel,
+  \href{http://arxiv.org/abs/1606.03657}{{InfoGAN}: {Interpretable}
+  {Representation} {Learning} by {Information} {Maximizing} {Generative}
+  {Adversarial} {Nets}}, arXiv:1606.03657 [cs, stat] version: 1.
+\newblock \href {https://doi.org/10.48550/arXiv.1606.03657}
+  {\path{doi:10.48550/arXiv.1606.03657}}.
+\newline\urlprefix\url{http://arxiv.org/abs/1606.03657}
+
+\bibitem{weng_gan_2019}
+L.~Weng, \href{http://arxiv.org/abs/1904.08994}{From {GAN} to {WGAN}},
+  arXiv:1904.08994 [cs, stat].
+\newblock \href {https://doi.org/10.48550/arXiv.1904.08994}
+  {\path{doi:10.48550/arXiv.1904.08994}}.
+\newline\urlprefix\url{http://arxiv.org/abs/1904.08994}
+
+\bibitem{karras_progressive_2018}
+T.~Karras, T.~Aila, S.~Laine, J.~Lehtinen,
+  \href{http://arxiv.org/abs/1710.10196}{Progressive {Growing} of {GANs} for
+  {Improved} {Quality}, {Stability}, and {Variation}}, arXiv:1710.10196 [cs,
+  stat] version: 3.
+\newblock \href {https://doi.org/10.48550/arXiv.1710.10196}
+  {\path{doi:10.48550/arXiv.1710.10196}}.
+\newline\urlprefix\url{http://arxiv.org/abs/1710.10196}
+
+\bibitem{karras_style-based_2019}
+T.~Karras, S.~Laine, T.~Aila, \href{http://arxiv.org/abs/1812.04948}{A
+  {Style}-{Based} {Generator} {Architecture} for {Generative} {Adversarial}
+  {Networks}}, arXiv:1812.04948 [cs, stat] version: 3.
+\newblock \href {https://doi.org/10.48550/arXiv.1812.04948}
+  {\path{doi:10.48550/arXiv.1812.04948}}.
+\newline\urlprefix\url{http://arxiv.org/abs/1812.04948}
+
+\bibitem{Tan_2020_CVPR}
+M.~Tan, R.~Pang, Q.~V. Le, Efficientdet: Scalable and efficient object
+  detection, in: Proceedings of the IEEE/CVF Conference on Computer Vision and
+  Pattern Recognition (CVPR).
+
+\bibitem{Otter}
+D.~W. Otter, J.~R. Medina, J.~K. Kalita, A survey of the usages of deep
+  learning for natural language processing 32~(2)  604--624.
+\newblock \href {https://doi.org/10.1109/TNNLS.2020.2979670}
+  {\path{doi:10.1109/TNNLS.2020.2979670}}.
+
+\bibitem{esteva2019guide}
+A.~Esteva, A.~Robicquet, B.~Ramsundar, V.~Kuleshov, M.~DePristo, K.~Chou,
+  C.~Cui, G.~Corrado, S.~Thrun, J.~Dean, A guide to deep learning in healthcare
+  25~(1)  24--29.
+
+\bibitem{soori2023artificial}
+M.~Soori, B.~Arezoo, R.~Dastres, Artificial intelligence, machine learning and
+  deep learning in advanced robotics, a review.
+
+\bibitem{hernandez2019systematic}
+A.~Hernández-Blanco, B.~Herrera-Flores, D.~Tomás, B.~Navarro-Colorado,
+  et~al., A systematic review of deep learning approaches to educational data
+  mining 2019.
+
+\bibitem{lecun_gradient-based_1998}
+Y.~Lecun, L.~Bottou, Y.~Bengio, P.~Haffner,
+  \href{https://ieeexplore.ieee.org/document/726791}{Gradient-based learning
+  applied to document recognition} 86~(11)  2278--2324, conference Name:
+  Proceedings of the IEEE.
+\newblock \href {https://doi.org/10.1109/5.726791}
+  {\path{doi:10.1109/5.726791}}.
+\newline\urlprefix\url{https://ieeexplore.ieee.org/document/726791}
+
+\bibitem{simard_best_2003}
+P.~Simard, D.~Steinkraus, J.~Platt,
+  \href{https://ieeexplore.ieee.org/document/1227801}{Best practices for
+  convolutional neural networks applied to visual document analysis}, in:
+  Seventh {International} {Conference} on {Document} {Analysis} and
+  {Recognition}, 2003. {Proceedings}., pp. 958--963.
+\newblock \href {https://doi.org/10.1109/ICDAR.2003.1227801}
+  {\path{doi:10.1109/ICDAR.2003.1227801}}.
+\newline\urlprefix\url{https://ieeexplore.ieee.org/document/1227801}
+
+\bibitem{matsugu_subject_2003}
+M.~Matsugu, K.~Mori, Y.~Mitari, Y.~Kaneda, Subject independent facial
+  expression recognition with robust face detection using a convolutional
+  neural network 16~(5-6)  555--559.
+\newblock \href {https://doi.org/10.1016/S0893-6080(03)00115-1}
+  {\path{doi:10.1016/S0893-6080(03)00115-1}}.
+
+\bibitem{zhao_well-classified_2022}
+G.~Zhao, W.~Yang, X.~Ren, L.~Li, Y.~Wu, X.~Sun, Well-classified examples are
+  underestimated in classification with deep neural networks, in: Proceedings
+  of the {AAAI} {Conference} on {Artificial} {Intelligence}, Vol.~36, pp.
+  9180--9189, issue: 8.
+
+\bibitem{huang_asymmetric_2023}
+Y.~Huang, J.~Qi, X.~Wang, Z.~Lin, Asymmetric {Polynomial} {Loss} for
+  {Multi}-{Label} {Classification}, in: {ICASSP} 2023-2023 {IEEE}
+  {International} {Conference} on {Acoustics}, {Speech} and {Signal}
+  {Processing} ({ICASSP}), IEEE, pp. 1--5.
+
+\bibitem{park_robust_2023}
+W.~Park, I.~Park, S.~Kim, J.~Ryu,
+  \href{https://openaccess.thecvf.com/content/ICCV2023W/CVAMD/html/Park_Robust_Asymmetric_Loss_for_Multi-Label_Long-Tailed_Learning_ICCVW_2023_paper.html}{Robust
+  {Asymmetric} {Loss} for {Multi}-{Label} {Long}-{Tailed} {Learning}}, pp.
+  2711--2720.
+\newline\urlprefix\url{https://openaccess.thecvf.com/content/ICCV2023W/CVAMD/html/Park_Robust_Asymmetric_Loss_for_Multi-Label_Long-Tailed_Learning_ICCVW_2023_paper.html}
+
+\bibitem{nanni_building_2023}
+L.~Nanni, A.~Loreggia, L.~Barcellona, S.~Ghidoni,
+  \href{https://ieeexplore.ieee.org/document/10309107}{Building {Ensemble} of
+  {Deep} {Networks}: {Convolutional} {Networks} and {Transformers}} 11
+  124962--124974, conference Name: IEEE Access.
+\newblock \href {https://doi.org/10.1109/ACCESS.2023.3330442}
+  {\path{doi:10.1109/ACCESS.2023.3330442}}.
+\newline\urlprefix\url{https://ieeexplore.ieee.org/document/10309107}
+
+\bibitem{wortsman_model_2022}
+M.~Wortsman, G.~Ilharco, S.~Y. Gadre, R.~Roelofs, R.~Gontijo-Lopes, A.~S.
+  Morcos, H.~Namkoong, A.~Farhadi, Y.~Carmon, S.~Kornblith, et~al., Model
+  soups: averaging weights of multiple fine-tuned models improves accuracy
+  without increasing inference time, in: International {Conference} on
+  {Machine} {Learning}, PMLR, pp. 23965--23998.
+
+\bibitem{loh_multi-symmetry_2023}
+C.~Loh, S.~Han, S.~Sudalairaj, R.~Dangovski, K.~Xu, F.~Wenzel, M.~Soljacic,
+  A.~Srivastava, Multi-{Symmetry} {Ensembles}: {Improving} {Diversity} and
+  {Generalization} via {Opposing} {Symmetries}.
+
+\bibitem{xiao_early_2021}
+T.~Xiao, M.~Singh, E.~Mintun, T.~Darrell, P.~Dollár, R.~Girshick, Early
+  convolutions help transformers see better 34  30392--30400.
+
+\bibitem{wu_cvt_2021}
+H.~Wu, B.~Xiao, N.~Codella, M.~Liu, X.~Dai, L.~Yuan, L.~Zhang,
+  \href{https://ieeexplore.ieee.org/document/9710031?denied=}{{CvT}:
+  {Introducing} {Convolutions} to {Vision} {Transformers}}, in: 2021
+  {IEEE}/{CVF} {International} {Conference} on {Computer} {Vision} ({ICCV}),
+  pp. 22--31, iSSN: 2380-7504.
+\newblock \href {https://doi.org/10.1109/ICCV48922.2021.00009}
+  {\path{doi:10.1109/ICCV48922.2021.00009}}.
+\newline\urlprefix\url{https://ieeexplore.ieee.org/document/9710031?denied=}
+
+\bibitem{peng_conformer_2023}
+Z.~Peng, Z.~Guo, W.~Huang, Y.~Wang, L.~Xie, J.~Jiao, Q.~Tian, Q.~Ye,
+  \href{https://ieeexplore.ieee.org/document/10040235}{Conformer: {Local}
+  {Features} {Coupling} {Global} {Representations} for {Recognition} and
+  {Detection}} 45~(8)  9454--9468, conference Name: IEEE Transactions on
+  Pattern Analysis and Machine Intelligence.
+\newblock \href {https://doi.org/10.1109/TPAMI.2023.3243048}
+  {\path{doi:10.1109/TPAMI.2023.3243048}}.
+\newline\urlprefix\url{https://ieeexplore.ieee.org/document/10040235}
+
+\bibitem{tu_maxvit_2022}
+Z.~Tu, H.~Talebi, H.~Zhang, F.~Yang, P.~Milanfar, A.~Bovik, Y.~Li, {MaxViT}:
+  {Multi}-axis {Vision} {Transformer}, in: S.~Avidan, G.~Brostow, M.~Cissé,
+  G.~M. Farinella, T.~Hassner (Eds.), Computer {Vision} – {ECCV} 2022,
+  Lecture {Notes} in {Computer} {Science}, Springer Nature Switzerland, pp.
+  459--479.
+\newblock \href {https://doi.org/10.1007/978-3-031-20053-3_27}
+  {\path{doi:10.1007/978-3-031-20053-3_27}}.
+
+\bibitem{ma_convolutional_2024}
+Y.~Ma, R.~Wang, M.~Zong, W.~Ji, Y.~Wang, B.~Ye,
+  \href{https://www.sciencedirect.com/science/article/pii/S0925231223011505}{Convolutional
+  transformer network for fine-grained action recognition} 569  127027.
+\newblock \href {https://doi.org/10.1016/j.neucom.2023.127027}
+  {\path{doi:10.1016/j.neucom.2023.127027}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0925231223011505}
+
+\bibitem{girshick_rich_2014}
+R.~Girshick, J.~Donahue, T.~Darrell, J.~Malik,
+  \href{https://openaccess.thecvf.com/content_cvpr_2014/html/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.html}{Rich
+  {Feature} {Hierarchies} for {Accurate} {Object} {Detection} and {Semantic}
+  {Segmentation}}, pp. 580--587.
+\newline\urlprefix\url{https://openaccess.thecvf.com/content_cvpr_2014/html/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.html}
+
+\bibitem{girshick_fast_2015}
+R.~Girshick, \href{https://ieeexplore.ieee.org/document/7410526}{Fast
+  {R}-{CNN}}, in: 2015 {IEEE} {International} {Conference} on {Computer}
+  {Vision} ({ICCV}), pp. 1440--1448, iSSN: 2380-7504.
+\newblock \href {https://doi.org/10.1109/ICCV.2015.169}
+  {\path{doi:10.1109/ICCV.2015.169}}.
+\newline\urlprefix\url{https://ieeexplore.ieee.org/document/7410526}
+
+\bibitem{ren_faster_2015}
+S.~Ren, K.~He, R.~Girshick, J.~Sun,
+  \href{https://proceedings.neurips.cc/paper_files/paper/2015/hash/14bfa6bb14875e45bba028a21ed38046-Abstract.html}{Faster
+  {R}-{CNN}: {Towards} {Real}-{Time} {Object} {Detection} with {Region}
+  {Proposal} {Networks}}, in: Advances in {Neural} {Information} {Processing}
+  {Systems}, Vol.~28, Curran Associates, Inc.
+\newline\urlprefix\url{https://proceedings.neurips.cc/paper_files/paper/2015/hash/14bfa6bb14875e45bba028a21ed38046-Abstract.html}
+
+\bibitem{redmon_you_2016}
+J.~Redmon, S.~Divvala, R.~Girshick, A.~Farhadi,
+  \href{https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Redmon_You_Only_Look_CVPR_2016_paper.html}{You
+  {Only} {Look} {Once}: {Unified}, {Real}-{Time} {Object} {Detection}}, pp.
+  779--788.
+\newline\urlprefix\url{https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Redmon_You_Only_Look_CVPR_2016_paper.html}
+
+\bibitem{redmon_yolov3_2018}
+J.~Redmon, A.~Farhadi, Yolov3: {An} incremental improvement.
+
+\bibitem{bochkovskiy_yolov4_2020}
+A.~Bochkovskiy, C.-Y. Wang, H.-Y.~M. Liao, Yolov4: {Optimal} speed and accuracy
+  of object detection.
+
+\bibitem{liu_ssd_2016}
+W.~Liu, D.~Anguelov, D.~Erhan, C.~Szegedy, S.~Reed, C.-Y. Fu, A.~C. Berg,
+  {SSD}: {Single} {Shot} {MultiBox} {Detector}, in: B.~Leibe, J.~Matas,
+  N.~Sebe, M.~Welling (Eds.), Computer {Vision} – {ECCV} 2016, Lecture
+  {Notes} in {Computer} {Science}, Springer International Publishing, pp.
+  21--37.
+\newblock \href {https://doi.org/10.1007/978-3-319-46448-0_2}
+  {\path{doi:10.1007/978-3-319-46448-0_2}}.
+
+\bibitem{lin_focal_2020}
+T.-Y. Lin, P.~Goyal, R.~Girshick, K.~He, P.~Dollár,
+  \href{https://ieeexplore.ieee.org/document/8417976}{Focal {Loss} for {Dense}
+  {Object} {Detection}} 42~(2)  318--327, conference Name: IEEE Transactions on
+  Pattern Analysis and Machine Intelligence.
+\newblock \href {https://doi.org/10.1109/TPAMI.2018.2858826}
+  {\path{doi:10.1109/TPAMI.2018.2858826}}.
+\newline\urlprefix\url{https://ieeexplore.ieee.org/document/8417976}
+
+\bibitem{lin_feature_2017}
+T.-Y. Lin, P.~Dollár, R.~Girshick, K.~He, B.~Hariharan, S.~Belongie, Feature
+  pyramid networks for object detection, in: Proceedings of the {IEEE}
+  conference on computer vision and pattern recognition, pp. 2117--2125.
+
+\bibitem{tan_efficientdet_2020}
+M.~Tan, R.~Pang, Q.~V. Le, Efficientdet: {Scalable} and efficient object
+  detection, in: Proceedings of the {IEEE}/{CVF} conference on computer vision
+  and pattern recognition, pp. 10781--10790.
+
+\bibitem{tan_efficientnet_2019}
+M.~Tan, Q.~Le, {EfficientNet}: {Rethinking} model scaling for convolutional
+  neural networks, in: International conference on machine learning, PMLR, pp.
+  6105--6114.
+
+\bibitem{bodla_soft-nmsimproving_2017}
+N.~Bodla, B.~Singh, R.~Chellappa, L.~S. Davis, Soft-{NMS}–improving object
+  detection with one line of code, in: Proceedings of the {IEEE} international
+  conference on computer vision, pp. 5561--5569.
+
+\bibitem{liu_adaptive_2019}
+S.~Liu, D.~Huang, Y.~Wang, Adaptive {NMS}: {Refining} pedestrian detection in a
+  crowd, in: Proceedings of the {IEEE}/{CVF} conference on computer vision and
+  pattern recognition, pp. 6459--6468.
+
+\bibitem{husham_al-badri_adaptive_2023}
+A.~Husham Al-Badri, N.~Azman~Ismail, K.~Al-Dulaimi, G.~Ahmed~Salman, M.~Sah
+  Hj~Salam,
+  \href{https://www.sciencedirect.com/science/article/pii/S0957417423001355}{Adaptive
+  {Non}-{Maximum} {Suppression} for improving performance of \textit{{Rumex}}
+  detection}, Expert Systems with Applications 219 (2023) 119634.
+\newblock \href {https://doi.org/10.1016/j.eswa.2023.119634}
+  {\path{doi:10.1016/j.eswa.2023.119634}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0957417423001355}
+
+\bibitem{jiang_non-maximum_2024}
+H.~Jiang, X.~Zhang, S.~Xiang,
+  \href{https://ieeexplore.ieee.org/document/10175568}{Non-{Maximum}
+  {Suppression} {Guided} {Label} {Assignment} for {Object} {Detection} in
+  {Crowd} {Scenes}}, IEEE Transactions on Multimedia 26 (2024) 2207--2218,
+  conference Name: IEEE Transactions on Multimedia.
+\newblock \href {https://doi.org/10.1109/TMM.2023.3293333}
+  {\path{doi:10.1109/TMM.2023.3293333}}.
+\newline\urlprefix\url{https://ieeexplore.ieee.org/document/10175568}
+
+\bibitem{shi_similarity_2024}
+S.~Shi, Q.~Fang, X.~Xu, T.~Zhao,
+  \href{https://ieeexplore.ieee.org/document/10801448}{Similarity
+  {Distance}-{Based} {Label} {Assignment} for {Tiny} {Object} {Detection}}, in:
+  2024 {IEEE}/{RSJ} {International} {Conference} on {Intelligent} {Robots} and
+  {Systems} ({IROS}), 2024, pp. 13711--13718, iSSN: 2153-0866.
+\newblock \href {https://doi.org/10.1109/IROS58592.2024.10801448}
+  {\path{doi:10.1109/IROS58592.2024.10801448}}.
+\newline\urlprefix\url{https://ieeexplore.ieee.org/document/10801448}
+
+\bibitem{carion_end_end_2020}
+N.~Carion, F.~Massa, G.~Synnaeve, N.~Usunier, A.~Kirillov, S.~Zagoruyko,
+  End-to-{End} {Object} {Detection} with {Transformers}, in: A.~Vedaldi,
+  H.~Bischof, T.~Brox, J.-M. Frahm (Eds.), Computer {Vision} – {ECCV} 2020,
+  Lecture {Notes} in {Computer} {Science}, Springer International Publishing,
+  pp. 213--229.
+\newblock \href {https://doi.org/10.1007/978-3-030-58452-8\_13}
+  {\path{doi:10.1007/978-3-030-58452-8\_13}}.
+
+\bibitem{zhu_deformable_2020}
+X.~Zhu, W.~Su, L.~Lu, B.~Li, X.~Wang, J.~Dai, Deformable {DETR}: {Deformable}
+  transformers for end-to-end object detection.
+
+\bibitem{dai_dynamic_2021}
+X.~Dai, Y.~Chen, J.~Yang, P.~Zhang, L.~Yuan, L.~Zhang,
+  \href{https://openaccess.thecvf.com/content/ICCV2021/html/Dai\_Dynamic\_DETR\_End-to-End\_Object\_Detection\_With\_Dynamic\_Attention\_ICCV\_2021\_paper.html}{Dynamic
+  {DETR}: {End}-to-{End} {Object} {Detection} {With} {Dynamic} {Attention}},
+  pp. 2988--2997.
+\newline\urlprefix\url{https://openaccess.thecvf.com/content/ICCV2021/html/Dai\_Dynamic\_DETR\_End-to-End\_Object\_Detection\_With\_Dynamic\_Attention\_ICCV\_2021\_paper.html}
+
+\bibitem{jia_detrs_2023}
+D.~Jia, Y.~Yuan, H.~He, X.~Wu, H.~Yu, W.~Lin, L.~Sun, C.~Zhang, H.~Hu, {DETRs}
+  with {Hybrid} {Matching}, in: Proceedings of the {IEEE}/{CVF} conference on
+  computer vision and pattern recognition, 2023, pp. 19702--19712.
+
+\bibitem{huang_teach-detr_2023}
+L.~Huang, K.~Lu, G.~Song, L.~Wang, S.~Liu, Y.~Liu, H.~Li,
+  \href{https://ieeexplore.ieee.org/document/10264211}{Teach-{DETR}: {Better}
+  {Training} {DETR} {With} {Teachers}} 45~(12)  15759--15771, conference Name:
+  IEEE Transactions on Pattern Analysis and Machine Intelligence.
+\newblock \href {https://doi.org/10.1109/TPAMI.2023.3319387}
+  {\path{doi:10.1109/TPAMI.2023.3319387}}.
+\newline\urlprefix\url{https://ieeexplore.ieee.org/document/10264211}
+
+\bibitem{long_fully_2015}
+J.~Long, E.~Shelhamer, T.~Darrell, Fully convolutional networks for semantic
+  segmentation, in: Proceedings of the {IEEE} conference on computer vision and
+  pattern recognition, pp. 3431--3440.
+
+\bibitem{noh_learning_2015}
+H.~Noh, S.~Hong, B.~Han, Learning deconvolution network for semantic
+  segmentation, in: Proceedings of the {IEEE} international conference on
+  computer vision, pp. 1520--1528.
+
+\bibitem{badrinarayanan_segnet_2017}
+V.~Badrinarayanan, A.~Kendall, R.~Cipolla, Segnet: {A} deep convolutional
+  encoder-decoder architecture for image segmentation 39~(12)  2481--2495,
+  publisher: IEEE.
+
+\bibitem{chaurasia_linknet_2017}
+A.~Chaurasia, E.~Culurciello, Linknet: {Exploiting} encoder representations for
+  efficient semantic segmentation, in: 2017 {IEEE} visual communications and
+  image processing ({VCIP}), IEEE, pp. 1--4.
+
+\bibitem{he_mask_2017}
+K.~He, G.~Gkioxari, P.~Dollár, R.~Girshick, Mask {R}-{CNN}, in: Proceedings of
+  the {IEEE} international conference on computer vision, pp. 2961--2969.
+
+\bibitem{liu_path_2018}
+S.~Liu, L.~Qi, H.~Qin, J.~Shi, J.~Jia, Path aggregation network for instance
+  segmentation, in: Proceedings of the {IEEE} conference on computer vision and
+  pattern recognition, pp. 8759--8768.
+
+\bibitem{chen_masklab_2018}
+L.-C. Chen, A.~Hermans, G.~Papandreou, F.~Schroff, P.~Wang, H.~Adam, {MaskLab}:
+  {Instance} segmentation by refining object detection with semantic and
+  direction features, in: Proceedings of the {IEEE} conference on computer
+  vision and pattern recognition, pp. 4013--4022.
+
+\bibitem{liu_multi-stage_2023}
+Q.~Liu, Y.~Dong, X.~Li,
+  \href{https://www.sciencedirect.com/science/article/pii/S0925231223002254}{Multi-stage
+  context refinement network for semantic segmentation} 535  53--63.
+\newblock \href {https://doi.org/10.1016/j.neucom.2023.03.006}
+  {\path{doi:10.1016/j.neucom.2023.03.006}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0925231223002254}
+
+\bibitem{liu_covariance_2022}
+Y.~Liu, Y.~Chen, P.~Lasang, Q.~Sun,
+  \href{https://ieeexplore.ieee.org/document/9206128}{Covariance {Attention}
+  for {Semantic} {Segmentation}} 44~(4)  1805--1818, conference Name: IEEE
+  Transactions on Pattern Analysis and Machine Intelligence.
+\newblock \href {https://doi.org/10.1109/TPAMI.2020.3026069}
+  {\path{doi:10.1109/TPAMI.2020.3026069}}.
+\newline\urlprefix\url{https://ieeexplore.ieee.org/document/9206128}
+
+\bibitem{strudel_segmenter_2021}
+R.~Strudel, R.~Garcia, I.~Laptev, C.~Schmid, Segmenter: {Transformer} for
+  semantic segmentation, in: Proceedings of the {IEEE}/{CVF} international
+  conference on computer vision, pp. 7262--7272.
+
+\bibitem{hatamizadeh_global_2023}
+A.~Hatamizadeh, H.~Yin, G.~Heinrich, J.~Kautz, P.~Molchanov, Global context
+  vision transformers, in: International {Conference} on {Machine} {Learning},
+  PMLR, pp. 12633--12646.
+
+\bibitem{shi_transformer_2023}
+H.~Shi, M.~Hayat, J.~Cai, Transformer scale gate for semantic segmentation, in:
+  Proceedings of the {IEEE}/{CVF} {Conference} on {Computer} {Vision} and
+  {Pattern} {Recognition}, pp. 3051--3060.
+
+\bibitem{radford_unsupervised_2015}
+A.~Radford, L.~Metz, S.~Chintala, Unsupervised representation learning with
+  deep convolutional generative adversarial networks.
+
+\bibitem{zhang_stackgan_2017}
+H.~Zhang, T.~Xu, H.~Li, S.~Zhang, X.~Wang, X.~Huang, D.~N. Metaxas, {StackGAN}:
+  {Text} to photo-realistic image synthesis with stacked generative adversarial
+  networks, in: Proceedings of the {IEEE} international conference on computer
+  vision, pp. 5907--5915.
+
+\bibitem{zhang_stackgan_2018}
+H.~Zhang, T.~Xu, H.~Li, S.~Zhang, X.~Wang, X.~Huang, D.~N. Metaxas,
+  {StackGAN}++: {Realistic} image synthesis with stacked generative adversarial
+  networks 41~(8)  1947--1962, publisher: IEEE.
+
+\bibitem{zhang_photographic_2018}
+Z.~Zhang, Y.~Xie, L.~Yang, Photographic text-to-image synthesis with a
+  hierarchically-nested adversarial network, in: Proceedings of the {IEEE}
+  conference on computer vision and pattern recognition, pp. 6199--6208.
+
+\bibitem{zhu_dm-gan_2019}
+M.~Zhu, P.~Pan, W.~Chen, Y.~Yang, {DM}-{GAN}: {Dynamic} memory generative
+  adversarial networks for text-to-image synthesis, in: Proceedings of the
+  {IEEE}/{CVF} conference on computer vision and pattern recognition, pp.
+  5802--5810.
+
+\bibitem{xu_attngan_2018}
+T.~Xu, P.~Zhang, Q.~Huang, H.~Zhang, Z.~Gan, X.~Huang, X.~He, {AttnGAN}:
+  {Fine}-grained text to image generation with attentional generative
+  adversarial networks, in: Proceedings of the {IEEE} conference on computer
+  vision and pattern recognition, pp. 1316--1324.
+
+\bibitem{sun_resfpa-gan_2019}
+J.~Sun, Y.~Zhou, B.~Zhang, {ResFPA}-{GAN}: {Text}-to-image synthesis with
+  generative adversarial network based on residual block feature pyramid
+  attention, in: 2019 {IEEE} {International} {Conference} on {Advanced}
+  {Robotics} and its {Social} {Impacts} ({ARSO}), IEEE, pp. 317--322.
+
+\bibitem{cai_dualattn-gan_2019}
+Y.~Cai, X.~Wang, Z.~Yu, F.~Li, P.~Xu, Y.~Li, L.~Li,
+  \href{https://ieeexplore.ieee.org/document/8930532?denied=}{Dualattn-{GAN}:
+  {Text} to {Image} {Synthesis} {With} {Dual} {Attentional} {Generative}
+  {Adversarial} {Network}} 7  183706--183716, conference Name: IEEE Access.
+\newblock \href {https://doi.org/10.1109/ACCESS.2019.2958864}
+  {\path{doi:10.1109/ACCESS.2019.2958864}}.
+\newline\urlprefix\url{https://ieeexplore.ieee.org/document/8930532?denied=}
+
+\bibitem{tao_df-gan_2022}
+M.~Tao, H.~Tang, F.~Wu, X.-Y. Jing, B.-K. Bao, C.~Xu, {DF}-{GAN}: {A} simple
+  and effective baseline for text-to-image synthesis, in: Proceedings of the
+  {IEEE}/{CVF} {Conference} on {Computer} {Vision} and {Pattern} {Recognition},
+  pp. 16515--16525.
+
+\bibitem{yang_dmf-gan_2024}
+B.~Yang, X.~Xiang, W.~Kong, J.~Zhang, Y.~Peng,
+  \href{https://ieeexplore.ieee.org/document/10413630}{{DMF}-{GAN}: {Deep}
+  {Multimodal} {Fusion} {Generative} {Adversarial} {Networks} for
+  {Text}-to-{Image} {Synthesis}}  1--13Conference Name: IEEE Transactions on
+  Multimedia.
+\newblock \href {https://doi.org/10.1109/TMM.2024.3358086}
+  {\path{doi:10.1109/TMM.2024.3358086}}.
+\newline\urlprefix\url{https://ieeexplore.ieee.org/document/10413630}
+
+\bibitem{jiang_-gan_2024}
+B.~Jiang, W.~Zeng, C.~Yang, R.~Wang, B.~Zhang,
+  \href{https://doi.org/10.1007/s11042-023-16377-8}{{DE}-{GAN}: {Text}-to-image
+  synthesis with dual and efficient fusion model} 83~(8)  23839--23852.
+\newblock \href {https://doi.org/10.1007/s11042-023-16377-8}
+  {\path{doi:10.1007/s11042-023-16377-8}}.
+\newline\urlprefix\url{https://doi.org/10.1007/s11042-023-16377-8}
+
+\bibitem{calvo_intelligent_2000}
+R.~A. Calvo, H.~A. Ceccatto,
+  \href{https://content.iospress.com/articles/intelligent-data-analysis/ida00028}{Intelligent
+  document classification} 4~(5)  411--420, publisher: IOS Press.
+\newblock \href {https://doi.org/10.3233/IDA-2000-4503}
+  {\path{doi:10.3233/IDA-2000-4503}}.
+\newline\urlprefix\url{https://content.iospress.com/articles/intelligent-data-analysis/ida00028}
+
+\bibitem{yu_latent_2008}
+B.~Yu, Z.-b. Xu, C.-h. Li,
+  \href{https://www.sciencedirect.com/science/article/pii/S0950705108000993}{Latent
+  semantic analysis for text categorization using neural network} 21~(8)
+  900--904.
+\newblock \href {https://doi.org/10.1016/j.knosys.2008.03.045}
+  {\path{doi:10.1016/j.knosys.2008.03.045}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0950705108000993}
+
+\bibitem{arevian_recurrent_2007}
+G.~Arevian,
+  \href{https://ieeexplore.ieee.org/abstract/document/4427112}{Recurrent
+  {Neural} {Networks} for {Robust} {Real}-{World} {Text} {Classification}}, in:
+  {IEEE}/{WIC}/{ACM} {International} {Conference} on {Web} {Intelligence}
+  ({WI}'07), pp. 326--329.
+\newblock \href {https://doi.org/10.1109/WI.2007.126}
+  {\path{doi:10.1109/WI.2007.126}}.
+\newline\urlprefix\url{https://ieeexplore.ieee.org/abstract/document/4427112}
+
+\bibitem{huang_optimization_2020}
+J.~Huang, Y.~Feng,
+  \href{https://dl.acm.org/doi/10.1145/3373509.3373573}{Optimization of
+  {Recurrent} {Neural} {Networks} on {Natural} {Language} {Processing}}, in:
+  Proceedings of the 2019 8th {International} {Conference} on {Computing} and
+  {Pattern} {Recognition}, {ICCPR} '19, Association for Computing Machinery,
+  pp. 39--45.
+\newblock \href {https://doi.org/10.1145/3373509.3373573}
+  {\path{doi:10.1145/3373509.3373573}}.
+\newline\urlprefix\url{https://dl.acm.org/doi/10.1145/3373509.3373573}
+
+\bibitem{wang_convolutional_2019}
+R.~Wang, Z.~Li, J.~Cao, T.~Chen, L.~Wang,
+  \href{https://ieeexplore.ieee.org/document/8852406}{Convolutional {Recurrent}
+  {Neural} {Networks} for {Text} {Classification}}, in: 2019 {International}
+  {Joint} {Conference} on {Neural} {Networks} ({IJCNN}), pp. 1--6, iSSN:
+  2161-4407.
+\newblock \href {https://doi.org/10.1109/IJCNN.2019.8852406}
+  {\path{doi:10.1109/IJCNN.2019.8852406}}.
+\newline\urlprefix\url{https://ieeexplore.ieee.org/document/8852406}
+
+\bibitem{liu_bidirectional_2019}
+G.~Liu, J.~Guo,
+  \href{https://www.sciencedirect.com/science/article/pii/S0925231219301067}{Bidirectional
+  {LSTM} with attention mechanism and convolutional layer for text
+  classification} 337  325--338.
+\newblock \href {https://doi.org/10.1016/j.neucom.2019.01.078}
+  {\path{doi:10.1016/j.neucom.2019.01.078}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0925231219301067}
+
+\bibitem{lin_structured_2017}
+Z.~Lin, M.~Feng, C.~N.~d. Santos, M.~Yu, B.~Xiang, B.~Zhou, Y.~Bengio, A
+  structured self-attentive sentence embedding.
+
+\bibitem{li_bidirectional_2020}
+W.~Li, F.~Qi, M.~Tang, Z.~Yu,
+  \href{https://www.sciencedirect.com/science/article/pii/S0925231220300254}{Bidirectional
+  {LSTM} with self-attention mechanism and multi-channel features for sentiment
+  classification} 387  63--77.
+\newblock \href {https://doi.org/10.1016/j.neucom.2020.01.006}
+  {\path{doi:10.1016/j.neucom.2020.01.006}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0925231220300254}
+
+\bibitem{devlin_bert_2018}
+J.~Devlin, M.-W. Chang, K.~Lee, K.~Toutanova, {BERT}: {Pre}-training of deep
+  bidirectional transformers for language understanding.
+
+\bibitem{lan_albert_2019}
+Z.~Lan, M.~Chen, S.~Goodman, K.~Gimpel, P.~Sharma, R.~Soricut, {ALBERT}: {A}
+  lite bert for self-supervised learning of language representations.
+
+\bibitem{liu_roberta_2019}
+Y.~Liu, M.~Ott, N.~Goyal, J.~Du, M.~Joshi, D.~Chen, O.~Levy, M.~Lewis,
+  L.~Zettlemoyer, V.~Stoyanov, {RoBERTa}: {A} robustly optimized bert
+  pretraining approach.
+
+\bibitem{he_deberta_2020}
+P.~He, X.~Liu, J.~Gao, W.~Chen, {DeBERTa}: {Decoding}-enhanced bert with
+  disentangled attention.
+
+\bibitem{rodrawangpai_improving_2022}
+B.~Rodrawangpai, W.~Daungjaiboon,
+  \href{https://www.sciencedirect.com/science/article/pii/S2666827022000792}{Improving
+  text classification with transformers and layer normalization} 10  100403.
+\newblock \href {https://doi.org/10.1016/j.mlwa.2022.100403}
+  {\path{doi:10.1016/j.mlwa.2022.100403}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S2666827022000792}
+
+\bibitem{murfi_bert-based_2024}
+H.~Murfi, {Syamsyuriani}, T.~Gowandi, G.~Ardaneswari, S.~Nurrohmah,
+  \href{https://www.sciencedirect.com/science/article/pii/S1568494623011304}{{BERT}-based
+  combination of convolutional and recurrent neural network for indonesian
+  sentiment analysis} 151  111112.
+\newblock \href {https://doi.org/10.1016/j.asoc.2023.111112}
+  {\path{doi:10.1016/j.asoc.2023.111112}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S1568494623011304}
+
+\bibitem{hao_sentiment_2023}
+S.~Hao, P.~Zhang, S.~Liu, Y.~Wang,
+  \href{https://doi.org/10.1007/s00521-023-08226-4}{Sentiment recognition and
+  analysis method of official document text based on {BERT}–{SVM} model}
+  35~(35)  24621--24632.
+\newblock \href {https://doi.org/10.1007/s00521-023-08226-4}
+  {\path{doi:10.1007/s00521-023-08226-4}}.
+\newline\urlprefix\url{https://doi.org/10.1007/s00521-023-08226-4}
+
+\bibitem{wang_joint_2018}
+G.~Wang, C.~Li, W.~Wang, Y.~Zhang, D.~Shen, X.~Zhang, R.~Henao, L.~Carin, Joint
+  embedding of words and labels for text classification.
+
+\bibitem{yan_r-transformer_bilstm_2023}
+Y.~Yan, F.~Liu, X.~Zhuang, J.~Ju,
+  \href{https://doi.org/10.1007/s11063-022-10938-y}{An
+  {R}-{Transformer}\_bilstm {Model} {Based} on {Attention} for {Multi}-label
+  {Text} {Classification}} 55~(2)  1293--1316.
+\newblock \href {https://doi.org/10.1007/s11063-022-10938-y}
+  {\path{doi:10.1007/s11063-022-10938-y}}.
+\newline\urlprefix\url{https://doi.org/10.1007/s11063-022-10938-y}
+
+\bibitem{zhu_bert-based_2023}
+X.~Zhu, Y.~Zhu, L.~Zhang, Y.~Chen,
+  \href{https://doi.org/10.1007/s10489-022-03702-1}{A {BERT}-based
+  multi-semantic learning model with aspect-aware enhancement for aspect
+  polarity classification} 53~(4)  4609--4623.
+\newblock \href {https://doi.org/10.1007/s10489-022-03702-1}
+  {\path{doi:10.1007/s10489-022-03702-1}}.
+\newline\urlprefix\url{https://doi.org/10.1007/s10489-022-03702-1}
+
+\bibitem{sutskever_sequence_2014}
+I.~Sutskever, O.~Vinyals, Q.~V. Le, Sequence to sequence learning with neural
+  networks 27.
+
+\bibitem{stahlberg_neural_2020}
+F.~Stahlberg, Neural machine translation: {A} review 69  343--418.
+
+\bibitem{bahdanau_neural_2014}
+D.~Bahdanau, K.~Cho, Y.~Bengio, Neural machine translation by jointly learning
+  to align and translate.
+
+\bibitem{luong_effective_2015}
+M.-T. Luong, H.~Pham, C.~D. Manning, Effective approaches to attention-based
+  neural machine translation.
+
+\bibitem{wu_googles_2016}
+Y.~Wu, M.~Schuster, Z.~Chen, Q.~V. Le, M.~Norouzi, W.~Macherey, M.~Krikun,
+  Y.~Cao, Q.~Gao, K.~Macherey, et~al., Google's neural machine translation
+  system: {Bridging} the gap between human and machine translation.
+
+\bibitem{lupo_encoding_2023}
+L.~Lupo, M.~Dinarelli, L.~Besacier, Encoding {Sentence} {Position} in
+  {Context}-{Aware} {Neural} {Machine} {Translation} with {Concatenation}.
+
+\bibitem{rippeth_improving_2023}
+E.~Rippeth, M.~Carpuat, K.~Duh, M.~Post, Improving {Word} {Sense}
+  {Disambiguation} in {Neural} {Machine} {Translation} with {Salient}
+  {Document} {Context}.
+
+\bibitem{wu_study_2022}
+X.~Wu, Y.~Xia, J.~Zhu, L.~Wu, S.~Xie, T.~Qin, A study of {BERT} for
+  context-aware neural machine translation 111~(3)  917--935, publisher:
+  Springer.
+
+\bibitem{kim_towards_2023}
+D.~Kim, Y.~Baek, S.~Yang, J.~Choo, Towards {Formality}-{Aware} {Neural}
+  {Machine} {Translation} by {Leveraging} {Context} {Information}, in: Findings
+  of the {Association} for {Computational} {Linguistics}: {EMNLP} 2023, pp.
+  7384--7392.
+
+\bibitem{gezmu_transformers_2022}
+A.~M. Gezmu, A.~Nürnberger, Transformers for {Low}-resource {Neural} {Machine}
+  {Translation}., in: {ICAART} (1), pp. 459--466.
+
+\bibitem{araabi_optimizing_2020}
+A.~Araabi, C.~Monz,
+  \href{https://aclanthology.org/2020.coling-main.304}{Optimizing {Transformer}
+  for {Low}-{Resource} {Neural} {Machine} {Translation}}, in: D.~Scott, N.~Bel,
+  C.~Zong (Eds.), Proceedings of the 28th {International} {Conference} on
+  {Computational} {Linguistics}, International Committee on Computational
+  Linguistics, pp. 3429--3435.
+\newblock \href {https://doi.org/10.18653/v1/2020.coling-main.304}
+  {\path{doi:10.18653/v1/2020.coling-main.304}}.
+\newline\urlprefix\url{https://aclanthology.org/2020.coling-main.304}
+
+\bibitem{meetei_cues_2023}
+L.~S. Meetei, A.~Singh, T.~D. Singh, S.~Bandyopadhyay, Do cues in a video help
+  in handling rare words in a machine translation system under a low-resource
+  setting? 3  100016, publisher: Elsevier.
+
+\bibitem{faheem_improving_2024}
+M.~A. Faheem, K.~T. Wassif, H.~Bayomi, S.~M. Abdou,
+  \href{https://www.nature.com/articles/s41598-023-51090-4}{Improving neural
+  machine translation for low resource languages through non-parallel corpora:
+  a case study of {Egyptian} dialect to modern standard {Arabic} translation},
+  Scientific Reports 14~(1) (2024) 2265, publisher: Nature Publishing Group.
+\newblock \href {https://doi.org/10.1038/s41598-023-51090-4}
+  {\path{doi:10.1038/s41598-023-51090-4}}.
+\newline\urlprefix\url{https://www.nature.com/articles/s41598-023-51090-4}
+
+\bibitem{li_towards_2024}
+B.~Li, Y.~Weng, F.~Xia, H.~Deng, Towards better {Chinese}-centric neural
+  machine translation for low-resource languages 84  101566, publisher:
+  Elsevier.
+
+\bibitem{nie_attention-based_2017}
+Y.-p. Nie, Y.~Han, J.-m. Huang, B.~Jiao, A.-p. Li, Attention-based
+  encoder-decoder model for answer selection in question answering 18~(4)
+  535--544, publisher: Springer.
+
+\bibitem{yin_neural_2015}
+J.~Yin, X.~Jiang, Z.~Lu, L.~Shang, H.~Li, X.~Li, Neural generative question
+  answering.
+
+\bibitem{li_deep_2016}
+J.~Li, W.~Monroe, A.~Ritter, M.~Galley, J.~Gao, D.~Jurafsky, Deep reinforcement
+  learning for dialogue generation.
+
+\bibitem{wu_building_2020}
+J.~Wu, T.~Mu, J.~Thiyagalingam, J.~Y. Goulermas, Building interactive
+  sentence-aware representation based on generative language model for
+  community question answering 389  93--107, publisher: Elsevier.
+
+\bibitem{li_incremental_2019}
+Z.~Li, C.~Niu, F.~Meng, Y.~Feng, Q.~Li, J.~Zhou, Incremental transformer with
+  deliberation decoder for document grounded conversations.
+
+\bibitem{alrowili_biom-transformers_2021}
+S.~Alrowili, K.~Vijay-Shanker, {BioM}-transformers: building large biomedical
+  language models with {BERT}, {ALBERT} and {ELECTRA}, in: Proceedings of the
+  20th workshop on biomedical language processing, pp. 221--227.
+
+\bibitem{alrowili_exploring_2022}
+S.~Alrowili, K.~Vijay-Shanker, Exploring {Biomedical} {Question} {Answering}
+  with {BioM}-{Transformers} {At} {BioASQ10B} challenge: {Findings} and
+  {Techniques}., in: {CLEF} ({Working} {Notes}), pp. 222--234.
+
+\bibitem{ma_t-bertsum_2021}
+T.~Ma, Q.~Pan, H.~Rong, Y.~Qian, Y.~Tian, N.~Al-Nabhan, T-{BERTSum}:
+  {Topic}-aware text summarization based on bert 9~(3)  879--890, publisher:
+  IEEE.
+
+\bibitem{li_feature-aware_2023}
+X.~Li, K.~Mao, F.~Lin, Z.~Feng,
+  \href{https://www.sciencedirect.com/science/article/pii/S0925231223004757}{Feature-aware
+  conditional {GAN} for category text generation}, Neurocomputing 547 (2023)
+  126352.
+\newblock \href {https://doi.org/10.1016/j.neucom.2023.126352}
+  {\path{doi:10.1016/j.neucom.2023.126352}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0925231223004757}
+
+\bibitem{kwon_class_2024}
+N.~Kwon, Y.~Yoo, B.~Lee,
+  \href{https://www.sciencedirect.com/science/article/pii/S1568494624006677}{Class
+  conditioned text generation with style attention mechanism for embracing
+  diversity}, Applied Soft Computing 163 (2024) 111893.
+\newblock \href {https://doi.org/10.1016/j.asoc.2024.111893}
+  {\path{doi:10.1016/j.asoc.2024.111893}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S1568494624006677}
+
+\bibitem{xie_pre-trained_2022}
+Q.~Xie, J.~A. Bishop, P.~Tiwari, S.~Ananiadou, Pre-trained language models with
+  domain knowledge for biomedical extractive summarization 252  109460,
+  publisher: Elsevier.
+
+\bibitem{hajipoor_gptgan_2025}
+O.~Hajipoor, A.~Nickabadi, M.~M. Homayounpour,
+  \href{https://www.sciencedirect.com/science/article/pii/S0925231224016369}{{GPTGAN}:
+  {Utilizing} the {GPT} language model and {GAN} to enhance adversarial text
+  generation}, Neurocomputing 617 (2025) 128865.
+\newblock \href {https://doi.org/10.1016/j.neucom.2024.128865}
+  {\path{doi:10.1016/j.neucom.2024.128865}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0925231224016369}
+
+\bibitem{weiser1991computer}
+M.~Weiser, The computer for the 21 st century 265~(3)  94--105.
+
+\bibitem{he2020developing}
+Y.~He, S.~Nazir, B.~Nie, S.~Khan, J.~Zhang, Developing an efficient deep
+  learning-based trusted model for pervasive computing using an lstm-based
+  classification model 2020  1--6.
+
+\bibitem{ige2022survey}
+A.~O. Ige, M.~H.~M. Noor, A survey on unsupervised learning for wearable
+  sensor-based activity recognition  109363.
+
+\bibitem{singh2017stock}
+R.~Singh, S.~Srivastava, Stock prediction using deep learning 76  18569--18584.
+
+\bibitem{zhang2021hoba}
+X.~Zhang, Y.~Han, W.~Xu, Q.~Wang, Hoba: A novel feature engineering methodology
+  for credit card fraud detection with a deep learning architecture 557
+  302--316.
+
+\bibitem{lei2020deep}
+Y.~Lei, Q.~Peng, Y.~Shen, Deep learning for algorithmic trading: enhancing macd
+  strategy, in: Proceedings of the 2020 6th International Conference on
+  Computing and Artificial Intelligence, pp. 51--57.
+
+\bibitem{zhang2019comprehensive}
+H.-B. Zhang, Y.-X. Zhang, B.~Zhong, Q.~Lei, L.~Yang, J.-X. Du, D.-S. Chen, A
+  comprehensive survey of vision-based human action recognition methods 19~(5)
+  1005.
+
+\bibitem{dang2020sensor}
+L.~M. Dang, K.~Min, H.~Wang, M.~J. Piran, C.~H. Lee, H.~Moon, Sensor-based and
+  vision-based human activity recognition: A comprehensive survey 108  107561.
+
+\bibitem{gao2021danhar}
+W.~Gao, L.~Zhang, Q.~Teng, J.~He, H.~Wu, Danhar: Dual attention network for
+  multimodal human activity recognition using wearable sensors 111  107728.
+
+\bibitem{gupta2021deep}
+S.~Gupta, Deep learning based human activity recognition (har) using wearable
+  sensor data 1~(2)  100046.
+
+\bibitem{erdacs2021human}
+C.~B. Erdas, S.~Guney, Human activity recognition by using different deep
+  learning approaches for wearable sensors 53  1795--1809.
+
+\bibitem{ragab2020random}
+M.~G. Ragab, S.~J. Abdulkadir, N.~Aziz, Random search one dimensional cnn for
+  human activity recognition, in: 2020 International Conference on
+  Computational Intelligence (ICCI), IEEE, pp. 86--91.
+
+\bibitem{banjarey2022human}
+K.~Banjarey, S.~P. Sahu, D.~K. Dewangan, Human activity recognition using 1d
+  convolutional neural network, in: Sentimental Analysis and Deep Learning:
+  Proceedings of ICSADL 2021, Springer, pp. 691--702.
+
+\bibitem{baraka_similarity_2023}
+A.~M.~A. Baraka, M.~H. Mohd~Noor,
+  \href{https://ieeexplore.ieee.org/document/10188611}{Similarity
+  {Segmentation} {Approach} for {Sensor}-{Based} {Activity} {Recognition}},
+  IEEE Sensors Journal 23~(17) (2023) 19704--19716, conference Name: IEEE
+  Sensors Journal.
+\newblock \href {https://doi.org/10.1109/JSEN.2023.3295778}
+  {\path{doi:10.1109/JSEN.2023.3295778}}.
+\newline\urlprefix\url{https://ieeexplore.ieee.org/document/10188611}
+
+\bibitem{baraka_deep_2024}
+A.~Baraka, M.~H. Mohd~Noor,
+  \href{https://doi.org/10.1007/s11042-024-18933-2}{Deep similarity
+  segmentation model for sensor-based activity recognition}, Multimedia Tools
+  and Applications (May 2024).
+\newblock \href {https://doi.org/10.1007/s11042-024-18933-2}
+  {\path{doi:10.1007/s11042-024-18933-2}}.
+\newline\urlprefix\url{https://doi.org/10.1007/s11042-024-18933-2}
+
+\bibitem{shuvo2020hybrid}
+M.~M.~H. Shuvo, N.~Ahmed, K.~Nouduri, K.~Palaniappan, A hybrid approach for
+  human activity recognition with support vector machine and 1d convolutional
+  neural network, in: 2020 IEEE Applied Imagery Pattern Recognition Workshop
+  (AIPR), IEEE, pp. 1--5.
+
+\bibitem{han2022human}
+C.~Han, L.~Zhang, Y.~Tang, W.~Huang, F.~Min, J.~He, Human activity recognition
+  using wearable sensors by heterogeneous convolutional neural networks 198
+  116764.
+
+\bibitem{ige2023wsense}
+A.~O. Ige, M.~H.~M. Noor, Wsense: A robust feature learning module for
+  lightweight human activity recognition.
+
+\bibitem{deep_hybrid_2019}
+S.~Deep, X.~Zheng, \href{https://ieeexplore.ieee.org/document/9029136}{Hybrid
+  {Model} {Featuring} {CNN} and {LSTM} {Architecture} for {Human} {Activity}
+  {Recognition} on {Smartphone} {Sensor} {Data}}, in: 2019 20th {International}
+  {Conference} on {Parallel} and {Distributed} {Computing}, {Applications} and
+  {Technologies} ({PDCAT}), 2019, pp. 259--264, iSSN: 2640-6721.
+\newblock \href {https://doi.org/10.1109/PDCAT46702.2019.00055}
+  {\path{doi:10.1109/PDCAT46702.2019.00055}}.
+\newline\urlprefix\url{https://ieeexplore.ieee.org/document/9029136}
+
+\bibitem{luwe_wearable_2022}
+Y.~J. Luwe, C.~P. Lee, K.~M. Lim,
+  \href{https://www.mdpi.com/2227-9709/9/3/56}{Wearable {Sensor}-{Based}
+  {Human} {Activity} {Recognition} with {Hybrid} {Deep} {Learning} {Model}},
+  Informatics 9~(3) (2022) 56, number: 3 Publisher: Multidisciplinary Digital
+  Publishing Institute.
+\newblock \href {https://doi.org/10.3390/informatics9030056}
+  {\path{doi:10.3390/informatics9030056}}.
+\newline\urlprefix\url{https://www.mdpi.com/2227-9709/9/3/56}
+
+\bibitem{shi_novel_2023}
+L.-F. Shi, Z.-Y. Liu, K.-J. Zhou, Y.~Shi, X.~Jing,
+  \href{https://www.mdpi.com/1424-8220/23/2/849}{Novel {Deep} {Learning}
+  {Network} for {Gait} {Recognition} {Using} {Multimodal} {Inertial}
+  {Sensors}}, Sensors 23~(2) (2023) 849, number: 2 Publisher: Multidisciplinary
+  Digital Publishing Institute.
+\newblock \href {https://doi.org/10.3390/s23020849}
+  {\path{doi:10.3390/s23020849}}.
+\newline\urlprefix\url{https://www.mdpi.com/1424-8220/23/2/849}
+
+\bibitem{dua_inception_2023}
+N.~Dua, S.~N. Singh, V.~B. Semwal, S.~K. Challa,
+  \href{https://doi.org/10.1007/s11042-021-11885-x}{Inception inspired
+  {CNN}-{GRU} hybrid network for human activity recognition}, Multimedia Tools
+  and Applications 82~(4) (2023) 5369--5403.
+\newblock \href {https://doi.org/10.1007/s11042-021-11885-x}
+  {\path{doi:10.1007/s11042-021-11885-x}}.
+\newline\urlprefix\url{https://doi.org/10.1007/s11042-021-11885-x}
+
+\bibitem{imran_smart-wearable_2024}
+H.~A. Imran, Q.~Riaz, M.~Hussain, H.~Tahir, R.~Arshad,
+  \href{https://ieeexplore.ieee.org/document/10348511}{Smart-{Wearable}
+  {Sensors} and {CNN}-{BiGRU} {Model}: {A} {Powerful} {Combination} for {Human}
+  {Activity} {Recognition}}, IEEE Sensors Journal 24~(2) (2024) 1963--1974,
+  conference Name: IEEE Sensors Journal.
+\newblock \href {https://doi.org/10.1109/JSEN.2023.3338264}
+  {\path{doi:10.1109/JSEN.2023.3338264}}.
+\newline\urlprefix\url{https://ieeexplore.ieee.org/document/10348511}
+
+\bibitem{nafea_sensor-based_2021}
+O.~Nafea, W.~Abdul, G.~Muhammad, M.~Alsulaiman,
+  \href{https://www.mdpi.com/1424-8220/21/6/2141}{Sensor-{Based} {Human}
+  {Activity} {Recognition} with {Spatio}-{Temporal} {Deep} {Learning}}, Sensors
+  21~(6) (2021) 2141, number: 6 Publisher: Multidisciplinary Digital Publishing
+  Institute.
+\newblock \href {https://doi.org/10.3390/s21062141}
+  {\path{doi:10.3390/s21062141}}.
+\newline\urlprefix\url{https://www.mdpi.com/1424-8220/21/6/2141}
+
+\bibitem{khan_attention_2021}
+Z.~N. Khan, J.~Ahmad,
+  \href{https://www.sciencedirect.com/science/article/pii/S1568494621005925}{Attention
+  induced multi-head convolutional neural network for human activity
+  recognition}, Applied Soft Computing 110 (2021) 107671.
+\newblock \href {https://doi.org/10.1016/j.asoc.2021.107671}
+  {\path{doi:10.1016/j.asoc.2021.107671}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S1568494621005925}
+
+\bibitem{ige_deep_2023}
+A.~O. Ige, M.~H. Mohd~Noor,
+  \href{https://www.sciencedirect.com/science/article/pii/S1568494623009729}{A
+  deep local-temporal architecture with attention for lightweight human
+  activity recognition}, Applied Soft Computing 149 (2023) 110954.
+\newblock \href {https://doi.org/10.1016/j.asoc.2023.110954}
+  {\path{doi:10.1016/j.asoc.2023.110954}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S1568494623009729}
+
+\bibitem{gao_danhar_2021}
+W.~Gao, L.~Zhang, Q.~Teng, J.~He, H.~Wu,
+  \href{https://www.sciencedirect.com/science/article/pii/S1568494621006499}{{DanHAR}:
+  {Dual} {Attention} {Network} for multimodal human activity recognition using
+  wearable sensors}, Applied Soft Computing 111 (2021) 107728.
+\newblock \href {https://doi.org/10.1016/j.asoc.2021.107728}
+  {\path{doi:10.1016/j.asoc.2021.107728}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S1568494621006499}
+
+\bibitem{agac_resource-efficient_2024}
+S.~Agac, O.~D. Incel,
+  \href{https://www.sciencedirect.com/science/article/pii/S0045790624002027}{Resource-efficient,
+  sensor-based human activity recognition with lightweight deep models boosted
+  with attention}, Computers and Electrical Engineering 117 (2024) 109274.
+\newblock \href {https://doi.org/10.1016/j.compeleceng.2024.109274}
+  {\path{doi:10.1016/j.compeleceng.2024.109274}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0045790624002027}
+
+\bibitem{tang_triple_2022}
+Y.~Tang, L.~Zhang, Q.~Teng, F.~Min, A.~Song,
+  \href{https://ieeexplore.ieee.org/document/9669910}{Triple {Cross}-{Domain}
+  {Attention} on {Human} {Activity} {Recognition} {Using} {Wearable}
+  {Sensors}}, IEEE Transactions on Emerging Topics in Computational
+  Intelligence 6~(5) (2022) 1167--1176, conference Name: IEEE Transactions on
+  Emerging Topics in Computational Intelligence.
+\newblock \href {https://doi.org/10.1109/TETCI.2021.3136642}
+  {\path{doi:10.1109/TETCI.2021.3136642}}.
+\newline\urlprefix\url{https://ieeexplore.ieee.org/document/9669910}
+
+\bibitem{misra_rotate_2020}
+D.~Misra, T.~Nalamada, A.~U. Arasanipalai, Q.~Hou,
+  \href{http://arxiv.org/abs/2010.03045}{Rotate to {Attend}: {Convolutional}
+  {Triplet} {Attention} {Module}}, arXiv:2010.03045 [cs] (Nov. 2020).
+\newblock \href {https://doi.org/10.48550/arXiv.2010.03045}
+  {\path{doi:10.48550/arXiv.2010.03045}}.
+\newline\urlprefix\url{http://arxiv.org/abs/2010.03045}
+
+\bibitem{chen_transformer_2022}
+D.~Chen, S.~Yongchareon, E.~M.-K. Lai, J.~Yu, Q.~Z. Sheng, Y.~Li,
+  \href{https://ieeexplore.ieee.org/document/9826881}{Transformer {With}
+  {Bidirectional} {GRU} for {Nonintrusive}, {Sensor}-{Based} {Activity}
+  {Recognition} in a {Multiresident} {Environment}}, IEEE Internet of Things
+  Journal 9~(23) (2022) 23716--23727, conference Name: IEEE Internet of Things
+  Journal.
+\newblock \href {https://doi.org/10.1109/JIOT.2022.3190307}
+  {\path{doi:10.1109/JIOT.2022.3190307}}.
+\newline\urlprefix\url{https://ieeexplore.ieee.org/document/9826881}
+
+\bibitem{sun_efficient_2024}
+Y.~Sun, X.~Xu, X.~Tian, L.~Zhou, Y.~Li,
+  \href{https://www.sciencedirect.com/science/article/pii/S0952197624008637}{Efficient
+  human activity recognition: {A} deep convolutional transformer-based
+  contrastive self-supervised approach using wearable sensors}, Engineering
+  Applications of Artificial Intelligence 135 (2024) 108705.
+\newblock \href {https://doi.org/10.1016/j.engappai.2024.108705}
+  {\path{doi:10.1016/j.engappai.2024.108705}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0952197624008637}
+
+\bibitem{lattanzi_are_2025}
+E.~Lattanzi, L.~Calisti, C.~Contoli,
+  \href{https://dl.acm.org/doi/10.1145/3704137.3704171}{Are {Transformers} a
+  {Useful} {Tool} for {Tiny} devices in {Human} {Activity} {Recognition}?}, in:
+  Proceedings of the 2024 8th {International} {Conference} on {Advances} in
+  {Artificial} {Intelligence}, {ICAAI} '24, Association for Computing
+  Machinery, New York, NY, USA, 2025, pp. 339--344.
+\newblock \href {https://doi.org/10.1145/3704137.3704171}
+  {\path{doi:10.1145/3704137.3704171}}.
+\newline\urlprefix\url{https://dl.acm.org/doi/10.1145/3704137.3704171}
+
+\bibitem{chan_unified_2021}
+M.~H. Chan, M.~H.~M. Noor, \href{https://doi.org/10.1007/s12652-020-02548-0}{A
+  unified generative model using generative adversarial network for activity
+  recognition}, Journal of Ambient Intelligence and Humanized Computing 12~(7)
+  (2021) 8119--8128.
+\newblock \href {https://doi.org/10.1007/s12652-020-02548-0}
+  {\path{doi:10.1007/s12652-020-02548-0}}.
+\newline\urlprefix\url{https://doi.org/10.1007/s12652-020-02548-0}
+
+\bibitem{jimale_fully_2022}
+A.~O. Jimale, M.~H. Mohd~Noor,
+  \href{https://ieeexplore.ieee.org/document/9893100}{Fully {Connected}
+  {Generative} {Adversarial} {Network} for {Human} {Activity} {Recognition}},
+  IEEE Access 10 (2022) 100257--100266, conference Name: IEEE Access.
+\newblock \href {https://doi.org/10.1109/ACCESS.2022.3206952}
+  {\path{doi:10.1109/ACCESS.2022.3206952}}.
+\newline\urlprefix\url{https://ieeexplore.ieee.org/document/9893100}
+
+\bibitem{lupion_data_2024}
+M.~Lupión, F.~Cruciani, I.~Cleland, C.~Nugent, P.~M. Ortigosa,
+  \href{https://ieeexplore.ieee.org/document/10432776}{Data {Augmentation} for
+  {Human} {Activity} {Recognition} {With} {Generative} {Adversarial}
+  {Networks}}, IEEE Journal of Biomedical and Health Informatics 28~(4) (2024)
+  2350--2361, conference Name: IEEE Journal of Biomedical and Health
+  Informatics.
+\newblock \href {https://doi.org/10.1109/JBHI.2024.3364910}
+  {\path{doi:10.1109/JBHI.2024.3364910}}.
+\newline\urlprefix\url{https://ieeexplore.ieee.org/document/10432776}
+
+\bibitem{kia_human_2024}
+Z.~Kia, M.~Yadollahzaeh-Tabari, H.~Motameni,
+  \href{https://doi.org/10.1007/s11227-024-06743-0}{Human activity recognition
+  by body-worn sensor data using bi-directional generative adversarial networks
+  and frequency analysis techniques}, The Journal of Supercomputing 81~(1)
+  (2024) 342.
+\newblock \href {https://doi.org/10.1007/s11227-024-06743-0}
+  {\path{doi:10.1007/s11227-024-06743-0}}.
+\newline\urlprefix\url{https://doi.org/10.1007/s11227-024-06743-0}
+
+\bibitem{mohammadzadeh_cgan-based_2025}
+M.~Mohammadzadeh, A.~Ghadami, A.~Taheri, S.~Behzadipour,
+  \href{https://www.sciencedirect.com/science/article/pii/S1746809424015349}{{cGAN}-based
+  high dimensional {IMU} sensor data generation for enhanced human activity
+  recognition in therapeutic activities}, Biomedical Signal Processing and
+  Control 103 (2025) 107476.
+\newblock \href {https://doi.org/10.1016/j.bspc.2024.107476}
+  {\path{doi:10.1016/j.bspc.2024.107476}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S1746809424015349}
+
+\bibitem{Nassif2019}
+A.~B. Nassif, I.~Shahin, I.~Attili, M.~Azzeh, K.~Shaalan, Speech recognition
+  using deep neural networks: A systematic review 7  19143--19165.
+\newblock \href {https://doi.org/10.1109/ACCESS.2019.2896880}
+  {\path{doi:10.1109/ACCESS.2019.2896880}}.
+
+\bibitem{Tirumala}
+S.~S. Tirumala, S.~R. Shahamiri,
+  \href{https://doi.org/10.1145/3015166.3015210}{A review on deep learning
+  approaches in speaker identification}, in: Proceedings of the 8th
+  International Conference on Signal Processing Systems, Association for
+  Computing Machinery, pp. 142--147.
+\newblock \href {https://doi.org/10.1145/3015166.3015210}
+  {\path{doi:10.1145/3015166.3015210}}.
+\newline\urlprefix\url{https://doi.org/10.1145/3015166.3015210}
+
+\bibitem{app11083603}
+F.~Ye, J.~Yang, \href{https://www.mdpi.com/2076-3417/11/8/3603}{A deep neural
+  network model for speaker identification} 11~(8).
+\newblock \href {https://doi.org/10.3390/app11083603}
+  {\path{doi:10.3390/app11083603}}.
+\newline\urlprefix\url{https://www.mdpi.com/2076-3417/11/8/3603}
+
+\bibitem{khalil2019}
+R.~A. Khalil, E.~Jones, M.~I. Babar, T.~Jan, M.~H. Zafar, T.~Alhussain, Speech
+  emotion recognition using deep learning techniques: A review 7
+  117327--117345.
+\newblock \href {https://doi.org/10.1109/ACCESS.2019.2936124}
+  {\path{doi:10.1109/ACCESS.2019.2936124}}.
+
+\bibitem{singh2021spoken}
+G.~Singh, S.~Sharma, V.~Kumar, M.~Kaur, M.~Baz, M.~Masud, et~al., Spoken
+  language identification using deep learning 2021.
+
+\bibitem{jiao2016accent}
+Y.~Jiao, M.~Tu, V.~Berisha, J.~M. Liss, Accent identification by combining deep
+  neural networks and recurrent neural networks trained on long and short term
+  features., in: Interspeech, pp. 2388--2392.
+
+\bibitem{sanchez2022age}
+H.~A. Sánchez-Hevia, R.~Gil-Pita, M.~Utrilla-Manso, M.~Rosa-Zurera, Age group
+  classification and gender recognition from speech with temporal convolutional
+  neural networks 81~(3)  3535--3552.
+
+\bibitem{alnuaim2022speaker}
+A.~A. Alnuaim, M.~Zakariah, C.~Shashidhar, W.~A. Hatamleh, H.~Tarazi, P.~K.
+  Shukla, R.~Ratna, Speaker gender recognition based on deep neural networks
+  and resnet50 2022  1--13.
+
+\bibitem{srivastava2022speech}
+R.~Srivastava, D.~Pandey, Speech recognition using hmm and soft computing 51
+  1878--1883.
+\newblock \href {https://doi.org/https://doi.org/10.1016/j.matpr.2021.10.097}
+  {\path{doi:https://doi.org/10.1016/j.matpr.2021.10.097}}.
+
+\bibitem{padmanabhan2015review}
+J.~Padmanabhan, M.~J.~J. Premkumar, Machine learning in automatic speech
+  recognition: A survey 32~(4)  240--251.
+\newblock \href {https://doi.org/10.1080/02564602.2015.1010611}
+  {\path{doi:10.1080/02564602.2015.1010611}}.
+
+\bibitem{mukhamadiyev2022automatic}
+A.~Mukhamadiyev, I.~Khujayarov, O.~Djuraev, J.~Cho, Automatic speech
+  recognition method based on deep learning approaches for uzbek language
+  22~(10)  3683.
+\newblock \href {https://doi.org/https://doi.org/10.3390/s22103683}
+  {\path{doi:https://doi.org/10.3390/s22103683}}.
+
+\bibitem{lu2020automatic}
+X.~Lu, S.~Li, M.~Fujimoto, Automatic speech recognition  21--38.
+
+\bibitem{HEMA2023109492}
+C.~Hema, F.~P. {Garcia Marquez},
+  \href{https://www.sciencedirect.com/science/article/pii/S0003682X23002906}{Emotional
+  speech recognition using cnn and deep learning techniques} 211  109492.
+\newblock \href
+  {https://doi.org/https://doi.org/10.1016/j.apacoust.2023.109492}
+  {\path{doi:https://doi.org/10.1016/j.apacoust.2023.109492}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0003682X23002906}
+
+\bibitem{shewalkar2019performance}
+A.~Shewalkar, D.~Nyavanandi, S.~A. Ludwig, Performance evaluation of deep
+  neural networks applied to speech recognition: Rnn, lstm and gru 9~(4)
+  235--245.
+
+\bibitem{prabhavalkar2017comparison}
+R.~Prabhavalkar, K.~Rao, T.~N. Sainath, B.~Li, L.~Johnson, N.~Jaitly, A
+  comparison of sequence-to-sequence models for speech recognition., in:
+  Interspeech, pp. 939--943.
+
+\bibitem{graves2012sequence}
+A.~Graves, Sequence transduction with recurrent neural networks.
+
+\bibitem{chan2015listen}
+W.~Chan, N.~Jaitly, Q.~V. Le, O.~Vinyals, Listen, attend and spell.
+
+\bibitem{jaitly2016online}
+N.~Jaitly, Q.~V. Le, O.~Vinyals, I.~Sutskever, D.~Sussillo, S.~Bengio, An
+  online sequence-to-sequence model using partial conditioning 29.
+
+\bibitem{raffel2017online}
+C.~Raffel, M.-T. Luong, P.~J. Liu, R.~J. Weiss, D.~Eck, Online and linear-time
+  attention by enforcing monotonic alignments, in: International conference on
+  machine learning, PMLR, pp. 2837--2846.
+
+\bibitem{sak2017recurrent}
+H.~Sak, M.~Shannon, K.~Rao, F.~Beaufays, Recurrent neural aligner: An
+  encoder-decoder neural network model for sequence to sequence mapping., in:
+  Interspeech, Vol.~8, pp. 1298--1302.
+
+\bibitem{szucbeamsearch2019}
+G.~Szűcs, D.~Huszti, Seq2seq deep learning method for summary generation by
+  lstm with two-way encoder and beam search decoder, in: 2019 IEEE 17th
+  International Symposium on Intelligent Systems and Informatics (SISY), pp.
+  221--226.
+\newblock \href {https://doi.org/10.1109/SISY47553.2019.9111502}
+  {\path{doi:10.1109/SISY47553.2019.9111502}}.
+
+\bibitem{li2018seq2seq}
+Z.~Li, J.~Cai, S.~He, H.~Zhao, Seq2seq dependency parsing, in: Proceedings of
+  the 27th International Conference on Computational Linguistics, pp.
+  3203--3214.
+
+\bibitem{chiugoogle}
+C.-C. Chiu, T.~N. Sainath, Y.~Wu, R.~Prabhavalkar, P.~Nguyen, Z.~Chen,
+  A.~Kannan, R.~J. Weiss, K.~Rao, E.~Gonina, N.~Jaitly, B.~Li, J.~Chorowski,
+  M.~Bacchiani, State-of-the-art speech recognition with sequence-to-sequence
+  models, in: 2018 IEEE International Conference on Acoustics, Speech and
+  Signal Processing (ICASSP), pp. 4774--4778.
+\newblock \href {https://doi.org/10.1109/ICASSP.2018.8462105}
+  {\path{doi:10.1109/ICASSP.2018.8462105}}.
+
+\bibitem{baevski_wav2vec_2020}
+A.~Baevski, H.~Zhou, A.~Mohamed, M.~Auli,
+  \href{http://arxiv.org/abs/2006.11477}{wav2vec 2.0: {A} {Framework} for
+  {Self}-{Supervised} {Learning} of {Speech} {Representations}},
+  arXiv:2006.11477 [cs] (Oct. 2020).
+\newblock \href {https://doi.org/10.48550/arXiv.2006.11477}
+  {\path{doi:10.48550/arXiv.2006.11477}}.
+\newline\urlprefix\url{http://arxiv.org/abs/2006.11477}
+
+\bibitem{radford_robust_2022}
+A.~Radford, J.~W. Kim, T.~Xu, G.~Brockman, C.~McLeavey, I.~Sutskever,
+  \href{http://arxiv.org/abs/2212.04356}{Robust {Speech} {Recognition} via
+  {Large}-{Scale} {Weak} {Supervision}}, arXiv:2212.04356 [eess] (Dec. 2022).
+\newblock \href {https://doi.org/10.48550/arXiv.2212.04356}
+  {\path{doi:10.48550/arXiv.2212.04356}}.
+\newline\urlprefix\url{http://arxiv.org/abs/2212.04356}
+
+\bibitem{gulati_conformer_2020}
+A.~Gulati, J.~Qin, C.-C. Chiu, N.~Parmar, Y.~Zhang, J.~Yu, W.~Han, S.~Wang,
+  Z.~Zhang, Y.~Wu, R.~Pang, \href{http://arxiv.org/abs/2005.08100}{Conformer:
+  {Convolution}-augmented {Transformer} for {Speech} {Recognition}},
+  arXiv:2005.08100 [eess] (May 2020).
+\newblock \href {https://doi.org/10.48550/arXiv.2005.08100}
+  {\path{doi:10.48550/arXiv.2005.08100}}.
+\newline\urlprefix\url{http://arxiv.org/abs/2005.08100}
+
+\bibitem{stooke_aligner-encoders_2025}
+A.~Stooke, R.~Prabhavalkar, K.~C. Sim, P.~M. Mengibar,
+  \href{http://arxiv.org/abs/2502.05232}{Aligner-{Encoders}: {Self}-{Attention}
+  {Transformers} {Can} {Be} {Self}-{Transducers}}, arXiv:2502.05232 [cs] (Feb.
+  2025).
+\newblock \href {https://doi.org/10.48550/arXiv.2502.05232}
+  {\path{doi:10.48550/arXiv.2502.05232}}.
+\newline\urlprefix\url{http://arxiv.org/abs/2502.05232}
+
+\bibitem{zhang_breaking_2025}
+W.~Zhang, T.-H. Zhang, C.~Luo, H.~Zhou, C.~Yang, X.~Qian, X.-C. Yin,
+  \href{http://arxiv.org/abs/2501.03257}{Breaking {Through} the {Spike}:
+  {Spike} {Window} {Decoding} for {Accelerated} and {Precise} {Automatic}
+  {Speech} {Recognition}}, arXiv:2501.03257 [eess] (Jan. 2025).
+\newblock \href {https://doi.org/10.48550/arXiv.2501.03257}
+  {\path{doi:10.48550/arXiv.2501.03257}}.
+\newline\urlprefix\url{http://arxiv.org/abs/2501.03257}
+
+\bibitem{wang_disentangled-transformer_2024}
+P.~Wang, H.~V. hamme,
+  \href{http://arxiv.org/abs/2411.17846}{Disentangled-{Transformer}: {An}
+  {Explainable} {End}-to-{End} {Automatic} {Speech} {Recognition} {Model} with
+  {Speech} {Content}-{Context} {Separation}}, arXiv:2411.17846 [eess] (Nov.
+  2024).
+\newblock \href {https://doi.org/10.48550/arXiv.2411.17846}
+  {\path{doi:10.48550/arXiv.2411.17846}}.
+\newline\urlprefix\url{http://arxiv.org/abs/2411.17846}
+
+\bibitem{shakhadri_samba-asr_2025}
+S.~A.~G. Shakhadri, K.~KR, K.~B. Angadi,
+  \href{http://arxiv.org/abs/2501.02832}{Samba-{ASR}: {State}-{Of}-{The}-{Art}
+  {Speech} {Recognition} {Leveraging} {Structured} {State}-{Space} {Models}},
+  arXiv:2501.02832 [cs] (Jan. 2025).
+\newblock \href {https://doi.org/10.48550/arXiv.2501.02832}
+  {\path{doi:10.48550/arXiv.2501.02832}}.
+\newline\urlprefix\url{http://arxiv.org/abs/2501.02832}
+
+\bibitem{ozbayoglu2020deep}
+A.~M. Ozbayoglu, M.~U. Gudelek, O.~B. Sezer, Deep learning for financial
+  applications: A survey 93  106384.
+
+\bibitem{shen2021new}
+F.~Shen, X.~Zhao, G.~Kou, F.~E. Alsaadi, A new deep learning ensemble credit
+  risk evaluation model with an improved synthetic minority oversampling
+  technique 98  106852.
+
+\bibitem{wang2020portfolio}
+W.~Wang, W.~Li, N.~Zhang, K.~Liu, Portfolio formation with preselection using
+  deep learning from long-term financial data 143  113042.
+
+\bibitem{chen2024deep}
+L.~Chen, M.~Pelger, J.~Zhu, Deep learning in asset pricing 70~(2)  714--750.
+
+\bibitem{ahnouch2023model}
+M.~Ahnouch, L.~Elaachak, A.~Ghadi, Model risk in financial derivatives and the
+  transformative impact of deep learning: A systematic review, in: The
+  Proceedings of the International Conference on Smart City Applications,
+  Springer, pp. 155--165.
+
+\bibitem{SUN2020101160}
+S.~Sun, S.~Wang, Y.~Wei,
+  \href{https://www.sciencedirect.com/science/article/pii/S1474034620301312}{A
+  new ensemble deep learning approach for exchange rates forecasting and
+  trading} 46  101160.
+\newblock \href {https://doi.org/https://doi.org/10.1016/j.aei.2020.101160}
+  {\path{doi:https://doi.org/10.1016/j.aei.2020.101160}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S1474034620301312}
+
+\bibitem{abedin2021deep}
+M.~Z. Abedin, M.~H. Moon, M.~K. Hassan, P.~Hajek, Deep learning-based exchange
+  rate prediction during the covid-19 pandemic  1--52.
+
+\bibitem{wang_sudf-rs_2023}
+G.~Wang, J.~Ma, Y.~Wang, T.~Tao, G.~Ren, H.~Zhu,
+  \href{https://www.sciencedirect.com/science/article/pii/S0957417422021704}{{SUDF}-{RS}:
+  {A} new foreign exchange rate prediction method considering the
+  complementarity of supervised and unsupervised deep representation features},
+  Expert Systems with Applications 214 (2023) 119152.
+\newblock \href {https://doi.org/10.1016/j.eswa.2022.119152}
+  {\path{doi:10.1016/j.eswa.2022.119152}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0957417422021704}
+
+\bibitem{nikou2019stock}
+M.~Nikou, G.~Mansourfar, J.~Bagherzadeh, Stock price prediction using deep
+  learning algorithm and its comparison with machine learning algorithms 26~(4)
+   164--174.
+
+\bibitem{cai2018financial}
+S.~Cai, X.~Feng, Z.~Deng, Z.~Ming, Z.~Shan, Financial news quantization and
+  stock market forecast research based on cnn and lstm, in: Smart Computing and
+  Communication: Third International Conference, SmartCom 2018, Tokyo, Japan,
+  December 10--12, 2018, Proceedings 3, Springer, pp. 366--375.
+
+\bibitem{gudelek2017deep}
+M.~U. Gudelek, S.~A. Boluk, A.~M. Ozbayoglu, A deep learning based stock
+  trading model with 2-d cnn trend detection, in: 2017 IEEE symposium series on
+  computational intelligence (SSCI), IEEE, pp. 1--8.
+
+\bibitem{eapen2019novel}
+J.~Eapen, D.~Bein, A.~Verma, Novel deep learning model with cnn and
+  bi-directional lstm for improved stock market index prediction, in: 2019 IEEE
+  9th annual computing and communication workshop and conference (CCWC), IEEE,
+  pp. 0264--0270.
+
+\bibitem{chen_deep_2024}
+P.~Chen, Z.~Boukouvalas, R.~Corizzo,
+  \href{https://doi.org/10.1007/s00521-024-10303-1}{A deep fusion model for
+  stock market prediction with news headlines and time series data}, Neural
+  Computing and Applications 36~(34) (2024) 21229--21271.
+\newblock \href {https://doi.org/10.1007/s00521-024-10303-1}
+  {\path{doi:10.1007/s00521-024-10303-1}}.
+\newline\urlprefix\url{https://doi.org/10.1007/s00521-024-10303-1}
+
+\bibitem{mozaffari_predictive_2024}
+L.~Mozaffari, J.~Zhang,
+  \href{https://dl.acm.org/doi/10.1145/3674029.3674037}{Predictive {Modeling}
+  of {Stock} {Prices} {Using} {Transformer} {Model}}, in: Proceedings of the
+  2024 9th {International} {Conference} on {Machine} {Learning} {Technologies},
+  {ICMLT} '24, Association for Computing Machinery, New York, NY, USA, 2024,
+  pp. 41--48.
+\newblock \href {https://doi.org/10.1145/3674029.3674037}
+  {\path{doi:10.1145/3674029.3674037}}.
+\newline\urlprefix\url{https://dl.acm.org/doi/10.1145/3674029.3674037}
+
+\bibitem{li_transformer_2025}
+S.~Li, Z.~B. Schulwol, R.~Miikkulainen,
+  \href{http://arxiv.org/abs/2502.09625}{Transformer {Based} {Time}-{Series}
+  {Forecasting} for {Stock}}, arXiv:2502.09625 [q-fin] (Jan. 2025).
+\newblock \href {https://doi.org/10.48550/arXiv.2502.09625}
+  {\path{doi:10.48550/arXiv.2502.09625}}.
+\newline\urlprefix\url{http://arxiv.org/abs/2502.09625}
+
+\bibitem{zhou_informer_2021}
+H.~Zhou, S.~Zhang, J.~Peng, S.~Zhang, J.~Li, H.~Xiong, W.~Zhang,
+  \href{http://arxiv.org/abs/2012.07436}{Informer: {Beyond} {Efficient}
+  {Transformer} for {Long} {Sequence} {Time}-{Series} {Forecasting}},
+  arXiv:2012.07436 [cs] (Mar. 2021).
+\newblock \href {https://doi.org/10.48550/arXiv.2012.07436}
+  {\path{doi:10.48550/arXiv.2012.07436}}.
+\newline\urlprefix\url{http://arxiv.org/abs/2012.07436}
+
+\bibitem{berti_tlob_2025}
+L.~Berti, G.~Kasneci, \href{http://arxiv.org/abs/2502.15757}{{TLOB}: {A}
+  {Novel} {Transformer} {Model} with {Dual} {Attention} for {Stock} {Price}
+  {Trend} {Prediction} with {Limit} {Order} {Book} {Data}}, arXiv:2502.15757
+  [q-fin] (Feb. 2025).
+\newblock \href {https://doi.org/10.48550/arXiv.2502.15757}
+  {\path{doi:10.48550/arXiv.2502.15757}}.
+\newline\urlprefix\url{http://arxiv.org/abs/2502.15757}
+
+\bibitem{LIU2021107187}
+X.~Liu, H.~Wang, Z.~Li, L.~Qin,
+  \href{https://www.sciencedirect.com/science/article/pii/S0950705121004494}{Deep
+  learning in ecg diagnosis: A review} 227  107187.
+\newblock \href {https://doi.org/https://doi.org/10.1016/j.knosys.2021.107187}
+  {\path{doi:https://doi.org/10.1016/j.knosys.2021.107187}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0950705121004494}
+
+\bibitem{tsao2023heart}
+C.~W. Tsao, A.~W. Aday, Z.~I. Almarzooq, C.~A. Anderson, P.~Arora, C.~L. Avery,
+  C.~M. Baker-Smith, A.~Z. Beaton, A.~K. Boehme, A.~E. Buxton, et~al., Heart
+  disease and stroke statistics—2023 update: a report from the american heart
+  association 147~(8)  e93--e621.
+
+\bibitem{LLamedo2011}
+M.~Llamedo, J.~P. Martínez, Heartbeat classification using feature selection
+  driven by database generalization criteria 58~(3)  616--625.
+\newblock \href {https://doi.org/10.1109/TBME.2010.2068048}
+  {\path{doi:10.1109/TBME.2010.2068048}}.
+
+\bibitem{MATHEWS201853}
+S.~M. Mathews, C.~Kambhamettu, K.~E. Barner,
+  \href{https://www.sciencedirect.com/science/article/pii/S0010482518301264}{A
+  novel application of deep learning for single-lead ecg classification} 99
+  53--62.
+\newblock \href
+  {https://doi.org/https://doi.org/10.1016/j.compbiomed.2018.05.013}
+  {\path{doi:https://doi.org/10.1016/j.compbiomed.2018.05.013}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0010482518301264}
+
+\bibitem{zhu2019}
+w.~zhu~wenliang wenliang, X.~Chen, Y.~Wang, L.~Wang, Arrhythmia recognition and
+  classification using ecg morphology and segment feature analysis 16~(1)
+  131--138.
+\newblock \href {https://doi.org/10.1109/TCBB.2018.2846611}
+  {\path{doi:10.1109/TCBB.2018.2846611}}.
+
+\bibitem{desai2021low}
+M.~P. Desai, G.~Caffarena, R.~Jevtic, D.~G. Márquez, A.~Otero, A low-latency,
+  low-power fpga implementation of ecg signal characterization using hermite
+  polynomials 10~(19)  2324.
+
+\bibitem{crippa2015multi}
+P.~Crippa, A.~Curzi, L.~Falaschetti, C.~Turchetti, et~al., Multi-class ecg beat
+  classification based on a gaussian mixture model of karhunen-loève transform
+  16~(1)  2--1.
+
+\bibitem{acharya2017deep}
+U.~R. Acharya, S.~L. Oh, Y.~Hagiwara, J.~H. Tan, M.~Adam, A.~Gertych,
+  R.~San~Tan, A deep convolutional neural network model to classify heartbeats
+  89  389--396.
+
+\bibitem{baloglu2019classification}
+U.~B. Baloglu, M.~Talo, O.~Yildirim, R.~San~Tan, U.~R. Acharya, Classification
+  of myocardial infarction with multi-lead ecg signals and deep cnn 122
+  23--30.
+
+\bibitem{singh2018classification}
+S.~Singh, S.~K. Pandey, U.~Pawar, R.~R. Janghel, Classification of ecg
+  arrhythmia using recurrent neural networks 132  1290--1297.
+
+\bibitem{prabhakararao2020attentive}
+E.~Prabhakararao, S.~Dandapat, Attentive rnn-based network to fuse 12-lead ecg
+  and clinical features for improved myocardial infarction diagnosis 27
+  2029--2033.
+
+\bibitem{wang2023single}
+M.~Wang, S.~Rahardja, P.~Fränti, S.~Rahardja, Single-lead ecg recordings
+  modeling for end-to-end recognition of atrial fibrillation with dual-path rnn
+  79  104067.
+
+\bibitem{sowmya2022contemplate}
+S.~Sowmya, D.~Jose, Contemplate on ecg signals and classification of arrhythmia
+  signals using cnn-lstm deep learning model 24  100558.
+
+\bibitem{rai2022hybrid}
+H.~M. Rai, K.~Chatterjee, Hybrid cnn-lstm deep learning model and ensemble
+  technique for automatic detection of myocardial infarction using big ecg data
+  52~(5)  5366--5384.
+
+\bibitem{Banerjee2020}
+R.~Banerjee, A.~Ghose, K.~Muthana~Mandana, A hybrid cnn-lstm architecture for
+  detection of coronary artery disease from ecg, in: 2020 International Joint
+  Conference on Neural Networks (IJCNN), pp. 1--8.
+\newblock \href {https://doi.org/10.1109/IJCNN48605.2020.9207044}
+  {\path{doi:10.1109/IJCNN48605.2020.9207044}}.
+
+\bibitem{kusuma_ecg_2022}
+S.~Kusuma, K.~R. Jothi,
+  \href{https://www.sciencedirect.com/science/article/pii/S0208521622000067}{{ECG}
+  signals-based automated diagnosis of congestive heart failure using {Deep}
+  {CNN} and {LSTM} architecture}, Biocybernetics and Biomedical Engineering
+  42~(1) (2022) 247--257.
+\newblock \href {https://doi.org/10.1016/j.bbe.2022.02.003}
+  {\path{doi:10.1016/j.bbe.2022.02.003}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0208521622000067}
+
+\bibitem{alamatsaz_lightweight_2024}
+N.~Alamatsaz, L.~Tabatabaei, M.~Yazdchi, H.~Payan, N.~Alamatsaz, F.~Nasimi,
+  \href{https://www.sciencedirect.com/science/article/pii/S1746809423013174}{A
+  lightweight hybrid {CNN}-{LSTM} explainable model for {ECG}-based arrhythmia
+  detection}, Biomedical Signal Processing and Control 90 (2024) 105884.
+\newblock \href {https://doi.org/10.1016/j.bspc.2023.105884}
+  {\path{doi:10.1016/j.bspc.2023.105884}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S1746809423013174}
+
+\bibitem{chen_automated_2022}
+C.-Y. Chen, Y.-T. Lin, S.-J. Lee, W.-C. Tsai, T.-C. Huang, Y.-H. Liu, M.-C.
+  Cheng, C.-Y. Dai,
+  \href{https://www.sciencedirect.com/science/article/pii/S1046202321001134}{Automated
+  {ECG} classification based on {1D} deep learning network}, Methods 202 (2022)
+  127--135.
+\newblock \href {https://doi.org/10.1016/j.ymeth.2021.04.021}
+  {\path{doi:10.1016/j.ymeth.2021.04.021}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S1046202321001134}
+
+\bibitem{wang_automated_2021}
+J.~Wang, X.~Qiao, C.~Liu, X.~Wang, Y.~Liu, L.~Yao, H.~Zhang,
+  \href{https://www.sciencedirect.com/science/article/pii/S016926072100081X}{Automated
+  {ECG} classification using a non-local convolutional block attention module},
+  Computer Methods and Programs in Biomedicine 203 (2021) 106006.
+\newblock \href {https://doi.org/10.1016/j.cmpb.2021.106006}
+  {\path{doi:10.1016/j.cmpb.2021.106006}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S016926072100081X}
+
+\bibitem{zhang_ecg-based_2020}
+J.~Zhang, A.~Liu, M.~Gao, X.~Chen, X.~Zhang, X.~Chen,
+  \href{https://www.sciencedirect.com/science/article/pii/S0933365719312606}{{ECG}-based
+  multi-class arrhythmia detection using spatio-temporal attention-based
+  convolutional recurrent neural network}, Artificial Intelligence in Medicine
+  106 (2020) 101856.
+\newblock \href {https://doi.org/10.1016/j.artmed.2020.101856}
+  {\path{doi:10.1016/j.artmed.2020.101856}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0933365719312606}
+
+\bibitem{sun_arrhythmia_2024}
+A.~Sun, W.~Hong, J.~Li, J.~Mao,
+  \href{https://www.mdpi.com/1424-8220/24/19/6306}{An {Arrhythmia}
+  {Classification} {Model} {Based} on a {CNN}-{LSTM}-{SE} {Algorithm}}, Sensors
+  24~(19) (2024) 6306, number: 19 Publisher: Multidisciplinary Digital
+  Publishing Institute.
+\newblock \href {https://doi.org/10.3390/s24196306}
+  {\path{doi:10.3390/s24196306}}.
+\newline\urlprefix\url{https://www.mdpi.com/1424-8220/24/19/6306}
+
+\bibitem{huang_ecg_2024}
+Y.~Huang, W.~Liu, Z.~Yin, S.~Hu, M.~Wang, W.~Cai,
+  \href{https://www.sciencedirect.com/science/article/pii/S0169260724004474}{{ECG}
+  classification based on guided attention mechanism}, Computer Methods and
+  Programs in Biomedicine 257 (2024) 108454.
+\newblock \href {https://doi.org/10.1016/j.cmpb.2024.108454}
+  {\path{doi:10.1016/j.cmpb.2024.108454}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0169260724004474}
+
+\bibitem{aghaomidi_ecg-sleepnet_2024}
+P.~Aghaomidi, G.~Wang, \href{http://arxiv.org/abs/2412.01929}{{ECG}-{SleepNet}:
+  {Deep} {Learning}-{Based} {Comprehensive} {Sleep} {Stage} {Classification}
+  {Using} {ECG} {Signals}}, arXiv:2412.01929 [cs] (Dec. 2024).
+\newblock \href {https://doi.org/10.48550/arXiv.2412.01929}
+  {\path{doi:10.48550/arXiv.2412.01929}}.
+\newline\urlprefix\url{http://arxiv.org/abs/2412.01929}
+
+\bibitem{hasani_liquid_2021}
+R.~Hasani, M.~Lechner, A.~Amini, D.~Rus, R.~Grosu,
+  \href{https://ojs.aaai.org/index.php/AAAI/article/view/16936}{Liquid
+  {Time}-constant {Networks}}, Proceedings of the AAAI Conference on Artificial
+  Intelligence 35~(9) (2021) 7657--7666, number: 9.
+\newblock \href {https://doi.org/10.1609/aaai.v35i9.16936}
+  {\path{doi:10.1609/aaai.v35i9.16936}}.
+\newline\urlprefix\url{https://ojs.aaai.org/index.php/AAAI/article/view/16936}
+
+\bibitem{zhu_electrocardiogram_2019}
+F.~Zhu, F.~Ye, Y.~Fu, Q.~Liu, B.~Shen,
+  \href{https://www.nature.com/articles/s41598-019-42516-z}{Electrocardiogram
+  generation with a bidirectional {LSTM}-{CNN} generative adversarial network},
+  Scientific Reports 9~(1) (2019) 6734, publisher: Nature Publishing Group.
+\newblock \href {https://doi.org/10.1038/s41598-019-42516-z}
+  {\path{doi:10.1038/s41598-019-42516-z}}.
+\newline\urlprefix\url{https://www.nature.com/articles/s41598-019-42516-z}
+
+\bibitem{yang_data_2024}
+Y.~Yang, T.~Lan, Y.~Wang, F.~Li, L.~Liu, X.~Huang, F.~Gao, S.~Jiang, Z.~Zhang,
+  X.~Chen, \href{https://www.nature.com/articles/s41598-024-65619-8}{Data
+  imbalance in cardiac health diagnostics using {CECG}-{GAN}}, Scientific
+  Reports 14~(1) (2024) 14767, publisher: Nature Publishing Group.
+\newblock \href {https://doi.org/10.1038/s41598-024-65619-8}
+  {\path{doi:10.1038/s41598-024-65619-8}}.
+\newline\urlprefix\url{https://www.nature.com/articles/s41598-024-65619-8}
+
+\bibitem{msigwa_iot-driven_2024}
+C.~Msigwa, D.~Bernard, J.~Yun,
+  \href{https://www.sciencedirect.com/science/article/pii/S2542660524003469}{{IoT}-driven
+  wearable devices enhancing healthcare: {ECG} classification with
+  cluster-based {GAN} and meta-features}, Internet of Things 28 (2024) 101405.
+\newblock \href {https://doi.org/10.1016/j.iot.2024.101405}
+  {\path{doi:10.1016/j.iot.2024.101405}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S2542660524003469}
+
+\bibitem{Schirrmeister2017}
+R.~T. Schirrmeister, J.~T. Springenberg, L.~D.~J. Fiederer, M.~Glasstetter,
+  K.~Eggensperger, M.~Tangermann, F.~Hutter, W.~Burgard, T.~Ball,
+  \href{https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.23730}{Deep
+  learning with convolutional neural networks for eeg decoding and
+  visualization} 38~(11)  5391--5420.
+\newblock \href {https://doi.org/https://doi.org/10.1002/hbm.23730}
+  {\path{doi:https://doi.org/10.1002/hbm.23730}}.
+\newline\urlprefix\url{https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.23730}
+
+\bibitem{gao2021complex}
+Z.~Gao, W.~Dang, X.~Wang, X.~Hong, L.~Hou, K.~Ma, M.~Perc, Complex networks and
+  deep learning for eeg signal analysis 15~(3)  369--388.
+
+\bibitem{Ang7802578}
+K.~K. Ang, C.~Guan, Eeg-based strategies to detect motor imagery for control
+  and rehabilitation 25~(4)  392--401.
+\newblock \href {https://doi.org/10.1109/TNSRE.2016.2646763}
+  {\path{doi:10.1109/TNSRE.2016.2646763}}.
+
+\bibitem{shen2022aberrated}
+Z.~Shen, G.~Li, J.~Fang, H.~Zhong, J.~Wang, Y.~Sun, X.~Shen, Aberrated
+  multidimensional eeg characteristics in patients with generalized anxiety
+  disorder: A machine-learning based analysis framework 22~(14)  5420.
+
+\bibitem{boonyaki2020}
+P.~Boonyakitanont, A.~Lek-Uthai, K.~Chomtho, J.~Songsiri, A review of feature
+  extraction and performance evaluation in epileptic seizure detection using
+  eeg 57  101702.
+
+\bibitem{sharma2021automated}
+M.~Sharma, J.~Tiwari, V.~Patel, U.~R. Acharya, Automated identification of
+  sleep disorder types using triplet half-band filter and ensemble machine
+  learning techniques with eeg signals 10~(13)  1531.
+
+\bibitem{vaquerizo2023explainable}
+F.~Vaquerizo-Villar, G.~C. Gutiérrez-Tobal, E.~Calvo, D.~Álvarez,
+  L.~Kheirandish-Gozal, F.~Del~Campo, D.~Gozal, R.~Hornero, An explainable
+  deep-learning model to stage sleep states in children and propose novel
+  eeg-related patterns in sleep apnea 165  107419.
+
+\bibitem{modir2023systematic}
+A.~Modir, S.~Shamekhi, P.~Ghaderyan, A systematic review and methodological
+  analysis of eeg-based biomarkers of alzheimer's disease  113274.
+
+\bibitem{altaheri2023deep}
+H.~Altaheri, G.~Muhammad, M.~Alsulaiman, S.~U. Amin, G.~A. Altuwaijri,
+  W.~Abdul, M.~A. Bencherif, M.~Faisal, Deep learning techniques for
+  classification of electroencephalogram (eeg) motor imagery (mi) signals: A
+  review 35~(20)  14681--14722.
+
+\bibitem{brunner2007spatial}
+C.~Brunner, M.~Naeem, R.~Leeb, B.~Graimann, G.~Pfurtscheller, Spatial filtering
+  and selection of optimized components in four class motor imagery eeg data
+  using independent components analysis 28~(8)  957--964.
+
+\bibitem{delorme2007enhanced}
+A.~Delorme, T.~Sejnowski, S.~Makeig, Enhanced detection of artifacts in eeg
+  data using higher-order statistics and independent component analysis 34~(4)
+  1443--1449.
+
+\bibitem{jafarifarmand2019eeg}
+A.~Jafarifarmand, M.~A. Badamchizadeh, Eeg artifacts handling in a real
+  practical brain--computer interface controlled vehicle 27~(6)  1200--1208.
+
+\bibitem{zhang2019novel}
+R.~Zhang, Q.~Zong, L.~Dou, X.~Zhao, A novel hybrid deep learning scheme for
+  four-class motor imagery classification 16~(6)  066004.
+
+\bibitem{kumar2016deep}
+S.~Kumar, A.~Sharma, K.~Mamun, T.~Tsunoda, A deep learning approach for motor
+  imagery eeg signal classification, in: 2016 3rd Asia-Pacific World Congress
+  on Computer Science and Engineering (APWC on CSE), IEEE, pp. 34--39.
+
+\bibitem{tibrewal2022}
+N.~Tibrewal, N.~Leeuwis, M.~Alimardani, Classification of motor imagery eeg
+  using deep learning increases performance in inefficient bci users 17~(7)
+  e0268880.
+
+\bibitem{dai2019eeg}
+M.~Dai, D.~Zheng, R.~Na, S.~Wang, S.~Zhang, Eeg classification of motor imagery
+  using a novel deep learning framework 19~(3)  551.
+
+\bibitem{LiMingaiLSTM}
+M.~Li, W.~Zhu, M.~Zhang, Y.~Sun, Z.~Wang, The novel recognition method with
+  optimal wavelet packet and lstm based recurrent neural network, in: 2017 IEEE
+  International Conference on Mechatronics and Automation (ICMA), pp. 584--589.
+\newblock \href {https://doi.org/10.1109/ICMA.2017.8015882}
+  {\path{doi:10.1109/ICMA.2017.8015882}}.
+
+\bibitem{Feng2020novel}
+F.~Li, F.~He, F.~Wang, D.~Zhang, Y.~Xia, X.~Li, A novel simplified
+  convolutional neural network classification algorithm of motor imagery eeg
+  signals based on deep learning 10~(5)  1605.
+
+\bibitem{hwang_improving_2023}
+J.~Hwang, S.~Park, J.~Chi,
+  \href{https://www.mdpi.com/2079-9292/12/5/1186}{Improving {Multi}-{Class}
+  {Motor} {Imagery} {EEG} {Classification} {Using} {Overlapping} {Sliding}
+  {Window} and {Deep} {Learning} {Model}}, Electronics 12~(5) (2023) 1186,
+  number: 5 Publisher: Multidisciplinary Digital Publishing Institute.
+\newblock \href {https://doi.org/10.3390/electronics12051186}
+  {\path{doi:10.3390/electronics12051186}}.
+\newline\urlprefix\url{https://www.mdpi.com/2079-9292/12/5/1186}
+
+\bibitem{zhao_deep_2015}
+Y.~Zhao, L.~He, Deep {Learning} in the {EEG} {Diagnosis} of {Alzheimer}’s
+  {Disease}, in: C.~Jawahar, S.~Shan (Eds.), Computer {Vision} - {ACCV} 2014
+  {Workshops}, Springer International Publishing, Cham, 2015, pp. 340--353.
+\newblock \href {https://doi.org/10.1007/978-3-319-16628-5_25}
+  {\path{doi:10.1007/978-3-319-16628-5_25}}.
+
+\bibitem{xia_novel_2023}
+W.~Xia, R.~Zhang, X.~Zhang, M.~Usman,
+  \href{https://www.sciencedirect.com/science/article/pii/S2405844023020650}{A
+  novel method for diagnosing {Alzheimer}'s disease using deep pyramid {CNN}
+  based on {EEG} signals}, Heliyon 9~(4) (2023) e14858.
+\newblock \href {https://doi.org/10.1016/j.heliyon.2023.e14858}
+  {\path{doi:10.1016/j.heliyon.2023.e14858}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S2405844023020650}
+
+\bibitem{hermawan_multi_2024}
+A.~T. Hermawan, I.~A.~E. Zaeni, A.~P. Wibawa, G.~Gunawan, W.~H. Hendrawan,
+  Y.~Kristian,
+  \href{https://journal.umy.ac.id/index.php/jrc/article/view/20870}{A {Multi}
+  {Representation} {Deep} {Learning} {Approach} for {Epileptic} {Seizure}
+  {Detection}}, Journal of Robotics and Control (JRC) 5~(1) (2024) 187--204,
+  number: 1.
+\newblock \href {https://doi.org/10.18196/jrc.v5i1.20870}
+  {\path{doi:10.18196/jrc.v5i1.20870}}.
+\newline\urlprefix\url{https://journal.umy.ac.id/index.php/jrc/article/view/20870}
+
+\bibitem{abdulwahhab_detection_2024}
+A.~H. Abdulwahhab, A.~H. Abdulaal, A.~H. Thary Al-Ghrairi, A.~A. Mohammed,
+  M.~Valizadeh,
+  \href{https://www.sciencedirect.com/science/article/pii/S0960077924002522}{Detection
+  of epileptic seizure using {EEG} signals analysis based on deep learning
+  techniques}, Chaos, Solitons \& Fractals 181 (2024) 114700.
+\newblock \href {https://doi.org/10.1016/j.chaos.2024.114700}
+  {\path{doi:10.1016/j.chaos.2024.114700}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0960077924002522}
+
+\bibitem{pandey_subject_2022}
+P.~Pandey, K.~R. Seeja,
+  \href{https://www.sciencedirect.com/science/article/pii/S1319157819309991}{Subject
+  independent emotion recognition from {EEG} using {VMD} and deep learning},
+  Journal of King Saud University - Computer and Information Sciences 34~(5)
+  (2022) 1730--1738.
+\newblock \href {https://doi.org/10.1016/j.jksuci.2019.11.003}
+  {\path{doi:10.1016/j.jksuci.2019.11.003}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S1319157819309991}
+
+\bibitem{hassouneh_development_2020}
+A.~Hassouneh, A.~M. Mutawa, M.~Murugappan,
+  \href{https://www.sciencedirect.com/science/article/pii/S235291482030201X}{Development
+  of a {Real}-{Time} {Emotion} {Recognition} {System} {Using} {Facial}
+  {Expressions} and {EEG} based on machine learning and deep neural network
+  methods}, Informatics in Medicine Unlocked 20 (2020) 100372.
+\newblock \href {https://doi.org/10.1016/j.imu.2020.100372}
+  {\path{doi:10.1016/j.imu.2020.100372}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S235291482030201X}
+
+\bibitem{pan_multimodal_2024}
+J.~Pan, W.~Fang, Z.~Zhang, B.~Chen, Z.~Zhang, S.~Wang,
+  \href{https://ieeexplore.ieee.org/document/10026861}{Multimodal {Emotion}
+  {Recognition} {Based} on {Facial} {Expressions}, {Speech}, and {EEG}}, IEEE
+  Open Journal of Engineering in Medicine and Biology 5 (2024) 396--403,
+  conference Name: IEEE Open Journal of Engineering in Medicine and Biology.
+\newblock \href {https://doi.org/10.1109/OJEMB.2023.3240280}
+  {\path{doi:10.1109/OJEMB.2023.3240280}}.
+\newline\urlprefix\url{https://ieeexplore.ieee.org/document/10026861}
+
+\bibitem{wang_multimodal_2023}
+S.~Wang, J.~Qu, Y.~Zhang, Y.~Zhang,
+  \href{https://ieeexplore.ieee.org/document/10089483}{Multimodal {Emotion}
+  {Recognition} {From} {EEG} {Signals} and {Facial} {Expressions}}, IEEE Access
+  11 (2023) 33061--33068, conference Name: IEEE Access.
+\newblock \href {https://doi.org/10.1109/ACCESS.2023.3263670}
+  {\path{doi:10.1109/ACCESS.2023.3263670}}.
+\newline\urlprefix\url{https://ieeexplore.ieee.org/document/10089483}
+
+\bibitem{song_eeggan-net_2024}
+J.~Song, Q.~Zhai, C.~Wang, J.~Liu,
+  \href{https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2024.1430086/full}{{EEGGAN}-{Net}:
+  enhancing {EEG} signal classification through data augmentation}, Frontiers
+  in Human Neuroscience 18, publisher: Frontiers (Jun. 2024).
+\newblock \href {https://doi.org/10.3389/fnhum.2024.1430086}
+  {\path{doi:10.3389/fnhum.2024.1430086}}.
+\newline\urlprefix\url{https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2024.1430086/full}
+
+\bibitem{corley_deep_2025}
+I.~Corley, Y.~Huang, \href{http://arxiv.org/abs/2502.08803}{Deep {EEG}
+  {Super}-{Resolution}: {Upsampling} {EEG} {Spatial} {Resolution} with
+  {Generative} {Adversarial} {Networks}}, arXiv:2502.08803 [cs] (Feb. 2025).
+\newblock \href {https://doi.org/10.48550/arXiv.2502.08803}
+  {\path{doi:10.48550/arXiv.2502.08803}}.
+\newline\urlprefix\url{http://arxiv.org/abs/2502.08803}
+
+\bibitem{cai_dhct-gan_2025}
+Y.~Cai, Z.~Meng, D.~Huang,
+  \href{https://www.mdpi.com/1424-8220/25/1/231}{{DHCT}-{GAN}: {Improving}
+  {EEG} {Signal} {Quality} with a {Dual}-{Branch} {Hybrid}
+  {CNN}–{Transformer} {Network}}, Sensors 25~(1) (2025) 231, number: 1
+  Publisher: Multidisciplinary Digital Publishing Institute.
+\newblock \href {https://doi.org/10.3390/s25010231}
+  {\path{doi:10.3390/s25010231}}.
+\newline\urlprefix\url{https://www.mdpi.com/1424-8220/25/1/231}
+
+\bibitem{le_application_2025}
+H.~T.~N. Le, H.~Q.~T. Ngo,
+  \href{https://www.sciencedirect.com/science/article/pii/S2666307425000154}{Application
+  of the vision-based deep learning technique for waste classification using
+  the robotic manipulation system}, International Journal of Cognitive
+  Computing in Engineering 6 (2025) 391--400.
+\newblock \href {https://doi.org/10.1016/j.ijcce.2025.02.005}
+  {\path{doi:10.1016/j.ijcce.2025.02.005}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S2666307425000154}
+
+\bibitem{vukicevic_versatile_2025}
+A.~M. Vukicevic, M.~Petrovic, N.~Jurisevic, M.~Djapan, N.~Knezevic,
+  A.~Novakovic, K.~Jovanovic,
+  \href{https://www.nature.com/articles/s41598-025-87226-x}{Versatile waste
+  sorting in small batch and flexible manufacturing industries using deep
+  learning techniques}, Scientific Reports 15~(1) (2025) 3756, publisher:
+  Nature Publishing Group.
+\newblock \href {https://doi.org/10.1038/s41598-025-87226-x}
+  {\path{doi:10.1038/s41598-025-87226-x}}.
+\newline\urlprefix\url{https://www.nature.com/articles/s41598-025-87226-x}
+
+\bibitem{kirillov_segment_2023}
+A.~Kirillov, E.~Mintun, N.~Ravi, H.~Mao, C.~Rolland, L.~Gustafson, T.~Xiao,
+  S.~Whitehead, A.~C. Berg, W.-Y. Lo, P.~Dollár, R.~Girshick,
+  \href{http://arxiv.org/abs/2304.02643}{Segment {Anything}}, arXiv:2304.02643
+  [cs] (Apr. 2023).
+\newblock \href {https://doi.org/10.48550/arXiv.2304.02643}
+  {\path{doi:10.48550/arXiv.2304.02643}}.
+\newline\urlprefix\url{http://arxiv.org/abs/2304.02643}
+
+\bibitem{liu_automatic_2025}
+W.~Liu, J.~Chen, Z.~Lyu, R.~Feng, T.~Hu, L.~Deng,
+  \href{https://www.sciencedirect.com/science/article/pii/S092658052500041X}{Automatic
+  tile position and orientation detection combining deep-learning and
+  rule-based computer vision algorithms}, Automation in Construction 171 (2025)
+  106001.
+\newblock \href {https://doi.org/10.1016/j.autcon.2025.106001}
+  {\path{doi:10.1016/j.autcon.2025.106001}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S092658052500041X}
+
+\bibitem{ge_deep_2025}
+L.~Ge, A.~Sadhu,
+  \href{https://www.sciencedirect.com/science/article/pii/S0926580524006873}{Deep
+  learning-enhanced smart ground robotic system for automated structural damage
+  inspection and mapping}, Automation in Construction 170 (2025) 105951.
+\newblock \href {https://doi.org/10.1016/j.autcon.2024.105951}
+  {\path{doi:10.1016/j.autcon.2024.105951}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0926580524006873}
+
+\bibitem{dai_advanced_2024}
+Y.~Dai, D.~Kim, K.~Lee, \href{https://www.mdpi.com/2079-9292/13/12/2250}{An
+  {Advanced} {Approach} to {Object} {Detection} and {Tracking} in {Robotics}
+  and {Autonomous} {Vehicles} {Using} {YOLOv8} and {LiDAR} {Data} {Fusion}},
+  Electronics 13~(12) (2024) 2250, number: 12 Publisher: Multidisciplinary
+  Digital Publishing Institute.
+\newblock \href {https://doi.org/10.3390/electronics13122250}
+  {\path{doi:10.3390/electronics13122250}}.
+\newline\urlprefix\url{https://www.mdpi.com/2079-9292/13/12/2250}
+
+\bibitem{alotaibi_deep_2024}
+A.~Alotaibi, H.~Alatawi, A.~Binnouh, L.~Duwayriat, T.~Alhmiedat, O.~M. Alia,
+  \href{https://www.mdpi.com/2227-7080/12/9/157}{Deep {Learning}-{Based}
+  {Vision} {Systems} for {Robot} {Semantic} {Navigation}: {An} {Experimental}
+  {Study}}, Technologies 12~(9) (2024) 157, number: 9 Publisher:
+  Multidisciplinary Digital Publishing Institute.
+\newblock \href {https://doi.org/10.3390/technologies12090157}
+  {\path{doi:10.3390/technologies12090157}}.
+\newline\urlprefix\url{https://www.mdpi.com/2227-7080/12/9/157}
+
+\bibitem{misir_drivable_2024}
+O.~Mısır, \href{https://peerj.com/articles/cs-2514}{Drivable path detection
+  for a mobile robot with differential drive using a deep {Learning} based
+  segmentation method for indoor navigation}, PeerJ Computer Science 10 (2024)
+  e2514, publisher: PeerJ Inc.
+\newblock \href {https://doi.org/10.7717/peerj-cs.2514}
+  {\path{doi:10.7717/peerj-cs.2514}}.
+\newline\urlprefix\url{https://peerj.com/articles/cs-2514}
+
+\bibitem{chen_rethinking_2017}
+L.-C. Chen, G.~Papandreou, F.~Schroff, H.~Adam,
+  \href{http://arxiv.org/abs/1706.05587}{Rethinking {Atrous} {Convolution} for
+  {Semantic} {Image} {Segmentation}}, arXiv:1706.05587 [cs] version: 3 (Dec.
+  2017).
+\newblock \href {https://doi.org/10.48550/arXiv.1706.05587}
+  {\path{doi:10.48550/arXiv.1706.05587}}.
+\newline\urlprefix\url{http://arxiv.org/abs/1706.05587}
+
+\bibitem{cao_orchard_2024}
+Z.~Cao, C.~Gong, J.~Meng, L.~Liu, Y.~Rao, W.~Hou,
+  \href{https://ieeexplore.ieee.org/document/10583867}{Orchard {Vision}
+  {Navigation} {Line} {Extraction} {Based} on {YOLOv8}-{Trunk} {Detection}},
+  IEEE Access 12 (2024) 104126--104137, conference Name: IEEE Access.
+\newblock \href {https://doi.org/10.1109/ACCESS.2024.3422422}
+  {\path{doi:10.1109/ACCESS.2024.3422422}}.
+\newline\urlprefix\url{https://ieeexplore.ieee.org/document/10583867}
+
+\bibitem{liu_single-stage_2025}
+H.~Liu, X.~Zeng, Y.~Shen, J.~Xu, Z.~Khan,
+  \href{https://www.sciencedirect.com/science/article/pii/S0168169924010780}{A
+  {Single}-{Stage} {Navigation} {Path} {Extraction} {Network} for agricultural
+  robots in orchards}, Computers and Electronics in Agriculture 229 (2025)
+  109687.
+\newblock \href {https://doi.org/10.1016/j.compag.2024.109687}
+  {\path{doi:10.1016/j.compag.2024.109687}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0168169924010780}
+
+\bibitem{huang_survey_2025}
+L.~Huang, W.~Yu, W.~Ma, W.~Zhong, Z.~Feng, H.~Wang, Q.~Chen, W.~Peng, X.~Feng,
+  B.~Qin, T.~Liu, \href{https://doi.org/10.1145/3703155}{A {Survey} on
+  {Hallucination} in {Large} {Language} {Models}: {Principles}, {Taxonomy},
+  {Challenges}, and {Open} {Questions}}, ACM Trans. Inf. Syst. 43~(2) (2025)
+  42:1--42:55.
+\newblock \href {https://doi.org/10.1145/3703155} {\path{doi:10.1145/3703155}}.
+\newline\urlprefix\url{https://doi.org/10.1145/3703155}
+
+\bibitem{asuzu_humanrobot_2025}
+K.~Asuzu, H.~Singh, M.~Idrissi,
+  \href{https://doi.org/10.1007/s11370-024-00570-1}{Human–robot interaction
+  through joint robot planning with large language models}, Intelligent Service
+  Robotics (Jan. 2025).
+\newblock \href {https://doi.org/10.1007/s11370-024-00570-1}
+  {\path{doi:10.1007/s11370-024-00570-1}}.
+\newline\urlprefix\url{https://doi.org/10.1007/s11370-024-00570-1}
+
+\bibitem{chen_synergai_2024}
+Y.~Chen, G.~Zhang, Y.~Zhang, H.~Xu, P.~Zhi, Q.~Li, S.~Huang,
+  \href{http://arxiv.org/abs/2409.15684}{{SYNERGAI}: {Perception} {Alignment}
+  for {Human}-{Robot} {Collaboration}}, arXiv:2409.15684 [cs] (Sep. 2024).
+\newblock \href {https://doi.org/10.48550/arXiv.2409.15684}
+  {\path{doi:10.48550/arXiv.2409.15684}}.
+\newline\urlprefix\url{http://arxiv.org/abs/2409.15684}
+
+\bibitem{allgeuer_when_2024}
+P.~Allgeuer, H.~Ali, S.~Wermter, \href{http://arxiv.org/abs/2407.00518}{When
+  {Robots} {Get} {Chatty}: {Grounding} {Multimodal} {Human}-{Robot}
+  {Conversation} and {Collaboration}}, Vol. 15019, 2024, pp. 306--321,
+  arXiv:2407.00518 [cs].
+\newblock \href {https://doi.org/10.1007/978-3-031-72341-4_21}
+  {\path{doi:10.1007/978-3-031-72341-4_21}}.
+\newline\urlprefix\url{http://arxiv.org/abs/2407.00518}
+
+\bibitem{wang_i_2024}
+Z.~Wang, B.~Liang, V.~Dhat, Z.~Brumbaugh, N.~Walker, R.~Krishna, M.~Cakmak,
+  \href{http://arxiv.org/abs/2411.12960}{I {Can} {Tell} {What} {I} am {Doing}:
+  {Toward} {Real}-{World} {Natural} {Language} {Grounding} of {Robot}
+  {Experiences}}, arXiv:2411.12960 [cs] version: 1 (Nov. 2024).
+\newblock \href {https://doi.org/10.48550/arXiv.2411.12960}
+  {\path{doi:10.48550/arXiv.2411.12960}}.
+\newline\urlprefix\url{http://arxiv.org/abs/2411.12960}
+
+\bibitem{tonekaboni_what_2019}
+S.~Tonekaboni, S.~Joshi, M.~D. McCradden, A.~Goldenberg, What clinicians want:
+  contextualizing explainable machine learning for clinical end use, in:
+  Machine learning for healthcare conference, PMLR, pp. 359--380.
+
+\bibitem{tjoa_enhancing_2023}
+E.~Tjoa, H.~J. Khok, T.~Chouhan, C.~Guan, Enhancing the confidence of deep
+  learning classifiers via interpretable saliency maps 562  126825, publisher:
+  Elsevier.
+
+\bibitem{li_hybrid_2024}
+X.~Li, Q.~Shen, A hybrid framework based on knowledge distillation for
+  explainable disease diagnosis 238  121844, publisher: Elsevier.
+
+\bibitem{termritthikun_explainable_2023}
+C.~Termritthikun, A.~Umer, S.~Suwanwimolkul, F.~Xia, I.~Lee, Explainable
+  knowledge distillation for on-device chest x-ray classificationPublisher:
+  IEEE.
+
+\bibitem{xiong_explainable_2022}
+W.~Xiong, Z.~Xiong, Y.~Cui,
+  \href{https://ieeexplore.ieee.org/abstract/document/9741720}{An {Explainable}
+  {Attention} {Network} for {Fine}-{Grained} {Ship} {Classification} {Using}
+  {Remote}-{Sensing} {Images}} 60  1--14, conference Name: IEEE Transactions on
+  Geoscience and Remote Sensing.
+\newblock \href {https://doi.org/10.1109/TGRS.2022.3162195}
+  {\path{doi:10.1109/TGRS.2022.3162195}}.
+\newline\urlprefix\url{https://ieeexplore.ieee.org/abstract/document/9741720}
+
+\bibitem{fernandes_intrinsic_2023}
+L.~Fernandes, J.~N. Fernandes, M.~Calado, J.~R. Pinto, R.~Cerqueira, J.~S.
+  Cardoso, Intrinsic {Explainability} for {End}-to-{End} {Object}
+  {Detection}Publisher: IEEE.
+
+\bibitem{freire_e-recruitment_2021}
+M.~N. Freire, L.~N. de~Castro, e-{Recruitment} recommender systems: a
+  systematic review 63  1--20, publisher: Springer.
+
+\bibitem{dass_detecting_2023}
+R.~K. Dass, N.~Petersen, M.~Omori, T.~R. Lave, U.~Visser, Detecting racial
+  inequalities in criminal justice: towards an equitable deep learning approach
+  for generating and interpreting racial categories using mugshots 38~(2)
+  897--918, publisher: Springer.
+
+\bibitem{gicic2023intelligent}
+A.~Gicić, D.~Donko, A.~Subasi, Intelligent credit scoring using deep learning
+  methods 35~(9)  e7637.
+
+\bibitem{schaaf_towards_2021}
+N.~Schaaf, O.~de~Mitri, H.~B. Kim, A.~Windberger, M.~F. Huber, Towards
+  measuring bias in image classification, in: Artificial {Neural} {Networks}
+  and {Machine} {Learning}–{ICANN} 2021: 30th {International} {Conference} on
+  {Artificial} {Neural} {Networks}, {Bratislava}, {Slovakia}, {September}
+  14–17, 2021, {Proceedings}, {Part} {III} 30, Springer, pp. 433--445.
+
+\bibitem{giloni_benn_2022}
+A.~Giloni, E.~Grolman, T.~Hagemann, R.~Fromm, S.~Fischer, Y.~Elovici,
+  A.~Shabtai, {BENN}: {Bias} {Estimation} {Using} a {Deep} {Neural}
+  {Network}Publisher: IEEE.
+
+\bibitem{iosifidis_fairness-enhancing_2019}
+V.~Iosifidis, T.~N.~H. Tran, E.~Ntoutsi, Fairness-enhancing interventions in
+  stream classification, in: Database and {Expert} {Systems} {Applications}:
+  30th {International} {Conference}, {DEXA} 2019, {Linz}, {Austria}, {August}
+  26–29, 2019, {Proceedings}, {Part} {I} 30, Springer, pp. 261--276.
+
+\bibitem{kehrenberg_tuning_2020}
+T.~Kehrenberg, Z.~Chen, N.~Quadrianto, Tuning fairness by balancing target
+  labels 3  33, publisher: Frontiers Media SA.
+
+\bibitem{jain_increasing_2023}
+B.~Jain, M.~Huber, R.~Elmasri,
+  \href{https://journals.flvc.org/FLAIRS/article/view/133311}{Increasing
+  {Fairness} in {Predictions} {Using} {Bias} {Parity} {Score} {Based} {Loss}
+  {Function} {Regularization}} 36.
+\newblock \href {https://doi.org/10.32473/flairs.36.133311}
+  {\path{doi:10.32473/flairs.36.133311}}.
+\newline\urlprefix\url{https://journals.flvc.org/FLAIRS/article/view/133311}
+
+\bibitem{yang_algorithmic_2023}
+J.~Yang, A.~A. Soltan, D.~W. Eyre, D.~A. Clifton, Algorithmic fairness and bias
+  mitigation for clinical machine learning with deep reinforcement learning
+  5~(8)  884--894, publisher: Nature Publishing Group UK London.
+
+\bibitem{raiaan_systematic_2024}
+M.~A.~K. Raiaan, S.~Sakib, N.~M. Fahad, A.~A. Mamun, M.~A. Rahman, S.~Shatabda,
+  M.~S.~H. Mukta,
+  \href{https://www.sciencedirect.com/science/article/pii/S2772662224000742}{A
+  systematic review of hyperparameter optimization techniques in
+  {Convolutional} {Neural} {Networks}}, Decision Analytics Journal 11 (2024)
+  100470.
+\newblock \href {https://doi.org/10.1016/j.dajour.2024.100470}
+  {\path{doi:10.1016/j.dajour.2024.100470}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S2772662224000742}
+
+\bibitem{pruning8794944}
+L.~Li, J.~Zhu, M.-T. Sun, Deep learning based method for pruning deep neural
+  networks, in: 2019 IEEE International Conference on Multimedia and Expo
+  Workshops (ICMEW), pp. 312--317.
+\newblock \href {https://doi.org/10.1109/ICMEW.2019.00-68}
+  {\path{doi:10.1109/ICMEW.2019.00-68}}.
+
+\bibitem{Yang_CVPR}
+J.~Yang, X.~Shen, J.~Xing, X.~Tian, H.~Li, B.~Deng, J.~Huang, X.-s. Hua,
+  Quantization networks, in: Proceedings of the IEEE/CVF Conference on Computer
+  Vision and Pattern Recognition (CVPR).
+
+\bibitem{NEURIPS2021_376c6b9f}
+S.~Stanton, P.~Izmailov, P.~Kirichenko, A.~A. Alemi, A.~G. Wilson,
+  \href{https://proceedings.neurips.cc/paper_files/paper/2021/file/376c6b9ff3bedbbea56751a84fffc10c-Paper.pdf}{Does
+  knowledge distillation really work?}, in: M.~Ranzato, A.~Beygelzimer,
+  Y.~Dauphin, P.~Liang, J.~W. Vaughan (Eds.), Advances in Neural Information
+  Processing Systems, Vol.~34, Curran Associates, Inc., pp. 6906--6919.
+\newline\urlprefix\url{https://proceedings.neurips.cc/paper_files/paper/2021/file/376c6b9ff3bedbbea56751a84fffc10c-Paper.pdf}
+
+\bibitem{ying_enhancing_2024}
+H.~Ying, M.~Song, Y.~Tang, S.~Xiao, Z.~Xiao,
+  \href{https://www.nature.com/articles/s41598-024-65691-0}{Enhancing deep
+  neural network training efficiency and performance through linear
+  prediction}, Scientific Reports 14~(1) (2024) 15197, publisher: Nature
+  Publishing Group.
+\newblock \href {https://doi.org/10.1038/s41598-024-65691-0}
+  {\path{doi:10.1038/s41598-024-65691-0}}.
+\newline\urlprefix\url{https://www.nature.com/articles/s41598-024-65691-0}
+
+\bibitem{wang_optimizing_2024}
+K.~Wang, X.~Huang, C.~Tan, S.-M. Yiu, Z.~Chen, X.~Lei,
+  \href{https://ieeexplore.ieee.org/document/10557251}{Optimizing {Neural}
+  {Network} {Training}: {A} {Markov} {Chain} {Approach} for {Resource}
+  {Conservation}}, IEEE Transactions on Artificial Intelligence (2024)
+  1--14Conference Name: IEEE Transactions on Artificial Intelligence.
+\newblock \href {https://doi.org/10.1109/TAI.2024.3413688}
+  {\path{doi:10.1109/TAI.2024.3413688}}.
+\newline\urlprefix\url{https://ieeexplore.ieee.org/document/10557251}
+
+\bibitem{yan_triple-inertial_2025}
+C.~Yan, J.~Xu, Q.~Wang, Z.~Peng, \href{http://arxiv.org/abs/2503.08489}{A
+  {Triple}-{Inertial} {Accelerated} {Alternating} {Optimization} {Method} for
+  {Deep} {Learning} {Training}}, arXiv:2503.08489 [cs] (Mar. 2025).
+\newblock \href {https://doi.org/10.48550/arXiv.2503.08489}
+  {\path{doi:10.48550/arXiv.2503.08489}}.
+\newline\urlprefix\url{http://arxiv.org/abs/2503.08489}
+
+\bibitem{krasnoproshin_random_2024}
+V.~V. Krasnoproshin, V.~V. Matskevich,
+  \href{https://doi.org/10.1134/S105466182470010X}{Random {Search} in {Neural}
+  {Networks} {Training}}, Pattern Recognition and Image Analysis 34~(2) (2024)
+  309--316.
+\newblock \href {https://doi.org/10.1134/S105466182470010X}
+  {\path{doi:10.1134/S105466182470010X}}.
+\newline\urlprefix\url{https://doi.org/10.1134/S105466182470010X}
+
+\bibitem{adversarial2018}
+N.~Akhtar, A.~Mian, Threat of adversarial attacks on deep learning in computer
+  vision: A survey 6  14410--14430.
+\newblock \href {https://doi.org/10.1109/ACCESS.2018.2807385}
+  {\path{doi:10.1109/ACCESS.2018.2807385}}.
+
+\bibitem{szegedy2013intriguing}
+C.~Szegedy, W.~Zaremba, I.~Sutskever, J.~Bruna, D.~Erhan, I.~Goodfellow,
+  R.~Fergus, Intriguing properties of neural networks.
+
+\bibitem{tabacof2016adversarial}
+P.~Tabacof, J.~Tavares, E.~Valle, Adversarial images for variational
+  autoencoders.
+
+\bibitem{zhang2020adversarial}
+W.~E. Zhang, Q.~Z. Sheng, A.~Alhazmi, C.~Li, Adversarial attacks on
+  deep-learning models in natural language processing: A survey 11~(3)  1--41.
+
+\bibitem{jiang2019black}
+L.~Jiang, X.~Ma, S.~Chen, J.~Bailey, Y.-G. Jiang, Black-box adversarial attacks
+  on video recognition models, in: Proceedings of the 27th ACM International
+  Conference on Multimedia, pp. 864--872.
+
+\bibitem{esmaeilpour2019robust}
+M.~Esmaeilpour, P.~Cardinal, A.~L. Koerich, A robust approach for securing
+  audio classification against adversarial attacks 15  2147--2159.
+
+\bibitem{munappy_data_2022}
+A.~R. Munappy, J.~Bosch, H.~H. Olsson, A.~Arpteg, B.~Brinne,
+  \href{https://www.sciencedirect.com/science/article/pii/S0164121222000905}{Data
+  management for production quality deep learning models: {Challenges} and
+  solutions} 191  111359.
+\newblock \href {https://doi.org/10.1016/j.jss.2022.111359}
+  {\path{doi:10.1016/j.jss.2022.111359}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0164121222000905}
+
+\bibitem{luca_impact_2022}
+A.~R. Luca, T.~F. Ursuleanu, L.~Gheorghe, R.~Grigorovici, S.~Iancu,
+  M.~Hlusneac, A.~Grigorovici,
+  \href{https://www.sciencedirect.com/science/article/pii/S2352914822000612}{Impact
+  of quality, type and volume of data used by deep learning models in the
+  analysis of medical images} 29  100911.
+\newblock \href {https://doi.org/10.1016/j.imu.2022.100911}
+  {\path{doi:10.1016/j.imu.2022.100911}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S2352914822000612}
+
+\bibitem{zhuang_comprehensive_2020}
+F.~Zhuang, Z.~Qi, K.~Duan, D.~Xi, Y.~Zhu, H.~Zhu, H.~Xiong, Q.~He, A
+  comprehensive survey on transfer learning 109~(1)  43--76, publisher: IEEE.
+
+\bibitem{mumuni_data_2022}
+A.~Mumuni, F.~Mumuni,
+  \href{https://www.sciencedirect.com/science/article/pii/S2590005622000911}{Data
+  augmentation: {A} comprehensive survey of modern approaches} 16  100258.
+\newblock \href {https://doi.org/10.1016/j.array.2022.100258}
+  {\path{doi:10.1016/j.array.2022.100258}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S2590005622000911}
+
+\bibitem{hu_survey_2023}
+C.~Hu, Z.~Sun, C.~Li, Y.~Zhang, C.~Xing,
+  \href{https://www.mdpi.com/1424-8220/23/15/6976}{Survey of {Time} {Series}
+  {Data} {Generation} in {IoT}} 23~(15)  6976, number: 15 Publisher:
+  Multidisciplinary Digital Publishing Institute.
+\newblock \href {https://doi.org/10.3390/s23156976}
+  {\path{doi:10.3390/s23156976}}.
+\newline\urlprefix\url{https://www.mdpi.com/1424-8220/23/15/6976}
+
+\bibitem{murtaza_synthetic_2023}
+H.~Murtaza, M.~Ahmed, N.~F. Khan, G.~Murtaza, S.~Zafar, A.~Bano,
+  \href{https://www.sciencedirect.com/science/article/pii/S1574013723000138}{Synthetic
+  data generation: {State} of the art in health care domain} 48  100546.
+\newblock \href {https://doi.org/10.1016/j.cosrev.2023.100546}
+  {\path{doi:10.1016/j.cosrev.2023.100546}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S1574013723000138}
+
+\bibitem{li_survey_2024}
+D.~Li, Z.~Wang, Y.~Chen, R.~Jiang, W.~Ding, M.~Okumura,
+  \href{http://arxiv.org/abs/2405.00334}{A {Survey} on {Deep} {Active}
+  {Learning}: {Recent} {Advances} and {New} {Frontiers}}, arXiv:2405.00334 [cs]
+  (Jul. 2024).
+\newblock \href {https://doi.org/10.48550/arXiv.2405.00334}
+  {\path{doi:10.48550/arXiv.2405.00334}}.
+\newline\urlprefix\url{http://arxiv.org/abs/2405.00334}
+
+\bibitem{cacciarelli_active_2024}
+D.~Cacciarelli, M.~Kulahci,
+  \href{https://doi.org/10.1007/s10994-023-06454-2}{Active learning for data
+  streams: a survey}, Machine Learning 113~(1) (2024) 185--239.
+\newblock \href {https://doi.org/10.1007/s10994-023-06454-2}
+  {\path{doi:10.1007/s10994-023-06454-2}}.
+\newline\urlprefix\url{https://doi.org/10.1007/s10994-023-06454-2}
+
+\bibitem{tan_large_2024}
+Z.~Tan, D.~Li, S.~Wang, A.~Beigi, B.~Jiang, A.~Bhattacharjee, M.~Karami, J.~Li,
+  L.~Cheng, H.~Liu, \href{http://arxiv.org/abs/2402.13446}{Large {Language}
+  {Models} for {Data} {Annotation}: {A} {Survey}}, arXiv:2402.13446 [cs]
+  version: 2 (Jun. 2024).
+\newblock \href {https://doi.org/10.48550/arXiv.2402.13446}
+  {\path{doi:10.48550/arXiv.2402.13446}}.
+\newline\urlprefix\url{http://arxiv.org/abs/2402.13446}
+
+\bibitem{gui_survey_2024}
+J.~Gui, T.~Chen, J.~Zhang, Q.~Cao, Z.~Sun, H.~Luo, D.~Tao,
+  \href{https://ieeexplore.ieee.org/document/10559458}{A {Survey} on
+  {Self}-{Supervised} {Learning}: {Algorithms}, {Applications}, and {Future}
+  {Trends}}, IEEE Transactions on Pattern Analysis and Machine Intelligence
+  46~(12) (2024) 9052--9071, conference Name: IEEE Transactions on Pattern
+  Analysis and Machine Intelligence.
+\newblock \href {https://doi.org/10.1109/TPAMI.2024.3415112}
+  {\path{doi:10.1109/TPAMI.2024.3415112}}.
+\newline\urlprefix\url{https://ieeexplore.ieee.org/document/10559458}
+
+\bibitem{altabrawee_stclr_2025}
+H.~Altabrawee, M.~H. Mohd~Noor,
+  \href{https://www.sciencedirect.com/science/article/pii/S0925231225003662}{{STCLR}:
+  {Sparse} {Temporal} {Contrastive} {Learning} for {Video} {Representation}},
+  Neurocomputing 630 (2025) 129694.
+\newblock \href {https://doi.org/10.1016/j.neucom.2025.129694}
+  {\path{doi:10.1016/j.neucom.2025.129694}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0925231225003662}
+
+\bibitem{altabrawee_repeat_2024}
+H.~Altabrawee, M.~H. Mohd~Noor,
+  \href{https://www.sciencedirect.com/science/article/pii/S0031320324005557}{Repeat
+  and learn: {Self}-supervised visual representations learning by {Repeated}
+  {Scene} {Localization}}, Pattern Recognition 156 (2024) 110804.
+\newblock \href {https://doi.org/10.1016/j.patcog.2024.110804}
+  {\path{doi:10.1016/j.patcog.2024.110804}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0031320324005557}
+
+\bibitem{lee_predicting_2021}
+J.~D. Lee, Q.~Lei, N.~Saunshi, J.~Zhuo, Predicting what you already know helps:
+  provable self-supervised learning, in: Proceedings of the 35th
+  {International} {Conference} on {Neural} {Information} {Processing}
+  {Systems}, {NIPS} '21, Curran Associates Inc., Red Hook, NY, USA, 2021, pp.
+  309--323.
+
+\bibitem{maldonado2023owadapt}
+S.~Maldonado, C.~Vairetti, K.~Jara, M.~Carrasco, J.~López, Owadapt: An
+  adaptive loss function for deep learning using owa operators 280  111022.
+
+\bibitem{zhu2024irda}
+W.~Zhu, O.~Wu, N.~Yang, Irda: Implicit data augmentation for deep imbalanced
+  regression  120873.
+
+\bibitem{belhaouari2024oversampling}
+S.~B. Belhaouari, A.~Islam, K.~Kassoul, A.~Al-Fuqaha, A.~Bouzerdoum,
+  Oversampling techniques for imbalanced data in regression 252  124118.
+
+\bibitem{wang2024class}
+X.~Wang, Y.~Zhang, N.~Bai, Q.~Yu, Q.~Wang, Class-imbalanced time series anomaly
+  detection method based on cost-sensitive hybrid network 238  122192.
+
+\bibitem{ircio2023minimum}
+J.~Ircio, A.~Lojo, U.~Mori, S.~Malinowski, J.~A. Lozano, Minimum recall-based
+  loss function for imbalanced time series classification 35~(10)
+  10024--10034.
+
+\bibitem{moles2024exploring}
+L.~Moles, A.~Andres, G.~Echegaray, F.~Boto, Exploring data augmentation and
+  active learning benefits in imbalanced datasets 12~(12)  1898.
+
+\bibitem{zhu2024sfpl}
+Y.~Zhu, S.~Wang, H.~Yu, W.~Li, J.~Tian, Sfpl: Sample-specific fine-grained
+  prototype learning for imbalanced medical image classification 97  103281.
+
+\bibitem{jimale_subject_2023}
+A.~O. Jimale, M.~H. Mohd~Noor,
+  \href{https://doi.org/10.1007/s12652-021-03465-6}{Subject variability in
+  sensor-based activity recognition}, Journal of Ambient Intelligence and
+  Humanized Computing 14~(4) (2023) 3261--3274.
+\newblock \href {https://doi.org/10.1007/s12652-021-03465-6}
+  {\path{doi:10.1007/s12652-021-03465-6}}.
+\newline\urlprefix\url{https://doi.org/10.1007/s12652-021-03465-6}
+
+\bibitem{zhang_large_2023}
+C.~Zhang, J.~Chen, J.~Li, Y.~Peng, Z.~Mao,
+  \href{https://www.sciencedirect.com/science/article/pii/S2667379723000451}{Large
+  language models for human–robot interaction: {A} review}, Biomimetic
+  Intelligence and Robotics 3~(4) (2023) 100131.
+\newblock \href {https://doi.org/10.1016/j.birob.2023.100131}
+  {\path{doi:10.1016/j.birob.2023.100131}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S2667379723000451}
+
+\bibitem{butlin_consciousness_2023}
+P.~Butlin, R.~Long, E.~Elmoznino, Y.~Bengio, J.~Birch, A.~Constant, G.~Deane,
+  S.~M. Fleming, C.~Frith, X.~Ji, R.~Kanai, C.~Klein, G.~Lindsay, M.~Michel,
+  L.~Mudrik, M.~A.~K. Peters, E.~Schwitzgebel, J.~Simon, R.~VanRullen,
+  \href{http://arxiv.org/abs/2308.08708}{Consciousness in {Artificial}
+  {Intelligence}: {Insights} from the {Science} of {Consciousness}},
+  arXiv:2308.08708 [cs] (Aug. 2023).
+\newblock \href {https://doi.org/10.48550/arXiv.2308.08708}
+  {\path{doi:10.48550/arXiv.2308.08708}}.
+\newline\urlprefix\url{http://arxiv.org/abs/2308.08708}
+
+\bibitem{marra_statistical_2024}
+G.~Marra, S.~Dumančić, R.~Manhaeve, L.~De~Raedt,
+  \href{https://www.sciencedirect.com/science/article/pii/S0004370223002084}{From
+  statistical relational to neurosymbolic artificial intelligence: {A} survey},
+  Artificial Intelligence 328 (2024) 104062.
+\newblock \href {https://doi.org/10.1016/j.artint.2023.104062}
+  {\path{doi:10.1016/j.artint.2023.104062}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0004370223002084}
+
+\bibitem{colelough_neuro-symbolic_2025}
+B.~C. Colelough, W.~Regli,
+  \href{http://arxiv.org/abs/2501.05435}{Neuro-{Symbolic} {AI} in 2024: {A}
+  {Systematic} {Review}}, arXiv:2501.05435 [cs] version: 1 (Jan. 2025).
+\newblock \href {https://doi.org/10.48550/arXiv.2501.05435}
+  {\path{doi:10.48550/arXiv.2501.05435}}.
+\newline\urlprefix\url{http://arxiv.org/abs/2501.05435}
+
+\bibitem{bhuyan_neuro-symbolic_2024}
+B.~P. Bhuyan, A.~Ramdane-Cherif, R.~Tomar, T.~P. Singh,
+  \href{https://doi.org/10.1007/s00521-024-09960-z}{Neuro-symbolic artificial
+  intelligence: a survey}, Neural Computing and Applications 36~(21) (2024)
+  12809--12844.
+\newblock \href {https://doi.org/10.1007/s00521-024-09960-z}
+  {\path{doi:10.1007/s00521-024-09960-z}}.
+\newline\urlprefix\url{https://doi.org/10.1007/s00521-024-09960-z}
+
+\bibitem{wu_survey_2025}
+H.~Wu, J.~Zhang, L.~Wang, D.~Li, D.~Kong, Y.~Han,
+  \href{https://doi.org/10.1007/s11227-025-07083-3}{A survey on quantum deep
+  learning}, The Journal of Supercomputing 81~(4) (2025) 564.
+\newblock \href {https://doi.org/10.1007/s11227-025-07083-3}
+  {\path{doi:10.1007/s11227-025-07083-3}}.
+\newline\urlprefix\url{https://doi.org/10.1007/s11227-025-07083-3}
+
+\bibitem{klusch_quantum_2024}
+M.~Klusch, J.~Lässig, D.~Müssig, A.~Macaluso, F.~K. Wilhelm,
+  \href{https://doi.org/10.1007/s13218-024-00871-8}{Quantum {Artificial}
+  {Intelligence}: {A} {Brief} {Survey}}, KI - Künstliche Intelligenz 38~(4)
+  (2024) 257--276.
+\newblock \href {https://doi.org/10.1007/s13218-024-00871-8}
+  {\path{doi:10.1007/s13218-024-00871-8}}.
+\newline\urlprefix\url{https://doi.org/10.1007/s13218-024-00871-8}
+
+\bibitem{shrestha_survey_2022}
+A.~Shrestha, H.~Fang, Z.~Mei, D.~P. Rider, Q.~Wu, Q.~Qiu,
+  \href{https://ieeexplore.ieee.org/document/9782767}{A {Survey} on
+  {Neuromorphic} {Computing}: {Models} and {Hardware}}, IEEE Circuits and
+  Systems Magazine 22~(2) (2022) 6--35, conference Name: IEEE Circuits and
+  Systems Magazine.
+\newblock \href {https://doi.org/10.1109/MCAS.2022.3166331}
+  {\path{doi:10.1109/MCAS.2022.3166331}}.
+\newline\urlprefix\url{https://ieeexplore.ieee.org/document/9782767}
+
+\bibitem{kudithipudi_neuromorphic_2025}
+D.~Kudithipudi, C.~Schuman, C.~M. Vineyard, T.~Pandit, C.~Merkel, R.~Kubendran,
+  J.~B. Aimone, G.~Orchard, C.~Mayr, R.~Benosman, J.~Hays, C.~Young,
+  C.~Bartolozzi, A.~Majumdar, S.~G. Cardwell, M.~Payvand, S.~Buckley,
+  S.~Kulkarni, H.~A. Gonzalez, G.~Cauwenberghs, C.~S. Thakur, A.~Subramoney,
+  S.~Furber,
+  \href{https://www.nature.com/articles/s41586-024-08253-8}{Neuromorphic
+  computing at scale}, Nature 637~(8047) (2025) 801--812, publisher: Nature
+  Publishing Group.
+\newblock \href {https://doi.org/10.1038/s41586-024-08253-8}
+  {\path{doi:10.1038/s41586-024-08253-8}}.
+\newline\urlprefix\url{https://www.nature.com/articles/s41586-024-08253-8}
+
+\bibitem{fei_towards_2022}
+N.~Fei, Z.~Lu, Y.~Gao, G.~Yang, Y.~Huo, J.~Wen, H.~Lu, R.~Song, X.~Gao,
+  T.~Xiang, H.~Sun, J.-R. Wen,
+  \href{https://www.nature.com/articles/s41467-022-30761-2}{Towards artificial
+  general intelligence via a multimodal foundation model}, Nature
+  Communications 13~(1) (2022) 3094, publisher: Nature Publishing Group.
+\newblock \href {https://doi.org/10.1038/s41467-022-30761-2}
+  {\path{doi:10.1038/s41467-022-30761-2}}.
+\newline\urlprefix\url{https://www.nature.com/articles/s41467-022-30761-2}
+
+\end{thebibliography}
