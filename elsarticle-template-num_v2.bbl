@@ -40,6 +40,11 @@ P.~Dixit, S.~Silakari,
   {\path{doi:10.1016/j.cosrev.2020.100317}}.
 \newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S1574013720304172}
 
+\bibitem{noauthor_alphafold_2025}
+\href{https://deepmind.google/technologies/alphafold/}{{AlphaFold}} (Feb.
+  2025).
+\newline\urlprefix\url{https://deepmind.google/technologies/alphafold/}
+
 \bibitem{dong_survey_2021}
 S.~Dong, P.~Wang, K.~Abbas, A survey on deep learning and its applications 40
   100379, publisher: Elsevier.

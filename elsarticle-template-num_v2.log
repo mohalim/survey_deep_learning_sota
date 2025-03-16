@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.11.5)  16 MAR 2025 10:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.11.5)  16 MAR 2025 10:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -386,41 +386,24 @@ Package: footnote 1997/01/28 1.13 Save footnotes around boxes
 \fn@notes=\box60
 \fn@width=\dimen164
 )
-(C:\Users\mohal\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
-Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
+(C:\Users\mohal\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
 
 (C:\Users\mohal\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package color Info: Driver file: pdftex.def on input line 149.
+Package xcolor Info: Driver file: pdftex.def on input line 227.
 (C:\Users\mohal\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
-) (C:\Users\mohal\AppData\Local\Programs\MiKTeX\tex/generic/soul\soul.sty
-Package: soul 2023-06-14 v3.1 Permit use of UTF-8 characters in soul (HO)
-
-(C:\Users\mohal\AppData\Local\Programs\MiKTeX\tex/generic/soul\soul-ori.sty
-Package: soul-ori 2023-06-14 v3.1 letterspacing/underlining (mf)
-\SOUL@word=\toks25
-\SOUL@lasttoken=\toks26
-\SOUL@syllable=\toks27
-\SOUL@cmds=\toks28
-\SOUL@buffer=\toks29
-\SOUL@token=\toks30
-\SOUL@syllgoal=\dimen165
-\SOUL@syllwidth=\dimen166
-\SOUL@charkern=\dimen167
-\SOUL@hyphkern=\dimen168
-\SOUL@dimen=\dimen169
-\SOUL@dimeni=\dimen170
-\SOUL@minus=\count297
-\SOUL@comma=\count298
-\SOUL@apo=\count299
-\SOUL@grave=\count300
-\SOUL@spaceskip=\skip64
-\SOUL@ttwidth=\dimen171
-\SOUL@uldp=\dimen172
-\SOUL@ulht=\dimen173
-))
-(elsarticle-template-num_v2.aux)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+) (elsarticle-template-num_v2.aux)
 \openout1 = `elsarticle-template-num_v2.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 65.
@@ -445,17 +428,17 @@ LaTeX Font Info:    ... okay on input line 65.
 (C:\Users\mohal\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count301
-\scratchdimen=\dimen174
+\scratchcounter=\count297
+\scratchdimen=\dimen165
 \scratchbox=\box61
-\nofMPsegments=\count302
-\nofMParguments=\count303
-\everyMPshowfont=\toks31
-\MPscratchCnt=\count304
-\MPscratchDim=\dimen175
-\MPnumerator=\count305
-\makeMPintoPDFobject=\count306
-\everyMPtoPDFconversion=\toks32
+\nofMPsegments=\count298
+\nofMParguments=\count299
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count300
+\MPscratchDim=\dimen166
+\MPnumerator=\count301
+\makeMPintoPDFobject=\count302
+\everyMPtoPDFconversion=\toks26
 )
 (C:\Users\mohal\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -526,49 +509,46 @@ Overfull \hbox (44.33855pt too wide) in paragraph at lines 192--210
  []
 
 [4] [5] [6]
-<fig_layers_neuron.png, id=240, 284.56313pt x 341.275pt>
+<fig_layers_neuron.png, id=242, 284.56313pt x 341.275pt>
 File: fig_layers_neuron.png Graphic file (type png)
 <use fig_layers_neuron.png>
 Package pdftex.def Info: fig_layers_neuron.png  used on input line 239.
 (pdftex.def)             Requested size: 142.2812pt x 170.63707pt.
  [7 <./fig_layers_neuron.png>]
-<fig_layers_convolution.png, id=257, 602.25pt x 441.65pt>
+<fig_layers_convolution.png, id=258, 602.25pt x 441.65pt>
 File: fig_layers_convolution.png Graphic file (type png)
 <use fig_layers_convolution.png>
 Package pdftex.def Info: fig_layers_convolution.png  used on input line 258.
 (pdftex.def)             Requested size: 240.89572pt x 176.65686pt.
-<fig_layers_pooling.png, id=260, 562.1pt x 401.5pt>
+ [8 <./fig_layers_convolution.png>]
+<fig_layers_pooling.png, id=271, 562.1pt x 401.5pt>
 File: fig_layers_pooling.png Graphic file (type png)
 <use fig_layers_pooling.png>
 Package pdftex.def Info: fig_layers_pooling.png  used on input line 273.
 (pdftex.def)             Requested size: 224.83601pt x 160.59715pt.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[8 <./fig_layers_convolution.png>] [9 <./fig_layers_pooling.png>] [10] [11]
-<fig_activation_functions_sigmoid.png, id=311, 631.35875pt x 516.93124pt>
+[9 <./fig_layers_pooling.png>] [10] [11]
+<fig_activation_functions_sigmoid.png, id=313, 631.35875pt x 516.93124pt>
 File: fig_activation_functions_sigmoid.png Graphic file (type png)
 <use fig_activation_functions_sigmoid.png>
 Package pdftex.def Info: fig_activation_functions_sigmoid.png  used on input li
 ne 300.
 (pdftex.def)             Requested size: 157.8393pt x 129.23248pt.
-<fig_activation_functions_tanh.png, id=312, 645.41125pt x 516.93124pt>
+<fig_activation_functions_tanh.png, id=314, 645.41125pt x 516.93124pt>
 File: fig_activation_functions_tanh.png Graphic file (type png)
 <use fig_activation_functions_tanh.png>
 Package pdftex.def Info: fig_activation_functions_tanh.png  used on input line 
 307.
 (pdftex.def)             Requested size: 161.35242pt x 129.23248pt.
-<fig_activation_functions_relu.png, id=313, 616.3025pt x 516.93124pt>
+<fig_activation_functions_relu.png, id=315, 616.3025pt x 516.93124pt>
 File: fig_activation_functions_relu.png Graphic file (type png)
 <use fig_activation_functions_relu.png>
 Package pdftex.def Info: fig_activation_functions_relu.png  used on input line 
 314.
 (pdftex.def)             Requested size: 154.07524pt x 129.23248pt.
-
-[12] [13 <./fig_activation_functions_sigmoid.png> <./fig_activation_functions_t
-anh.png> <./fig_activation_functions_relu.png>] [14] [15]
-<fig_deep_sv_learning_mlp.png, id=381, 331.2375pt x 301.125pt>
+ [12] [13 <./fig_activation_functions_sigmoid.png> <./fig_activation_functions_
+tanh.png> <./fig_activation_functions_relu.png>] [14] [15]
+<fig_deep_sv_learning_mlp.png, id=383, 331.2375pt x 301.125pt>
 File: fig_deep_sv_learning_mlp.png Graphic file (type png)
 <use fig_deep_sv_learning_mlp.png>
 Package pdftex.def Info: fig_deep_sv_learning_mlp.png  used on input line 352.
@@ -578,7 +558,7 @@ Package pdftex.def Info: fig_deep_sv_learning_mlp.png  used on input line 352.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [16]
-<fig_deep_sv_learning_rnn.png, id=395, 235.88126pt x 321.2pt>
+<fig_deep_sv_learning_rnn.png, id=397, 235.88126pt x 321.2pt>
 File: fig_deep_sv_learning_rnn.png Graphic file (type png)
 <use fig_deep_sv_learning_rnn.png>
 Package pdftex.def Info: fig_deep_sv_learning_rnn.png  used on input line 363.
@@ -588,7 +568,7 @@ Package pdftex.def Info: fig_deep_sv_learning_rnn.png  used on input line 363.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [17 <./fig_deep_sv_learning_mlp.png>]
-<fig_deep_sv_learning_lstm.png, id=408, 471.7625pt x 447.6725pt>
+<fig_deep_sv_learning_lstm.png, id=410, 471.7625pt x 447.6725pt>
 File: fig_deep_sv_learning_lstm.png Graphic file (type png)
 <use fig_deep_sv_learning_lstm.png>
 Package pdftex.def Info: fig_deep_sv_learning_lstm.png  used on input line 372.
@@ -598,7 +578,7 @@ Package pdftex.def Info: fig_deep_sv_learning_lstm.png  used on input line 372.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<fig_deep_sv_learning_gru.png, id=410, 514.92375pt x 453.695pt>
+<fig_deep_sv_learning_gru.png, id=412, 514.92375pt x 453.695pt>
 File: fig_deep_sv_learning_gru.png Graphic file (type png)
 <use fig_deep_sv_learning_gru.png>
 Package pdftex.def Info: fig_deep_sv_learning_gru.png  used on input line 381.
@@ -611,42 +591,42 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 LaTeX Warning: Text page 19 contains only floats.
 
 [19 <./fig_deep_sv_learning_lstm.png> <./fig_deep_sv_learning_gru.png>]
-<fig_deep_sv_learning_cnn.png, id=426, 501.875pt x 114.92938pt>
+<fig_deep_sv_learning_cnn.png, id=428, 501.875pt x 114.92938pt>
 File: fig_deep_sv_learning_cnn.png Graphic file (type png)
 <use fig_deep_sv_learning_cnn.png>
 Package pdftex.def Info: fig_deep_sv_learning_cnn.png  used on input line 391.
 (pdftex.def)             Requested size: 376.40532pt x 86.19681pt.
 
 [20 <./fig_deep_sv_learning_cnn.png>] [21]
-<fig_deep_sv_learning_cnn_inception.png, id=448, 562.1pt x 302.12875pt>
+<fig_deep_sv_learning_cnn_inception.png, id=450, 562.1pt x 302.12875pt>
 File: fig_deep_sv_learning_cnn_inception.png Graphic file (type png)
 <use fig_deep_sv_learning_cnn_inception.png>
 Package pdftex.def Info: fig_deep_sv_learning_cnn_inception.png  used on input 
 line 408.
 (pdftex.def)             Requested size: 337.2626pt x 181.27864pt.
  [22 <./fig_deep_sv_learning_cnn_inception.png>]
-<fig_deep_sv_learning_cnn_resnet.png, id=459, 160.6pt x 341.275pt>
+<fig_deep_sv_learning_cnn_resnet.png, id=461, 160.6pt x 341.275pt>
 File: fig_deep_sv_learning_cnn_resnet.png Graphic file (type png)
 <use fig_deep_sv_learning_cnn_resnet.png>
 Package pdftex.def Info: fig_deep_sv_learning_cnn_resnet.png  used on input lin
 e 419.
 (pdftex.def)             Requested size: 80.29979pt x 170.63707pt.
  [23 <./fig_deep_sv_learning_cnn_resnet.png>]
-<fig_deep_sv_learning_cnn_densenet.png, id=471, 844.15375pt x 250.9375pt>
+<fig_deep_sv_learning_cnn_densenet.png, id=473, 844.15375pt x 250.9375pt>
 File: fig_deep_sv_learning_cnn_densenet.png Graphic file (type png)
 <use fig_deep_sv_learning_cnn_densenet.png>
 Package pdftex.def Info: fig_deep_sv_learning_cnn_densenet.png  used on input l
 ine 428.
 (pdftex.def)             Requested size: 379.86568pt x 112.92082pt.
  [24 <./fig_deep_sv_learning_cnn_densenet.png>]
-<fig_deep_sv_learning_cnn_resnext.png, id=484, 814.04124pt x 291.0875pt>
+<fig_deep_sv_learning_cnn_resnext.png, id=486, 814.04124pt x 291.0875pt>
 File: fig_deep_sv_learning_cnn_resnext.png Graphic file (type png)
 <use fig_deep_sv_learning_cnn_resnext.png>
 Package pdftex.def Info: fig_deep_sv_learning_cnn_resnext.png  used on input li
 ne 439.
 (pdftex.def)             Requested size: 366.31517pt x 130.98816pt.
  [25 <./fig_deep_sv_learning_cnn_resnext.png>]
-<fig_cnn_top_five_errors_imagenet.png, id=500, 435.372pt x 364.416pt>
+<fig_cnn_top_five_errors_imagenet.png, id=502, 435.372pt x 364.416pt>
 File: fig_cnn_top_five_errors_imagenet.png Graphic file (type png)
 <use fig_cnn_top_five_errors_imagenet.png>
 Package pdftex.def Info: fig_cnn_top_five_errors_imagenet.png  used on input li
@@ -656,7 +636,7 @@ ne 450.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<fig_cnn_top_one_errors_cifar10.png, id=501, 441.285pt x 283.605pt>
+<fig_cnn_top_one_errors_cifar10.png, id=503, 441.285pt x 283.605pt>
 File: fig_cnn_top_one_errors_cifar10.png Graphic file (type png)
 <use fig_cnn_top_one_errors_cifar10.png>
 Package pdftex.def Info: fig_cnn_top_one_errors_cifar10.png  used on input line
@@ -667,7 +647,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [26] [27 <./fig_cnn_top_five_errors_imagenet.png>] [28 <./fig_cnn_top_one_error
 s_cifar10.png>]
-<fig_deep_unsv_learning_rbm.png, id=538, 170.6375pt x 301.125pt>
+<fig_deep_unsv_learning_rbm.png, id=540, 170.6375pt x 301.125pt>
 File: fig_deep_unsv_learning_rbm.png Graphic file (type png)
 <use fig_deep_unsv_learning_rbm.png>
 Package pdftex.def Info: fig_deep_unsv_learning_rbm.png  used on input line 478
@@ -677,7 +657,7 @@ Package pdftex.def Info: fig_deep_unsv_learning_rbm.png  used on input line 478
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<fig_deep_unsv_learning_dbn.png, id=542, 341.275pt x 381.425pt>
+<fig_deep_unsv_learning_dbn.png, id=544, 341.275pt x 381.425pt>
 File: fig_deep_unsv_learning_dbn.png Graphic file (type png)
 <use fig_deep_unsv_learning_dbn.png>
 Package pdftex.def Info: fig_deep_unsv_learning_dbn.png  used on input line 487
@@ -687,14 +667,14 @@ Package pdftex.def Info: fig_deep_unsv_learning_dbn.png  used on input line 487
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [29] [30 <./fig_deep_unsv_learning_rbm.png> <./fig_deep_unsv_learning_dbn.png>]
-<fig_deep_unsv_learning_ae.png, id=564, 250.9375pt x 331.2375pt>
+<fig_deep_unsv_learning_ae.png, id=565, 250.9375pt x 331.2375pt>
 File: fig_deep_unsv_learning_ae.png Graphic file (type png)
 <use fig_deep_unsv_learning_ae.png>
 Package pdftex.def Info: fig_deep_unsv_learning_ae.png  used on input line 496.
 
 (pdftex.def)             Requested size: 150.56364pt x 198.74402pt.
 [31 <./fig_deep_unsv_learning_ae.png>]
-<fig_deep_unsv_learning_gan.png, id=587, 622.325pt x 482.80376pt>
+<fig_deep_unsv_learning_gan.png, id=589, 622.325pt x 482.80376pt>
 File: fig_deep_unsv_learning_gan.png Graphic file (type png)
 <use fig_deep_unsv_learning_gan.png>
 Package pdftex.def Info: fig_deep_unsv_learning_gan.png  used on input line 507
@@ -702,7 +682,7 @@ Package pdftex.def Info: fig_deep_unsv_learning_gan.png  used on input line 507
 (pdftex.def)             Requested size: 373.39787pt x 289.6845pt.
  [32 <./fig_deep_unsv_learning_gan.png>]
 [33] [34] [35]
-<fig_img_clf_MaxViT.png, id=659, 372.39125pt x 172.14313pt>
+<fig_img_clf_MaxViT.png, id=661, 372.39125pt x 172.14313pt>
 File: fig_img_clf_MaxViT.png Graphic file (type png)
 <use fig_img_clf_MaxViT.png>
 Package pdftex.def Info: fig_img_clf_MaxViT.png  used on input line 531.
@@ -760,16 +740,12 @@ LaTeX Warning: Command \texttimes invalid in math mode on input line 564.
 LaTeX Warning: Command \texttimes invalid in math mode on input line 564.
 
 Missing character: There is no Ö in font cmr12!
-[38] [39]
-<fig_obj_det_Dynamic-DETR.png, id=725, 495.8525pt x 217.81375pt>
+[38] [39] [40]
+<fig_obj_det_Dynamic-DETR.png, id=737, 495.8525pt x 217.81375pt>
 File: fig_obj_det_Dynamic-DETR.png Graphic file (type png)
 <use fig_obj_det_Dynamic-DETR.png>
 Package pdftex.def Info: fig_obj_det_Dynamic-DETR.png  used on input line 578.
 (pdftex.def)             Requested size: 347.09438pt x 152.46857pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 591--591
 []\T1/cmr/m/n/8 [[]],
@@ -810,13 +786,17 @@ Overfull \hbox (44.33855pt too wide) in paragraph at lines 587--605
 [][]
  []
 
-[40] [41] [42 <./fig_obj_det_Dynamic-DETR.png>] [43]
-<fig_img_seg_GC-ViT.png, id=781, 546.04pt x 98.86937pt>
+[41 <./fig_obj_det_Dynamic-DETR.png>] [42] [43]
+<fig_img_seg_GC-ViT.png, id=783, 546.04pt x 98.86937pt>
 File: fig_img_seg_GC-ViT.png Graphic file (type png)
 <use fig_img_seg_GC-ViT.png>
 Package pdftex.def Info: fig_img_seg_GC-ViT.png  used on input line 619.
 (pdftex.def)             Requested size: 382.22539pt x 69.20808pt.
- [44 <./fig_img_seg_GC-ViT.png>]
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 632--632
 []\T1/cmr/m/n/8 [[]],
  []
@@ -851,18 +831,26 @@ Overfull \hbox (44.33855pt too wide) in paragraph at lines 628--644
 [][]
  []
 
-[45] [46]
-<fig_image_gen_AttnGAN.png, id=826, 634.87187pt x 260.47313pt>
+[44] [45] [46 <./fig_img_seg_GC-ViT.png>]
+<fig_image_gen_AttnGAN.png, id=823, 634.87187pt x 260.47313pt>
 File: fig_image_gen_AttnGAN.png Graphic file (type png)
 <use fig_image_gen_AttnGAN.png>
 Package pdftex.def Info: fig_image_gen_AttnGAN.png  used on input line 656.
 (pdftex.def)             Requested size: 317.43515pt x 130.23624pt.
- [47 <./fig_image_gen_AttnGAN.png>]
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[47]
 <fig_image_gen_DMF-GAN.png, id=842, 689.07437pt x 218.8175pt>
 File: fig_image_gen_DMF-GAN.png Graphic file (type png)
 <use fig_image_gen_DMF-GAN.png>
 Package pdftex.def Info: fig_image_gen_DMF-GAN.png  used on input line 665.
 (pdftex.def)             Requested size: 344.53633pt x 109.40848pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 678--678
 []\T1/cmr/m/n/8 [[]],
@@ -883,13 +871,18 @@ Overfull \hbox (44.33855pt too wide) in paragraph at lines 674--686
 [][]
  []
 
-[48 <./fig_image_gen_DMF-GAN.png>] [49] [50]
-<fig_text_clf_BERT-MSL.png, id=896, 445.665pt x 340.77313pt>
+[48 <./fig_image_gen_AttnGAN.png>] [49 <./fig_image_gen_DMF-GAN.png>] [50]
+[51]
+<fig_text_clf_BERT-MSL.png, id=906, 445.665pt x 340.77313pt>
 File: fig_text_clf_BERT-MSL.png Graphic file (type png)
 <use fig_text_clf_BERT-MSL.png>
 Package pdftex.def Info: fig_text_clf_BERT-MSL.png  used on input line 703.
 (pdftex.def)             Requested size: 311.96336pt x 238.53955pt.
- [51]
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 716--716
 []\T1/cmr/m/n/8 [[]],
  []
@@ -939,20 +932,23 @@ Overfull \hbox (44.33855pt too wide) in paragraph at lines 712--728
 [][]
  []
 
-[52 <./fig_text_clf_BERT-MSL.png>] [53]
-<fig_nmt_encoder-decoder.png, id=929, 783.92876pt x 211.79124pt>
+[52] [53]
+<fig_nmt_encoder-decoder.png, id=930, 783.92876pt x 211.79124pt>
 File: fig_nmt_encoder-decoder.png Graphic file (type png)
 <use fig_nmt_encoder-decoder.png>
 Package pdftex.def Info: fig_nmt_encoder-decoder.png  used on input line 737.
 (pdftex.def)             Requested size: 352.76468pt x 95.30518pt.
- [54 <./fig_nmt_encoder-decoder.png>]
-<fig_nmt_GNMT.png, id=949, 601.24625pt x 315.67938pt>
+ [54 <./fig_text_clf_BERT-MSL.png> <./fig_nmt_encoder-decoder.png>]
+<fig_nmt_GNMT.png, id=948, 601.24625pt x 315.67938pt>
 File: fig_nmt_GNMT.png Graphic file (type png)
 <use fig_nmt_GNMT.png>
 Package pdftex.def Info: fig_nmt_GNMT.png  used on input line 746.
 (pdftex.def)             Requested size: 360.75052pt x 189.40909pt.
 
-[55 <./fig_nmt_GNMT.png>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[55] [56 <./fig_nmt_GNMT.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 763--763
 []\T1/cmr/m/n/8 [[]],
  []
@@ -987,7 +983,7 @@ Overfull \hbox (44.33855pt too wide) in paragraph at lines 759--777
 [][]
  []
 
-[56] [57] [58] [59]
+[57] [58] [59]
 Underfull \hbox (badness 10000) in paragraph at lines 797--797
 []\T1/cmr/m/n/8 [[]],
  []
@@ -1017,19 +1013,13 @@ Overfull \hbox (44.33855pt too wide) in paragraph at lines 793--809
 [][]
  []
 
-[60] [61] [62] [63] [64]
-<fig_har_multi-head_cnn.png, id=1113, 571.63562pt x 376.90813pt>
+[60] [61] [62] [63] [64] [65]
+<fig_har_multi-head_cnn.png, id=1120, 571.63562pt x 376.90813pt>
 File: fig_har_multi-head_cnn.png Graphic file (type png)
 <use fig_har_multi-head_cnn.png>
 Package pdftex.def Info: fig_har_multi-head_cnn.png  used on input line 836.
 (pdftex.def)             Requested size: 285.81711pt x 188.4536pt.
-
-Overfull \hbox (4.76462pt too wide) in paragraph at lines 841--842
-[]\T1/cmr/bx/n/12 Transformers\T1/cmr/m/n/12 : \T1/cmr/m/it/12 Trans-form-ers h
-ave been em-ployed in hu-man ac-tiv-ity recog-
- []
-
-[65 <./fig_har_multi-head_cnn.png>] [66]
+ [66 <./fig_har_multi-head_cnn.png>] [67]
 Underfull \hbox (badness 10000) in paragraph at lines 855--855
 []\T1/cmr/m/n/8 [[]],
  []
@@ -1069,13 +1059,13 @@ Overfull \hbox (44.33855pt too wide) in paragraph at lines 851--871
 [][]
  []
 
-[67] [68] [69]
-<fig_speech_seq2seq.png, id=1200, 423.5825pt x 283.0575pt>
+[68] [69] [70]
+<fig_speech_seq2seq.png, id=1207, 423.5825pt x 283.0575pt>
 File: fig_speech_seq2seq.png Graphic file (type png)
 <use fig_speech_seq2seq.png>
 Package pdftex.def Info: fig_speech_seq2seq.png  used on input line 887.
 (pdftex.def)             Requested size: 254.15146pt x 169.8358pt.
- [70 <./fig_speech_seq2seq.png>] [71] [72]
+ [71 <./fig_speech_seq2seq.png>] [72]
 Underfull \hbox (badness 10000) in paragraph at lines 908--908
 []\T1/cmr/m/n/8 [[]],
  []
@@ -1110,7 +1100,7 @@ Overfull \hbox (44.33855pt too wide) in paragraph at lines 904--920
 [][]
  []
 
-[73] [74] [75]
+[73] [74] [75] [76]
 Underfull \hbox (badness 10000) in paragraph at lines 941--941
 []\T1/cmr/m/n/8 [[]],
  []
@@ -1155,12 +1145,16 @@ Overfull \hbox (44.33855pt too wide) in paragraph at lines 937--953
 [][]
  []
 
-[76] [77] [78] [79] [80]
-<fig_ecg_gan_ae.png, id=1382, 903.375pt x 491.8375pt>
+[77] [78] [79] [80]
+<fig_ecg_gan_ae.png, id=1383, 903.375pt x 491.8375pt>
 File: fig_ecg_gan_ae.png Graphic file (type png)
 <use fig_ecg_gan_ae.png>
 Package pdftex.def Info: fig_ecg_gan_ae.png  used on input line 973.
 (pdftex.def)             Requested size: 361.3436pt x 196.7315pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 986--986
 []\T1/cmr/m/n/8 [[]],
@@ -1201,13 +1195,7 @@ Overfull \hbox (44.33855pt too wide) in paragraph at lines 982--1002
 [][]
  []
 
-[81 <./fig_ecg_gan_ae.png>] [82] [83] [84]
-Overfull \hbox (24.58876pt too wide) in paragraph at lines 1018--1019
-\T1/cmr/m/it/12 ing pipelines, where one ac-cepts clean sig-nals while the othe
-r han-dles noisy/artifact
- []
-
-[85]
+[81] [82 <./fig_ecg_gan_ae.png>] [83] [84] [85]
 Underfull \hbox (badness 10000) in paragraph at lines 1028--1028
 []\T1/cmr/m/n/8 [[]],
  []
@@ -1297,13 +1285,7 @@ Overfull \hbox (27.8858pt too wide) in paragraph at lines 1059--1075
 [][]
  []
 
-[88]
-Overfull \hbox (8.07332pt too wide) in paragraph at lines 1081--1082
-[]\T1/cmr/m/it/12 In [[]], a method for or-chard robot nav-i-ga-tion uti-liz-in
-g a mod-i-fied YOLOv8
- []
-
-
+[88] [89]
 Underfull \hbox (badness 10000) in paragraph at lines 1091--1091
 []\T1/cmr/m/n/8 [[]],
  []
@@ -1338,13 +1320,17 @@ Overfull \hbox (27.8858pt too wide) in paragraph at lines 1087--1101
 [][]
  []
 
-[89] [90]
-<fig_hri_llm_grounding_architecture.png, id=1557, 541.02126pt x 225.84375pt>
+[90]
+<fig_hri_llm_grounding_architecture.png, id=1556, 541.02126pt x 225.84375pt>
 File: fig_hri_llm_grounding_architecture.png Graphic file (type png)
 <use fig_hri_llm_grounding_architecture.png>
 Package pdftex.def Info: fig_hri_llm_grounding_architecture.png  used on input 
 line 1111.
 (pdftex.def)             Requested size: 324.61525pt x 135.50728pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 1124--1124
 []\T1/cmr/m/n/8 [[]],
@@ -1390,8 +1376,8 @@ Overfull \hbox (27.8858pt too wide) in paragraph at lines 1120--1134
 [][]
  []
 
-[91 <./fig_hri_llm_grounding_architecture.png>] [92] [93] [94] [95] [96]
-[97] [98] [99] [100] [101] [102] [103] (elsarticle-template-num_v2.bbl
+[91] [92 <./fig_hri_llm_grounding_architecture.png>] [93] [94] [95] [96]
+[97] [98] [99] [100] [101] [102] [103] [104] (elsarticle-template-num_v2.bbl
 Underfull \hbox (badness 1043) in paragraph at lines 9--16
 []\T1/cmr/m/n/12 S. Shamshir-band, M. Fathi, A. De-hzangi, A. T. Chronopou-los,
 
@@ -1403,7 +1389,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--16
 cience / article / pii /
  []
 
-[104]
+
 Underfull \hbox (badness 10000) in paragraph at lines 18--24
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
@@ -1422,877 +1408,877 @@ cience / article / pii /
  []
 
 [105] [106]
-Underfull \hbox (badness 1762) in paragraph at lines 120--126
+Underfull \hbox (badness 1762) in paragraph at lines 125--131
 \T1/cmr/m/n/12 Gomez, L. Kaiser, I. Polo-sukhin, []At-ten-tion Is All You Need[
 ],
  []
 
-
-Underfull \hbox (badness 1831) in paragraph at lines 162--168
+[107]
+Underfull \hbox (badness 1831) in paragraph at lines 167--173
 []\T1/cmr/m/n/12 Y. A. Le-Cun, L. Bot-tou, G. B. Orr, K.-R. Müller, []Ef-fi-cie
 nt
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 176--182
+Underfull \hbox (badness 10000) in paragraph at lines 181--187
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / papers . nips . cc / paper _ 
 files / paper / 2000 / hash /
  []
 
-[107]
-Underfull \hbox (badness 2189) in paragraph at lines 204--211
+
+Underfull \hbox (badness 2189) in paragraph at lines 209--216
 []\T1/cmr/m/n/12 D.-A. Clev-ert, T. Un-terthiner, S. Hochre-iter, []Fast and Ac
 -cu-
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 231--237
+[108]
+Underfull \hbox (badness 10000) in paragraph at lines 236--242
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
-[108] [109]
-Underfull \hbox (badness 10000) in paragraph at lines 311--315
+[109]
+Underfull \hbox (badness 10000) in paragraph at lines 316--320
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . semanticscholar . org /
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 311--315
+Underfull \hbox (badness 10000) in paragraph at lines 316--320
 \T1/cmtt/m/n/12 paper / Layer-[]Normalization-[]Ba-[]Kiros /
  []
 
 
-Underfull \hbox (badness 6526) in paragraph at lines 324--330
+Underfull \hbox (badness 6526) in paragraph at lines 329--335
 []\T1/cmr/m/n/12 K. Hornik, M. Stinch-combe, H. White, []Mul-ti-layer feed-for-
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 324--330
+Underfull \hbox (badness 10000) in paragraph at lines 329--335
 \T1/cmr/m/n/12 ward net-works are uni-ver-sal ap-prox-i-ma-tors[] 2 (5) 359--36
 6.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 324--330
+Underfull \hbox (badness 10000) in paragraph at lines 329--335
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
 [110]
-Underfull \hbox (badness 10000) in paragraph at lines 378--384
+Underfull \hbox (badness 10000) in paragraph at lines 383--389
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / proceedings . neurips . cc / 
 paper _ files / paper /
  []
 
 [111]
-Underfull \hbox (badness 10000) in paragraph at lines 436--441
+Underfull \hbox (badness 10000) in paragraph at lines 441--446
 []\T1/cmr/m/n/12 S. Zagoruyko, N. Ko-modakis, []Wide Resid-ual Net-works[],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 460--467
-\T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
-cience / article / pii /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 469--477
-\T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
-cience / article / pii /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 479--486
-[]\T1/cmr/m/n/12 N. Cinar, A. Oz-can, M. Kaya, []A hy-brid DenseNet121-
- []
-
-
-Underfull \hbox (badness 2941) in paragraph at lines 479--486
-\T1/cmr/m/n/12 UNet model for brain tu-mor seg-men-ta-tion from MR Im-ages[],
- []
-
-
-Underfull \hbox (badness 4805) in paragraph at lines 479--486
-\T1/cmr/m/n/12 Biomed-i-cal Sig-nal Pro-cess-ing and Con-trol 76 (2022) 103647.
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 479--486
+Underfull \hbox (badness 10000) in paragraph at lines 465--472
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
 [112]
-Underfull \hbox (badness 10000) in paragraph at lines 517--525
+Underfull \hbox (badness 10000) in paragraph at lines 474--482
+\T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
+cience / article / pii /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 484--491
+[]\T1/cmr/m/n/12 N. Cinar, A. Oz-can, M. Kaya, []A hy-brid DenseNet121-
+ []
+
+
+Underfull \hbox (badness 2941) in paragraph at lines 484--491
+\T1/cmr/m/n/12 UNet model for brain tu-mor seg-men-ta-tion from MR Im-ages[],
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 484--491
+\T1/cmr/m/n/12 Biomed-i-cal Sig-nal Pro-cess-ing and Con-trol 76 (2022) 103647.
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 484--491
+\T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
+cience / article / pii /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--530
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
 [113]
-Underfull \hbox (badness 6876) in paragraph at lines 563--569
+Underfull \hbox (badness 6876) in paragraph at lines 568--574
 []\T1/cmr/m/n/12 G. E. Hin-ton, []Deep be-lief net-works[] 4 (5) 5947.  []$\T1/
 cmtt/m/n/12 doi :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 563--569
+Underfull \hbox (badness 10000) in paragraph at lines 568--574
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 http : / / www . scholarpedia . org / art
 icle / Deep _ belief _
  []
 
-
-Underfull \hbox (badness 5756) in paragraph at lines 596--603
+[114]
+Underfull \hbox (badness 5756) in paragraph at lines 601--608
 []\T1/cmr/m/n/12 P. Li, Y. Pei, J. Li, []A com-pre-hen-sive sur-vey on de-sign
  []
 
 
-Underfull \hbox (badness 3312) in paragraph at lines 596--603
+Underfull \hbox (badness 3312) in paragraph at lines 601--608
 \T1/cmr/m/n/12 and ap-pli-ca-tion of au-toen-coder in deep learn-ing[] 138 1101
 76.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 596--603
+Underfull \hbox (badness 10000) in paragraph at lines 601--608
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
-[114] [115] [116]
-Underfull \hbox (badness 10000) in paragraph at lines 741--746
+[115] [116]
+Underfull \hbox (badness 10000) in paragraph at lines 746--751
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / openaccess . thecvf . com / c
 ontent / ICCV2023W /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 741--746
+Underfull \hbox (badness 10000) in paragraph at lines 746--751
 \T1/cmtt/m/n/12 CVAMD / html / Park _ Robust _ Asymmetric _ Loss _ for _ Multi-
 []Label _
  []
 
 [117]
-Underfull \hbox (badness 10000) in paragraph at lines 802--808
+Underfull \hbox (badness 10000) in paragraph at lines 807--813
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 825--831
+[118]
+Underfull \hbox (badness 10000) in paragraph at lines 830--836
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / proceedings . neurips . cc / 
 paper _ files / paper /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 833--838
+Underfull \hbox (badness 10000) in paragraph at lines 838--843
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . cv-[]foundation . org /
  openaccess / content _
  []
 
-[118]
-Underfull \hbox (badness 10000) in paragraph at lines 890--898
+[119]
+Underfull \hbox (badness 10000) in paragraph at lines 895--903
 []\T1/cmr/m/n/12 A. Husham Al-Badri, N. Az-man Is-mail, K. Al-Dulaimi,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 890--898
+Underfull \hbox (badness 10000) in paragraph at lines 895--903
 \T1/cmr/m/n/12 Sup-pres-sion for im-prov-ing per-for-mance of \T1/cmr/m/it/12 R
 umex \T1/cmr/m/n/12 de-tec-
  []
 
 
-Underfull \hbox (badness 6188) in paragraph at lines 890--898
+Underfull \hbox (badness 6188) in paragraph at lines 895--903
 \T1/cmr/m/n/12 tion[], Ex-pert Sys-tems with Ap-pli-ca-tions 219 (2023) 119634.
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 890--898
+Underfull \hbox (badness 10000) in paragraph at lines 895--903
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
-[119]
-Underfull \hbox (badness 2384) in paragraph at lines 920--927
+
+Underfull \hbox (badness 2384) in paragraph at lines 925--932
 []\T1/cmr/m/n/12 N. Car-ion, F. Massa, G. Syn-naeve, N. Usunier, A. Kir-illov,
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 933--938
+[120]
+Underfull \hbox (badness 10000) in paragraph at lines 938--943
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / openaccess . thecvf . com / c
 ontent / ICCV2021 / html /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 933--938
+Underfull \hbox (badness 10000) in paragraph at lines 938--943
 \T1/cmtt/m/n/12 Dai _ Dynamic _ DETR _ End-[]to-[]End _ Object _ Detection _ Wi
 th _ Dynamic _
  []
 
-[120]
-Underfull \hbox (badness 10000) in paragraph at lines 989--995
+[121]
+Underfull \hbox (badness 10000) in paragraph at lines 994--1000
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
-[121] [122]
-Underfull \hbox (badness 10000) in paragraph at lines 1092--1098
+[122] [123]
+Underfull \hbox (badness 10000) in paragraph at lines 1097--1103
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / content . iospress . com / ar
 ticles /
  []
 
 
-Underfull \hbox (badness 7522) in paragraph at lines 1100--1107
+Underfull \hbox (badness 7522) in paragraph at lines 1105--1112
 []\T1/cmr/m/n/12 B. Yu, Z.-b. Xu, C.-h. Li, []La-tent se-man-tic anal-y-sis for
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1100--1107
+Underfull \hbox (badness 10000) in paragraph at lines 1105--1112
 \T1/cmr/m/n/12 text cat-e-go-riza-tion us-ing neu-ral net-work[] 21 (8) 900--90
 4.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1100--1107
-\T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
-cience / article / pii /
- []
-
-[123]
-Underfull \hbox (badness 4013) in paragraph at lines 1140--1147
-[]\T1/cmr/m/n/12 G. Liu, J. Guo, []Bidi-rec-tional LSTM with at-ten-tion mech-a
--
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1140--1147
-\T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
-cience / article / pii /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1153--1160
+Underfull \hbox (badness 10000) in paragraph at lines 1105--1112
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
 [124]
-Underfull \hbox (badness 4954) in paragraph at lines 1179--1185
+Underfull \hbox (badness 4013) in paragraph at lines 1145--1152
+[]\T1/cmr/m/n/12 G. Liu, J. Guo, []Bidi-rec-tional LSTM with at-ten-tion mech-a
+-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1145--1152
+\T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
+cience / article / pii /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1158--1165
+\T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
+cience / article / pii /
+ []
+
+
+Underfull \hbox (badness 4954) in paragraph at lines 1184--1190
 []\T1/cmr/m/n/12 B. Ro-drawang-pai, W. Daung-jai-boon, []Im-prov-ing text clas-
 si-fi-
  []
 
 
-Underfull \hbox (badness 4805) in paragraph at lines 1179--1185
+Underfull \hbox (badness 4805) in paragraph at lines 1184--1190
 \T1/cmr/m/n/12 ca-tion with trans-form-ers and layer nor-mal-iza-tion[] 10 1004
 03.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1179--1185
+Underfull \hbox (badness 10000) in paragraph at lines 1184--1190
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
 
-Underfull \hbox (badness 1102) in paragraph at lines 1187--1194
+Underfull \hbox (badness 1102) in paragraph at lines 1192--1199
 []\T1/cmr/m/n/12 H. Murfi, Syam-syuri-ani, T. Gowandi, G. Ar-daneswari, S. Nur-
 
  []
 
 
-Underfull \hbox (badness 3646) in paragraph at lines 1187--1194
+Underfull \hbox (badness 3646) in paragraph at lines 1192--1199
 \T1/cmr/m/n/12 neu-ral net-work for in-done-sian sen-ti-ment anal-y-sis[] 151 1
 11112.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1187--1194
+Underfull \hbox (badness 10000) in paragraph at lines 1192--1199
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
 [125] [126] [127]
-Underfull \hbox (badness 10000) in paragraph at lines 1339--1346
+Underfull \hbox (badness 10000) in paragraph at lines 1344--1351
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1348--1355
+Underfull \hbox (badness 10000) in paragraph at lines 1353--1360
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
-
-Underfull \hbox (badness 1769) in paragraph at lines 1362--1369
+[128]
+Underfull \hbox (badness 1769) in paragraph at lines 1367--1374
 []\T1/cmr/m/n/12 O. Ha-jipoor, A. Nick-abadi, M. M. Homay-oun-pour, []GPT-GAN:
  []
 
 
-Underfull \hbox (badness 2150) in paragraph at lines 1362--1369
+Underfull \hbox (badness 2150) in paragraph at lines 1367--1374
 \T1/cmr/m/n/12 Uti-liz-ing the GPT lan-guage model and GAN to en-hance ad-
  []
 
 
-Underfull \hbox (badness 3965) in paragraph at lines 1362--1369
+Underfull \hbox (badness 3965) in paragraph at lines 1367--1374
 \T1/cmr/m/n/12 ver-sar-ial text gen-er-a-tion[], Neu-ro-com-put-ing 617 (2025) 
 128865.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1362--1369
+Underfull \hbox (badness 10000) in paragraph at lines 1367--1374
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
-[128] [129] [130]
-Underfull \hbox (badness 10000) in paragraph at lines 1520--1527
-\T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
-cience / article / pii /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1529--1536
+[129] [130]
+Underfull \hbox (badness 10000) in paragraph at lines 1525--1532
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
 
-Underfull \hbox (badness 2521) in paragraph at lines 1538--1545
-\T1/cmr/m/n/12 wear-able sen-sors[], Ap-plied Soft Com-put-ing 111 (2021) 10772
-8.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1538--1545
-\T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
-cience / article / pii /
- []
-
-
-Underfull \hbox (badness 3375) in paragraph at lines 1547--1554
-\T1/cmr/m/n/12 recog-ni-tion with lightweight deep mod-els boosted with at-ten-
-
- []
-
-
-Underfull \hbox (badness 1616) in paragraph at lines 1547--1554
-\T1/cmr/m/n/12 tion[], Com-put-ers and Elec-tri-cal En-gi-neer-ing 117 (2024) 1
-09274.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1547--1554
+Underfull \hbox (badness 10000) in paragraph at lines 1534--1541
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
 [131]
-Underfull \hbox (badness 1377) in paragraph at lines 1586--1594
+Underfull \hbox (badness 2521) in paragraph at lines 1543--1550
+\T1/cmr/m/n/12 wear-able sen-sors[], Ap-plied Soft Com-put-ing 111 (2021) 10772
+8.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1543--1550
+\T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
+cience / article / pii /
+ []
+
+
+Underfull \hbox (badness 3375) in paragraph at lines 1552--1559
+\T1/cmr/m/n/12 recog-ni-tion with lightweight deep mod-els boosted with at-ten-
+
+ []
+
+
+Underfull \hbox (badness 1616) in paragraph at lines 1552--1559
+\T1/cmr/m/n/12 tion[], Com-put-ers and Elec-tri-cal En-gi-neer-ing 117 (2024) 1
+09274.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1552--1559
+\T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
+cience / article / pii /
+ []
+
+
+Underfull \hbox (badness 1377) in paragraph at lines 1591--1599
 \T1/cmr/m/n/12 tiv-ity recog-ni-tion: A deep con-vo-lu-tional transformer-based
  con-
  []
 
 
-Underfull \hbox (badness 3118) in paragraph at lines 1586--1594
+Underfull \hbox (badness 3118) in paragraph at lines 1591--1599
 \T1/cmr/m/n/12 trastive self-supervised ap-proach us-ing wear-able sen-sors[], 
 En-gi-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1586--1594
+Underfull \hbox (badness 10000) in paragraph at lines 1591--1599
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
 [132]
-Underfull \hbox (badness 1377) in paragraph at lines 1646--1654
+Underfull \hbox (badness 1377) in paragraph at lines 1651--1659
 []\T1/cmr/m/n/12 M. Mo-ham-madzadeh, A. Ghadami, A. Taheri, S. Be-hzadipour,
  []
 
 
-Underfull \hbox (badness 2343) in paragraph at lines 1646--1654
+Underfull \hbox (badness 2343) in paragraph at lines 1651--1659
 []\T1/cmr/m/n/12 cGAN-based high di-men-sional IMU sen-sor data gen-er-a-tion f
 or
  []
 
 
-Underfull \hbox (badness 4181) in paragraph at lines 1646--1654
+Underfull \hbox (badness 4181) in paragraph at lines 1651--1659
 \T1/cmr/m/n/12 en-hanced hu-man ac-tiv-ity recog-ni-tion in ther-a-peu-tic ac-t
 iv-i-ties[],
  []
 
 
-Underfull \hbox (badness 3302) in paragraph at lines 1646--1654
+Underfull \hbox (badness 3302) in paragraph at lines 1651--1659
 \T1/cmr/m/n/12 Biomed-i-cal Sig-nal Pro-cess-ing and Con-trol 103 (2025) 107476
 .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1646--1654
+Underfull \hbox (badness 10000) in paragraph at lines 1651--1659
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
-[133]
-Underfull \hbox (badness 5696) in paragraph at lines 1727--1734
+[133] [134]
+Underfull \hbox (badness 5696) in paragraph at lines 1732--1739
 []\T1/cmr/m/n/12 C. Hema, F. P. Gar-cia Mar-quez, []Emo-tional speech recog-
  []
 
 
-Underfull \hbox (badness 5696) in paragraph at lines 1727--1734
+Underfull \hbox (badness 5696) in paragraph at lines 1732--1739
 \T1/cmr/m/n/12 ni-tion us-ing cnn and deep learn-ing tech-niques[] 211 109492.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1727--1734
+Underfull \hbox (badness 10000) in paragraph at lines 1732--1739
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
-[134] [135]
-Underfull \hbox (badness 1242) in paragraph at lines 1797--1803
+[135]
+Underfull \hbox (badness 1242) in paragraph at lines 1802--1808
 []\T1/cmr/m/n/12 A. Rad-ford, J. W. Kim, T. Xu, G. Brock-man, C. McLeavey,
  []
 
 
-Underfull \hbox (badness 1320) in paragraph at lines 1814--1821
+Underfull \hbox (badness 1320) in paragraph at lines 1819--1826
 \T1/cmr/m/n/12 Encoders: Self-Attention Trans-form-ers Can Be Self-Transducers[
 ],
  []
 
 [136]
-Underfull \hbox (badness 1082) in paragraph at lines 1873--1880
+Underfull \hbox (badness 1082) in paragraph at lines 1878--1885
 []\T1/cmr/m/n/12 S. Sun, S. Wang, Y. Wei, []A new en-sem-ble deep learn-ing ap-
 
  []
 
 
-Underfull \hbox (badness 2799) in paragraph at lines 1873--1880
+Underfull \hbox (badness 2799) in paragraph at lines 1878--1885
 \T1/cmr/m/n/12 proach for ex-change rates fore-cast-ing and trad-ing[] 46 10116
 0.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1873--1880
+Underfull \hbox (badness 10000) in paragraph at lines 1878--1885
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
 
-Underfull \hbox (badness 1014) in paragraph at lines 1886--1894
+Underfull \hbox (badness 1014) in paragraph at lines 1891--1899
 \T1/cmr/m/n/12 A new for-eign ex-change rate pre-dic-tion method con-sid-er-ing
  the
  []
 
 
-Underfull \hbox (badness 1655) in paragraph at lines 1886--1894
+Underfull \hbox (badness 1655) in paragraph at lines 1891--1899
 \T1/cmr/m/n/12 fea-tures[], Ex-pert Sys-tems with Ap-pli-ca-tions 214 (2023) 11
 9152.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1886--1894
+Underfull \hbox (badness 10000) in paragraph at lines 1891--1899
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
-[137]
-Underfull \hbox (badness 10000) in paragraph at lines 1964--1970
+[137] [138]
+Underfull \hbox (badness 10000) in paragraph at lines 1969--1975
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
-[138]
-Underfull \hbox (badness 10000) in paragraph at lines 1984--1992
+
+Underfull \hbox (badness 10000) in paragraph at lines 1989--1997
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
 [139]
-Underfull \hbox (badness 10000) in paragraph at lines 2051--2059
-\T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
-cience / article / pii /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2061--2068
-\T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
-cience / article / pii /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2070--2078
+Underfull \hbox (badness 10000) in paragraph at lines 2056--2064
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
 [140]
-Underfull \hbox (badness 10000) in paragraph at lines 2080--2087
+Underfull \hbox (badness 10000) in paragraph at lines 2066--2073
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
 
-Underfull \hbox (badness 1342) in paragraph at lines 2089--2097
+Underfull \hbox (badness 10000) in paragraph at lines 2075--2083
+\T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
+cience / article / pii /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2085--2092
+\T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
+cience / article / pii /
+ []
+
+
+Underfull \hbox (badness 1342) in paragraph at lines 2094--2102
 \T1/cmr/m/n/12 multi-class ar-rhyth-mia de-tec-tion us-ing spatio-temporal atte
 ntion-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2089--2097
+Underfull \hbox (badness 10000) in paragraph at lines 2094--2102
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
 
-Underfull \hbox (badness 1112) in paragraph at lines 2109--2116
+Underfull \hbox (badness 1112) in paragraph at lines 2114--2121
 []\T1/cmr/m/n/12 Y. Huang, W. Liu, Z. Yin, S. Hu, M. Wang, W. Cai, []ECG
  []
 
 
-Underfull \hbox (badness 3138) in paragraph at lines 2109--2116
+Underfull \hbox (badness 3138) in paragraph at lines 2114--2121
 \T1/cmr/m/n/12 clas-si-fi-ca-tion based on guided at-ten-tion mech-a-nism[], Co
 m-puter
  []
 
 
-Underfull \hbox (badness 7963) in paragraph at lines 2109--2116
+Underfull \hbox (badness 7963) in paragraph at lines 2114--2121
 \T1/cmr/m/n/12 Meth-ods and Pro-grams in Biomedicine 257 (2024) 108454.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2109--2116
+Underfull \hbox (badness 10000) in paragraph at lines 2114--2121
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
-
-Underfull \hbox (badness 1584) in paragraph at lines 2118--2124
+[141]
+Underfull \hbox (badness 1584) in paragraph at lines 2123--2129
 []\T1/cmr/m/n/12 P. Aghao-midi, G. Wang, []ECG-SleepNet: Deep Learning-Based
  []
 
 
-Underfull \hbox (badness 4531) in paragraph at lines 2118--2124
+Underfull \hbox (badness 4531) in paragraph at lines 2123--2129
 \T1/cmr/m/n/12 Com-pre-hen-sive Sleep Stage Clas-si-fi-ca-tion Us-ing ECG Sig-n
 als[],
  []
 
 
-Underfull \hbox (badness 1292) in paragraph at lines 2126--2133
+Underfull \hbox (badness 1292) in paragraph at lines 2131--2138
 []\T1/cmr/m/n/12 R. Hasani, M. Lech-ner, A. Amini, D. Rus, R. Grosu, []Liq-uid
  []
 
 
-Underfull \hbox (badness 2818) in paragraph at lines 2126--2133
+Underfull \hbox (badness 2818) in paragraph at lines 2131--2138
 \T1/cmr/m/n/12 Time-constant Net-works[], Pro-ceed-ings of the AAAI Con-fer-enc
 e
  []
 
 
-Underfull \hbox (badness 1509) in paragraph at lines 2126--2133
+Underfull \hbox (badness 1509) in paragraph at lines 2131--2138
 \T1/cmr/m/n/12 on Ar-ti-fi-cial In-tel-li-gence 35 (9) (2021) 7657--7666, num-b
 er: 9.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2126--2133
+Underfull \hbox (badness 10000) in paragraph at lines 2131--2138
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / ojs . aaai . org / index . ph
 p / AAAI / article / view /
  []
 
-[141]
-Underfull \hbox (badness 2343) in paragraph at lines 2153--2160
+
+Underfull \hbox (badness 2343) in paragraph at lines 2158--2165
 []\T1/cmr/m/n/12 C. Msigwa, D. Bernard, J. Yun, []IoT-driven wear-able de-vices
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2153--2160
+Underfull \hbox (badness 10000) in paragraph at lines 2158--2165
 \T1/cmr/m/n/12 en-hanc-ing health-care: ECG clas-si-fi-ca-tion with cluster-bas
 ed
  []
 
 
-Underfull \hbox (badness 1668) in paragraph at lines 2153--2160
+Underfull \hbox (badness 1668) in paragraph at lines 2158--2165
 \T1/cmr/m/n/12 GAN and meta-features[], In-ter-net of Things 28 (2024) 101405.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2153--2160
+Underfull \hbox (badness 10000) in paragraph at lines 2158--2165
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
 
-Underfull \hbox (badness 3525) in paragraph at lines 2162--2170
+Underfull \hbox (badness 3525) in paragraph at lines 2167--2175
 []\T1/cmr/m/n/12 R. T. Schirrmeis-ter, J. T. Sprin-gen-berg, L. D. J. Fiederer,
 
  []
 
 
-Underfull \hbox (badness 2573) in paragraph at lines 2162--2170
+Underfull \hbox (badness 2573) in paragraph at lines 2167--2175
 \T1/cmr/m/n/12 M. Glasstet-ter, K. Eggensperger, M. Tanger-mann, F. Hut-ter,
  []
 
 
-Underfull \hbox (badness 1603) in paragraph at lines 2162--2170
+Underfull \hbox (badness 1603) in paragraph at lines 2167--2175
 \T1/cmr/m/n/12 W. Bur-gard, T. Ball, []Deep learn-ing with con-vo-lu-tional neu
 -ral
  []
 
 
-Underfull \hbox (badness 1163) in paragraph at lines 2162--2170
+Underfull \hbox (badness 1163) in paragraph at lines 2167--2175
 \T1/cmr/m/n/12 net-works for eeg de-cod-ing and vi-su-al-iza-tion[] 38 (11) 539
 1--5420.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2162--2170
+Underfull \hbox (badness 10000) in paragraph at lines 2167--2175
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / onlinelibrary . wiley . com /
  doi / abs / 10 . 1002 / hbm .
  []
 
-[142] [143]
-Underfull \hbox (badness 10000) in paragraph at lines 2274--2281
-\T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
-cience / article / pii /
- []
-
-[144]
-Underfull \hbox (badness 10000) in paragraph at lines 2294--2302
+[142] [143] [144]
+Underfull \hbox (badness 10000) in paragraph at lines 2279--2286
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
 
-Underfull \hbox (badness 1231) in paragraph at lines 2304--2312
+Underfull \hbox (badness 10000) in paragraph at lines 2299--2307
+\T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
+cience / article / pii /
+ []
+
+
+Underfull \hbox (badness 1231) in paragraph at lines 2309--2317
 \T1/cmr/m/n/12 - Com-puter and In-for-ma-tion Sci-ences 34 (5) (2022) 1730--173
 8.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2304--2312
+Underfull \hbox (badness 10000) in paragraph at lines 2309--2317
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
 
-Underfull \hbox (badness 1259) in paragraph at lines 2314--2322
+Underfull \hbox (badness 1259) in paragraph at lines 2319--2327
 \T1/cmr/m/n/12 and EEG based on ma-chine learn-ing and deep neu-ral net-work
  []
 
 
-Underfull \hbox (badness 2529) in paragraph at lines 2314--2322
+Underfull \hbox (badness 2529) in paragraph at lines 2319--2327
 \T1/cmr/m/n/12 meth-ods[], In-for-mat-ics in Medicine Un-locked 20 (2020) 10037
 2.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2314--2322
+Underfull \hbox (badness 10000) in paragraph at lines 2319--2327
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
 [145]
-Underfull \hbox (badness 2293) in paragraph at lines 2343--2350
+Underfull \hbox (badness 2293) in paragraph at lines 2348--2355
 \T1/cmr/m/n/12 EEG sig-nal clas-si-fi-ca-tion through data aug-men-ta-tion[], F
 ron-tiers
  []
 
 
-Underfull \hbox (badness 2698) in paragraph at lines 2343--2350
+Underfull \hbox (badness 2698) in paragraph at lines 2348--2355
 \T1/cmr/m/n/12 in Hu-man Neu-ro-science 18, pub-lisher: Fron-tiers (Jun. 2024).
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2343--2350
+Underfull \hbox (badness 10000) in paragraph at lines 2348--2355
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . frontiersin . org / jou
 rnals /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2343--2350
+Underfull \hbox (badness 10000) in paragraph at lines 2348--2355
 \T1/cmtt/m/n/12 human-[]neuroscience / articles / 10 . 3389 / fnhum . 2024 . 14
 30086 /
  []
 
 
-Underfull \hbox (badness 2310) in paragraph at lines 2352--2358
+Underfull \hbox (badness 2310) in paragraph at lines 2357--2363
 \T1/cmr/m/n/12 EEG Spa-tial Res-o-lu-tion with Gen-er-a-tive Ad-ver-sar-ial Net
 -works[],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2370--2378
+Underfull \hbox (badness 10000) in paragraph at lines 2375--2383
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
 [146]
-Underfull \hbox (badness 10000) in paragraph at lines 2400--2408
+Underfull \hbox (badness 10000) in paragraph at lines 2405--2413
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2410--2417
+Underfull \hbox (badness 10000) in paragraph at lines 2415--2422
 []\T1/cmr/m/n/12 L. Ge, A. Sadhu, []Deep learning-enhanced smart ground
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2410--2417
+Underfull \hbox (badness 10000) in paragraph at lines 2415--2422
 \T1/cmr/m/n/12 robotic sys-tem for au-to-mated struc-tural dam-age in-spec-tion
 
  []
 
 
-Underfull \hbox (badness 2096) in paragraph at lines 2410--2417
+Underfull \hbox (badness 2096) in paragraph at lines 2415--2422
 \T1/cmr/m/n/12 and map-ping[], Au-toma-tion in Con-struc-tion 170 (2025) 105951
 .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2410--2417
+Underfull \hbox (badness 10000) in paragraph at lines 2415--2422
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
 [147]
-Underfull \hbox (badness 3333) in paragraph at lines 2466--2474
+Underfull \hbox (badness 3333) in paragraph at lines 2471--2479
 \T1/cmr/m/n/12 Com-put-ers and Elec-tron-ics in Agri-cul-ture 229 (2025) 109687
 .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2466--2474
+Underfull \hbox (badness 10000) in paragraph at lines 2471--2479
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
 [148] [149]
-Underfull \hbox (badness 1565) in paragraph at lines 2604--2613
+Underfull \hbox (badness 1565) in paragraph at lines 2609--2618
 \T1/cmr/m/n/12 Rah-man, S. Shatabda, M. S. H. Mukta, []A sys-tem-atic re-view
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2604--2613
+Underfull \hbox (badness 10000) in paragraph at lines 2609--2618
 \T1/cmr/m/n/12 of hy-per-pa-ram-e-ter op-ti-miza-tion tech-niques in Con-vo-lu-
 tional
  []
 
 
-Underfull \hbox (badness 1430) in paragraph at lines 2604--2613
+Underfull \hbox (badness 1430) in paragraph at lines 2609--2618
 \T1/cmr/m/n/12 Neu-ral Net-works[], De-ci-sion An-a-lyt-ics Jour-nal 11 (2024) 
 100470.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2604--2613
+Underfull \hbox (badness 10000) in paragraph at lines 2609--2618
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
 [150]
-Underfull \hbox (badness 10000) in paragraph at lines 2627--2633
+Underfull \hbox (badness 10000) in paragraph at lines 2632--2638
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / proceedings . neurips . cc / 
 paper _ files / paper /
  []
 
 
-Underfull \hbox (badness 1400) in paragraph at lines 2655--2661
+Underfull \hbox (badness 1400) in paragraph at lines 2660--2666
 []\T1/cmr/m/n/12 C. Yan, J. Xu, Q. Wang, Z. Peng, []A Triple-Inertial Ac-cel-er
 -
  []
 
 [151]
-Underfull \hbox (badness 10000) in paragraph at lines 2699--2706
+Underfull \hbox (badness 10000) in paragraph at lines 2704--2711
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2708--2716
-\T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
-cience / article / pii /
- []
-
-
-Underfull \hbox (badness 6510) in paragraph at lines 2722--2728
-[]\T1/cmr/m/n/12 A. Mu-muni, F. Mu-muni, []Data aug-men-ta-tion: A com-pre-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2722--2728
-\T1/cmr/m/n/12 hen-sive sur-vey of mod-ern ap-proaches[] 16 100258.  []$\T1/cmt
-t/m/n/12 doi :
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2722--2728
+Underfull \hbox (badness 10000) in paragraph at lines 2713--2721
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
 [152]
-Underfull \hbox (badness 10000) in paragraph at lines 2739--2745
+Underfull \hbox (badness 6510) in paragraph at lines 2727--2733
+[]\T1/cmr/m/n/12 A. Mu-muni, F. Mu-muni, []Data aug-men-ta-tion: A com-pre-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2727--2733
+\T1/cmr/m/n/12 hen-sive sur-vey of mod-ern ap-proaches[] 16 100258.  []$\T1/cmt
+t/m/n/12 doi :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2727--2733
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2784--2791
-\T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
-cience / article / pii /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2793--2800
-[]\T1/cmr/m/n/12 H. Al-tabrawee, M. H. Mohd Noor, []Re-peat and learn:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2793--2800
-\T1/cmr/m/n/12 Self-supervised vi-sual rep-re-sen-ta-tions learn-ing by Re-peat
-ed
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2793--2800
-\T1/cmr/m/n/12 Scene Lo-cal-iza-tion[], Pat-tern Recog-ni-tion 156 (2024) 11080
-4.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2793--2800
+Underfull \hbox (badness 10000) in paragraph at lines 2744--2750
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
 [153]
-Underfull \hbox (badness 1590) in paragraph at lines 2838--2845
+Underfull \hbox (badness 10000) in paragraph at lines 2789--2796
+\T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
+cience / article / pii /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2798--2805
+[]\T1/cmr/m/n/12 H. Al-tabrawee, M. H. Mohd Noor, []Re-peat and learn:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2798--2805
+\T1/cmr/m/n/12 Self-supervised vi-sual rep-re-sen-ta-tions learn-ing by Re-peat
+ed
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2798--2805
+\T1/cmr/m/n/12 Scene Lo-cal-iza-tion[], Pat-tern Recog-ni-tion 156 (2024) 11080
+4.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2798--2805
+\T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
+cience / article / pii /
+ []
+
+[154]
+Underfull \hbox (badness 1590) in paragraph at lines 2843--2850
 \T1/cmr/m/n/12 based ac-tiv-ity recog-ni-tion[], Jour-nal of Am-bi-ent In-tel-l
 i-gence and
  []
 
-[154]
-Underfull \hbox (badness 10000) in paragraph at lines 2847--2854
+
+Underfull \hbox (badness 10000) in paragraph at lines 2852--2859
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2867--2874
+Underfull \hbox (badness 10000) in paragraph at lines 2872--2879
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
 
-Underfull \hbox (badness 2818) in paragraph at lines 2884--2891
+Underfull \hbox (badness 2818) in paragraph at lines 2889--2896
 []\T1/cmr/m/n/12 B. P. Bhuyan, A. Ramdane-Cherif, R. Tomar, T. P. Singh,
  []
 
@@ -2302,13 +2288,13 @@ ged.
 (rerunfilecheck)             Checksum: 0A04BE93D245A094208CCFF65BA142BF;7167.
  ) 
 Here is how much of TeX's memory you used:
- 14491 strings out of 476331
- 248493 string characters out of 5787765
- 1887660 words of memory out of 5000000
- 34024 multiletter control sequences out of 15000+600000
+ 14648 strings out of 476331
+ 249138 string characters out of 5787765
+ 1888660 words of memory out of 5000000
+ 34185 multiletter control sequences out of 15000+600000
  528883 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,76p,2667b,2204s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,76p,2667b,2200s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\mohal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1200.pk> <C:\Users\mohal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
 0\ectt1200.pk> <C:\Users\mohal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
@@ -2334,9 +2320,9 @@ ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/mohal/
 AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/User
 s/mohal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
 
-Output written on elsarticle-template-num_v2.pdf (156 pages, 2696649 bytes).
+Output written on elsarticle-template-num_v2.pdf (156 pages, 2688193 bytes).
 PDF statistics:
- 3813 PDF objects out of 4296 (max. 8388607)
- 674 named destinations out of 1000 (max. 500000)
+ 3799 PDF objects out of 4296 (max. 8388607)
+ 675 named destinations out of 1000 (max. 500000)
  486 words of extra memory for PDF output out of 10000 (max. 10000000)
 
