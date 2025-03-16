@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.11.5)  16 MAR 2025 10:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.11.5)  16 MAR 2025 10:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -386,46 +386,76 @@ Package: footnote 1997/01/28 1.13 Save footnotes around boxes
 \fn@notes=\box60
 \fn@width=\dimen164
 )
-(elsarticle-template-num_v2.aux
+(C:\Users\mohal\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
 
-LaTeX Warning: Label `sec6' multiply defined.
-
+(C:\Users\mohal\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
+Package color Info: Driver file: pdftex.def on input line 149.
+(C:\Users\mohal\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+) (C:\Users\mohal\AppData\Local\Programs\MiKTeX\tex/generic/soul\soul.sty
+Package: soul 2023-06-14 v3.1 Permit use of UTF-8 characters in soul (HO)
+
+(C:\Users\mohal\AppData\Local\Programs\MiKTeX\tex/generic/soul\soul-ori.sty
+Package: soul-ori 2023-06-14 v3.1 letterspacing/underlining (mf)
+\SOUL@word=\toks25
+\SOUL@lasttoken=\toks26
+\SOUL@syllable=\toks27
+\SOUL@cmds=\toks28
+\SOUL@buffer=\toks29
+\SOUL@token=\toks30
+\SOUL@syllgoal=\dimen165
+\SOUL@syllwidth=\dimen166
+\SOUL@charkern=\dimen167
+\SOUL@hyphkern=\dimen168
+\SOUL@dimen=\dimen169
+\SOUL@dimeni=\dimen170
+\SOUL@minus=\count297
+\SOUL@comma=\count298
+\SOUL@apo=\count299
+\SOUL@grave=\count300
+\SOUL@spaceskip=\skip64
+\SOUL@ttwidth=\dimen171
+\SOUL@uldp=\dimen172
+\SOUL@ulht=\dimen173
+))
+(elsarticle-template-num_v2.aux)
 \openout1 = `elsarticle-template-num_v2.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
 
 (C:\Users\mohal\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count297
-\scratchdimen=\dimen165
+\scratchcounter=\count301
+\scratchdimen=\dimen174
 \scratchbox=\box61
-\nofMPsegments=\count298
-\nofMParguments=\count299
-\everyMPshowfont=\toks25
-\MPscratchCnt=\count300
-\MPscratchDim=\dimen166
-\MPnumerator=\count301
-\makeMPintoPDFobject=\count302
-\everyMPtoPDFconversion=\toks26
+\nofMPsegments=\count302
+\nofMParguments=\count303
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count304
+\MPscratchDim=\dimen175
+\MPnumerator=\count305
+\makeMPintoPDFobject=\count306
+\everyMPtoPDFconversion=\toks32
 )
 (C:\Users\mohal\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -437,61 +467,61 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 64.
+Package hyperref Info: Link coloring OFF on input line 65.
  (elsarticle-template-num_v2.out) (elsarticle-template-num_v2.out)
 \@outlinefile=\write4
 \openout4 = `elsarticle-template-num_v2.out'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 164
+LaTeX Font Info:    Trying to load font information for U+msa on input line 165
 .
 
 (C:\Users\mohal\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 164
+LaTeX Font Info:    Trying to load font information for U+msb on input line 165
 .
 
 (C:\Users\mohal\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
-64.
+65.
 
 (C:\Users\mohal\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 164.
+(hyperref)                removing `\<def>-command' on input line 165.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cnotenum' on input line 164.
+(hyperref)                removing `\cnotenum' on input line 165.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 164.
+(hyperref)                removing `\<def>-command' on input line 165.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@corref' on input line 164.
+(hyperref)                removing `\@corref' on input line 165.
 
 [1
 
 
 {C:/Users/mohal/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2]
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 197--197
+Underfull \hbox (badness 10000) in paragraph at lines 198--198
 \T1/cmr/m/n/12 (su-per-vised, un-su-per-vised and
  []
 
 
-Underfull \hbox (badness 2326) in paragraph at lines 197--197
+Underfull \hbox (badness 2326) in paragraph at lines 198--198
 \T1/cmr/m/n/12 re-in-force-ment learn-ings), learn-ing
  []
 
 
-Overfull \hbox (44.33855pt too wide) in paragraph at lines 191--209
+Overfull \hbox (44.33855pt too wide) in paragraph at lines 192--210
 [][]
  []
 
@@ -499,46 +529,49 @@ Overfull \hbox (44.33855pt too wide) in paragraph at lines 191--209
 <fig_layers_neuron.png, id=240, 284.56313pt x 341.275pt>
 File: fig_layers_neuron.png Graphic file (type png)
 <use fig_layers_neuron.png>
-Package pdftex.def Info: fig_layers_neuron.png  used on input line 238.
+Package pdftex.def Info: fig_layers_neuron.png  used on input line 239.
 (pdftex.def)             Requested size: 142.2812pt x 170.63707pt.
  [7 <./fig_layers_neuron.png>]
-<fig_layers_convolution.png, id=256, 602.25pt x 441.65pt>
+<fig_layers_convolution.png, id=257, 602.25pt x 441.65pt>
 File: fig_layers_convolution.png Graphic file (type png)
 <use fig_layers_convolution.png>
-Package pdftex.def Info: fig_layers_convolution.png  used on input line 257.
+Package pdftex.def Info: fig_layers_convolution.png  used on input line 258.
 (pdftex.def)             Requested size: 240.89572pt x 176.65686pt.
- [8 <./fig_layers_convolution.png>]
-<fig_layers_pooling.png, id=269, 562.1pt x 401.5pt>
+<fig_layers_pooling.png, id=260, 562.1pt x 401.5pt>
 File: fig_layers_pooling.png Graphic file (type png)
 <use fig_layers_pooling.png>
-Package pdftex.def Info: fig_layers_pooling.png  used on input line 272.
+Package pdftex.def Info: fig_layers_pooling.png  used on input line 273.
 (pdftex.def)             Requested size: 224.83601pt x 160.59715pt.
 
-[9 <./fig_layers_pooling.png>] [10] [11]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[8 <./fig_layers_convolution.png>] [9 <./fig_layers_pooling.png>] [10] [11]
 <fig_activation_functions_sigmoid.png, id=311, 631.35875pt x 516.93124pt>
 File: fig_activation_functions_sigmoid.png Graphic file (type png)
 <use fig_activation_functions_sigmoid.png>
 Package pdftex.def Info: fig_activation_functions_sigmoid.png  used on input li
-ne 299.
+ne 300.
 (pdftex.def)             Requested size: 157.8393pt x 129.23248pt.
 <fig_activation_functions_tanh.png, id=312, 645.41125pt x 516.93124pt>
 File: fig_activation_functions_tanh.png Graphic file (type png)
 <use fig_activation_functions_tanh.png>
 Package pdftex.def Info: fig_activation_functions_tanh.png  used on input line 
-306.
+307.
 (pdftex.def)             Requested size: 161.35242pt x 129.23248pt.
 <fig_activation_functions_relu.png, id=313, 616.3025pt x 516.93124pt>
 File: fig_activation_functions_relu.png Graphic file (type png)
 <use fig_activation_functions_relu.png>
 Package pdftex.def Info: fig_activation_functions_relu.png  used on input line 
-313.
+314.
 (pdftex.def)             Requested size: 154.07524pt x 129.23248pt.
- [12] [13 <./fig_activation_functions_sigmoid.png> <./fig_activation_functions_
-tanh.png> <./fig_activation_functions_relu.png>] [14] [15]
+
+[12] [13 <./fig_activation_functions_sigmoid.png> <./fig_activation_functions_t
+anh.png> <./fig_activation_functions_relu.png>] [14] [15]
 <fig_deep_sv_learning_mlp.png, id=381, 331.2375pt x 301.125pt>
 File: fig_deep_sv_learning_mlp.png Graphic file (type png)
 <use fig_deep_sv_learning_mlp.png>
-Package pdftex.def Info: fig_deep_sv_learning_mlp.png  used on input line 351.
+Package pdftex.def Info: fig_deep_sv_learning_mlp.png  used on input line 352.
 (pdftex.def)             Requested size: 198.74402pt x 180.67638pt.
 
 
@@ -548,7 +581,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <fig_deep_sv_learning_rnn.png, id=395, 235.88126pt x 321.2pt>
 File: fig_deep_sv_learning_rnn.png Graphic file (type png)
 <use fig_deep_sv_learning_rnn.png>
-Package pdftex.def Info: fig_deep_sv_learning_rnn.png  used on input line 362.
+Package pdftex.def Info: fig_deep_sv_learning_rnn.png  used on input line 363.
 (pdftex.def)             Requested size: 141.52983pt x 192.72148pt.
 
 
@@ -558,7 +591,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <fig_deep_sv_learning_lstm.png, id=408, 471.7625pt x 447.6725pt>
 File: fig_deep_sv_learning_lstm.png Graphic file (type png)
 <use fig_deep_sv_learning_lstm.png>
-Package pdftex.def Info: fig_deep_sv_learning_lstm.png  used on input line 371.
+Package pdftex.def Info: fig_deep_sv_learning_lstm.png  used on input line 372.
 
 (pdftex.def)             Requested size: 235.88066pt x 223.8357pt.
 
@@ -568,7 +601,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <fig_deep_sv_learning_gru.png, id=410, 514.92375pt x 453.695pt>
 File: fig_deep_sv_learning_gru.png Graphic file (type png)
 <use fig_deep_sv_learning_gru.png>
-Package pdftex.def Info: fig_deep_sv_learning_gru.png  used on input line 380.
+Package pdftex.def Info: fig_deep_sv_learning_gru.png  used on input line 381.
 (pdftex.def)             Requested size: 257.46124pt x 226.84694pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -581,7 +614,7 @@ LaTeX Warning: Text page 19 contains only floats.
 <fig_deep_sv_learning_cnn.png, id=426, 501.875pt x 114.92938pt>
 File: fig_deep_sv_learning_cnn.png Graphic file (type png)
 <use fig_deep_sv_learning_cnn.png>
-Package pdftex.def Info: fig_deep_sv_learning_cnn.png  used on input line 390.
+Package pdftex.def Info: fig_deep_sv_learning_cnn.png  used on input line 391.
 (pdftex.def)             Requested size: 376.40532pt x 86.19681pt.
 
 [20 <./fig_deep_sv_learning_cnn.png>] [21]
@@ -589,35 +622,35 @@ Package pdftex.def Info: fig_deep_sv_learning_cnn.png  used on input line 390.
 File: fig_deep_sv_learning_cnn_inception.png Graphic file (type png)
 <use fig_deep_sv_learning_cnn_inception.png>
 Package pdftex.def Info: fig_deep_sv_learning_cnn_inception.png  used on input 
-line 407.
+line 408.
 (pdftex.def)             Requested size: 337.2626pt x 181.27864pt.
  [22 <./fig_deep_sv_learning_cnn_inception.png>]
 <fig_deep_sv_learning_cnn_resnet.png, id=459, 160.6pt x 341.275pt>
 File: fig_deep_sv_learning_cnn_resnet.png Graphic file (type png)
 <use fig_deep_sv_learning_cnn_resnet.png>
 Package pdftex.def Info: fig_deep_sv_learning_cnn_resnet.png  used on input lin
-e 418.
+e 419.
 (pdftex.def)             Requested size: 80.29979pt x 170.63707pt.
  [23 <./fig_deep_sv_learning_cnn_resnet.png>]
 <fig_deep_sv_learning_cnn_densenet.png, id=471, 844.15375pt x 250.9375pt>
 File: fig_deep_sv_learning_cnn_densenet.png Graphic file (type png)
 <use fig_deep_sv_learning_cnn_densenet.png>
 Package pdftex.def Info: fig_deep_sv_learning_cnn_densenet.png  used on input l
-ine 427.
+ine 428.
 (pdftex.def)             Requested size: 379.86568pt x 112.92082pt.
  [24 <./fig_deep_sv_learning_cnn_densenet.png>]
 <fig_deep_sv_learning_cnn_resnext.png, id=484, 814.04124pt x 291.0875pt>
 File: fig_deep_sv_learning_cnn_resnext.png Graphic file (type png)
 <use fig_deep_sv_learning_cnn_resnext.png>
 Package pdftex.def Info: fig_deep_sv_learning_cnn_resnext.png  used on input li
-ne 438.
+ne 439.
 (pdftex.def)             Requested size: 366.31517pt x 130.98816pt.
  [25 <./fig_deep_sv_learning_cnn_resnext.png>]
 <fig_cnn_top_five_errors_imagenet.png, id=500, 435.372pt x 364.416pt>
 File: fig_cnn_top_five_errors_imagenet.png Graphic file (type png)
 <use fig_cnn_top_five_errors_imagenet.png>
 Package pdftex.def Info: fig_cnn_top_five_errors_imagenet.png  used on input li
-ne 449.
+ne 450.
 (pdftex.def)             Requested size: 348.29807pt x 291.5332pt.
 
 
@@ -627,7 +660,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: fig_cnn_top_one_errors_cifar10.png Graphic file (type png)
 <use fig_cnn_top_one_errors_cifar10.png>
 Package pdftex.def Info: fig_cnn_top_one_errors_cifar10.png  used on input line
- 456.
+ 457.
 (pdftex.def)             Requested size: 353.02847pt x 226.8843pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -637,7 +670,7 @@ s_cifar10.png>]
 <fig_deep_unsv_learning_rbm.png, id=538, 170.6375pt x 301.125pt>
 File: fig_deep_unsv_learning_rbm.png Graphic file (type png)
 <use fig_deep_unsv_learning_rbm.png>
-Package pdftex.def Info: fig_deep_unsv_learning_rbm.png  used on input line 477
+Package pdftex.def Info: fig_deep_unsv_learning_rbm.png  used on input line 478
 .
 (pdftex.def)             Requested size: 102.38327pt x 180.67638pt.
 
@@ -647,24 +680,24 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <fig_deep_unsv_learning_dbn.png, id=542, 341.275pt x 381.425pt>
 File: fig_deep_unsv_learning_dbn.png Graphic file (type png)
 <use fig_deep_unsv_learning_dbn.png>
-Package pdftex.def Info: fig_deep_unsv_learning_dbn.png  used on input line 486
+Package pdftex.def Info: fig_deep_unsv_learning_dbn.png  used on input line 487
 .
 (pdftex.def)             Requested size: 204.76657pt x 228.85675pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [29] [30 <./fig_deep_unsv_learning_rbm.png> <./fig_deep_unsv_learning_dbn.png>]
-<fig_deep_unsv_learning_ae.png, id=563, 250.9375pt x 331.2375pt>
+<fig_deep_unsv_learning_ae.png, id=564, 250.9375pt x 331.2375pt>
 File: fig_deep_unsv_learning_ae.png Graphic file (type png)
 <use fig_deep_unsv_learning_ae.png>
-Package pdftex.def Info: fig_deep_unsv_learning_ae.png  used on input line 495.
+Package pdftex.def Info: fig_deep_unsv_learning_ae.png  used on input line 496.
 
 (pdftex.def)             Requested size: 150.56364pt x 198.74402pt.
 [31 <./fig_deep_unsv_learning_ae.png>]
 <fig_deep_unsv_learning_gan.png, id=587, 622.325pt x 482.80376pt>
 File: fig_deep_unsv_learning_gan.png Graphic file (type png)
 <use fig_deep_unsv_learning_gan.png>
-Package pdftex.def Info: fig_deep_unsv_learning_gan.png  used on input line 506
+Package pdftex.def Info: fig_deep_unsv_learning_gan.png  used on input line 507
 .
 (pdftex.def)             Requested size: 373.39787pt x 289.6845pt.
  [32 <./fig_deep_unsv_learning_gan.png>]
@@ -672,699 +705,693 @@ Package pdftex.def Info: fig_deep_unsv_learning_gan.png  used on input line 506
 <fig_img_clf_MaxViT.png, id=659, 372.39125pt x 172.14313pt>
 File: fig_img_clf_MaxViT.png Graphic file (type png)
 <use fig_img_clf_MaxViT.png>
-Package pdftex.def Info: fig_img_clf_MaxViT.png  used on input line 530.
+Package pdftex.def Info: fig_img_clf_MaxViT.png  used on input line 531.
 (pdftex.def)             Requested size: 260.67209pt x 120.49934pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 543--543
+Underfull \hbox (badness 10000) in paragraph at lines 544--544
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 1859) in paragraph at lines 543--543
+Underfull \hbox (badness 1859) in paragraph at lines 544--544
 \T1/cmr/m/n/8 re-wards well-classified ex-am-ples with ad-di-tive
  []
 
 
-Underfull \hbox (badness 1496) in paragraph at lines 543--543
+Underfull \hbox (badness 1496) in paragraph at lines 544--544
 \T1/cmr/m/n/8 bonuses to en-hance their con-tri-bu-tion dur-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 545--545
+Underfull \hbox (badness 10000) in paragraph at lines 546--546
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 547--547
+Underfull \hbox (badness 10000) in paragraph at lines 548--548
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 549--549
+Underfull \hbox (badness 10000) in paragraph at lines 550--550
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 551--551
+Underfull \hbox (badness 10000) in paragraph at lines 552--552
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 553--553
+Underfull \hbox (badness 10000) in paragraph at lines 554--554
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Overfull \hbox (44.33855pt too wide) in paragraph at lines 539--557
+Overfull \hbox (44.33855pt too wide) in paragraph at lines 540--558
 [][]
  []
 
 [36 <./fig_img_clf_MaxViT.png>] [37]
 
-LaTeX Warning: Command \texttimes invalid in math mode on input line 563.
+LaTeX Warning: Command \texttimes invalid in math mode on input line 564.
 
 
-LaTeX Warning: Command \texttimes invalid in math mode on input line 563.
+LaTeX Warning: Command \texttimes invalid in math mode on input line 564.
 
 Missing character: There is no Ö in font cmr12!
-[38] [39] [40]
-<fig_obj_det_Dynamic-DETR.png, id=735, 495.8525pt x 217.81375pt>
+[38] [39]
+<fig_obj_det_Dynamic-DETR.png, id=725, 495.8525pt x 217.81375pt>
 File: fig_obj_det_Dynamic-DETR.png Graphic file (type png)
 <use fig_obj_det_Dynamic-DETR.png>
-Package pdftex.def Info: fig_obj_det_Dynamic-DETR.png  used on input line 577.
+Package pdftex.def Info: fig_obj_det_Dynamic-DETR.png  used on input line 578.
 (pdftex.def)             Requested size: 347.09438pt x 152.46857pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 590--590
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 591--591
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 3088) in paragraph at lines 590--590
+Underfull \hbox (badness 3088) in paragraph at lines 591--591
 \T1/cmr/m/n/8 that dy-nam-i-cally ad-justs sup-pres-sion cri-te-ria
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 592--592
+Underfull \hbox (badness 10000) in paragraph at lines 593--593
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 594--594
+Underfull \hbox (badness 10000) in paragraph at lines 595--595
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 596--596
+Underfull \hbox (badness 10000) in paragraph at lines 597--597
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 598--598
+Underfull \hbox (badness 10000) in paragraph at lines 599--599
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 600--600
+Underfull \hbox (badness 10000) in paragraph at lines 601--601
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Overfull \hbox (44.33855pt too wide) in paragraph at lines 586--604
+Overfull \hbox (44.33855pt too wide) in paragraph at lines 587--605
 [][]
  []
 
-[41 <./fig_obj_det_Dynamic-DETR.png>] [42] [43]
+[40] [41] [42 <./fig_obj_det_Dynamic-DETR.png>] [43]
 <fig_img_seg_GC-ViT.png, id=781, 546.04pt x 98.86937pt>
 File: fig_img_seg_GC-ViT.png Graphic file (type png)
 <use fig_img_seg_GC-ViT.png>
-Package pdftex.def Info: fig_img_seg_GC-ViT.png  used on input line 618.
+Package pdftex.def Info: fig_img_seg_GC-ViT.png  used on input line 619.
 (pdftex.def)             Requested size: 382.22539pt x 69.20808pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 631--631
+ [44 <./fig_img_seg_GC-ViT.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 632--632
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 633--633
+Underfull \hbox (badness 10000) in paragraph at lines 634--634
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 635--635
+Underfull \hbox (badness 10000) in paragraph at lines 636--636
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 637--637
+Underfull \hbox (badness 10000) in paragraph at lines 638--638
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 2088) in paragraph at lines 637--637
+Underfull \hbox (badness 2088) in paragraph at lines 638--638
 \T1/cmr/m/n/8 former ar-chi-tec-ture that em-ployes al-ter-nat-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 639--639
+Underfull \hbox (badness 10000) in paragraph at lines 640--640
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Overfull \hbox (44.33855pt too wide) in paragraph at lines 627--643
+Overfull \hbox (44.33855pt too wide) in paragraph at lines 628--644
 [][]
  []
 
-[44] [45] [46 <./fig_img_seg_GC-ViT.png>]
-<fig_image_gen_AttnGAN.png, id=821, 634.87187pt x 260.47313pt>
+[45] [46]
+<fig_image_gen_AttnGAN.png, id=826, 634.87187pt x 260.47313pt>
 File: fig_image_gen_AttnGAN.png Graphic file (type png)
 <use fig_image_gen_AttnGAN.png>
-Package pdftex.def Info: fig_image_gen_AttnGAN.png  used on input line 655.
+Package pdftex.def Info: fig_image_gen_AttnGAN.png  used on input line 656.
 (pdftex.def)             Requested size: 317.43515pt x 130.23624pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[47]
-<fig_image_gen_DMF-GAN.png, id=840, 689.07437pt x 218.8175pt>
+ [47 <./fig_image_gen_AttnGAN.png>]
+<fig_image_gen_DMF-GAN.png, id=842, 689.07437pt x 218.8175pt>
 File: fig_image_gen_DMF-GAN.png Graphic file (type png)
 <use fig_image_gen_DMF-GAN.png>
-Package pdftex.def Info: fig_image_gen_DMF-GAN.png  used on input line 664.
+Package pdftex.def Info: fig_image_gen_DMF-GAN.png  used on input line 665.
 (pdftex.def)             Requested size: 344.53633pt x 109.40848pt.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 677--677
+Underfull \hbox (badness 10000) in paragraph at lines 678--678
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 679--679
+Underfull \hbox (badness 10000) in paragraph at lines 680--680
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 681--681
+Underfull \hbox (badness 10000) in paragraph at lines 682--682
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Overfull \hbox (44.33855pt too wide) in paragraph at lines 673--685
+Overfull \hbox (44.33855pt too wide) in paragraph at lines 674--686
 [][]
  []
 
-[48 <./fig_image_gen_AttnGAN.png>] [49 <./fig_image_gen_DMF-GAN.png>] [50]
-[51]
-<fig_text_clf_BERT-MSL.png, id=904, 445.665pt x 340.77313pt>
+[48 <./fig_image_gen_DMF-GAN.png>] [49] [50]
+<fig_text_clf_BERT-MSL.png, id=896, 445.665pt x 340.77313pt>
 File: fig_text_clf_BERT-MSL.png Graphic file (type png)
 <use fig_text_clf_BERT-MSL.png>
-Package pdftex.def Info: fig_text_clf_BERT-MSL.png  used on input line 702.
+Package pdftex.def Info: fig_text_clf_BERT-MSL.png  used on input line 703.
 (pdftex.def)             Requested size: 311.96336pt x 238.53955pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 715--715
+ [51]
+Underfull \hbox (badness 10000) in paragraph at lines 716--716
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 717--717
+Underfull \hbox (badness 10000) in paragraph at lines 718--718
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 719--719
+Underfull \hbox (badness 10000) in paragraph at lines 720--720
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 721--721
+Underfull \hbox (badness 10000) in paragraph at lines 722--722
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 723--723
+Underfull \hbox (badness 10000) in paragraph at lines 724--724
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 5446) in paragraph at lines 723--724
+Underfull \hbox (badness 5446) in paragraph at lines 724--725
 \T1/cmr/m/n/8 Accuracy: 82.24%, Macro-average F1-score:
  []
 
 
-Underfull \hbox (badness 5446) in paragraph at lines 723--724
+Underfull \hbox (badness 5446) in paragraph at lines 724--725
 \T1/cmr/m/n/8 Accuracy: 88.53%, Macro-average F1-score:
  []
 
 
-Underfull \hbox (badness 5446) in paragraph at lines 723--724
+Underfull \hbox (badness 5446) in paragraph at lines 724--725
 \T1/cmr/m/n/8 Accuracy: 93.09%, Macro-average F1-score:
  []
 
 
-Underfull \hbox (badness 5446) in paragraph at lines 723--724
+Underfull \hbox (badness 5446) in paragraph at lines 724--725
 \T1/cmr/m/n/8 Accuracy: 74.89%, Macro-average F1-score:
  []
 
 
-Overfull \hbox (44.33855pt too wide) in paragraph at lines 711--727
+Overfull \hbox (44.33855pt too wide) in paragraph at lines 712--728
 [][]
  []
 
-[52] [53]
-<fig_nmt_encoder-decoder.png, id=928, 783.92876pt x 211.79124pt>
+[52 <./fig_text_clf_BERT-MSL.png>] [53]
+<fig_nmt_encoder-decoder.png, id=929, 783.92876pt x 211.79124pt>
 File: fig_nmt_encoder-decoder.png Graphic file (type png)
 <use fig_nmt_encoder-decoder.png>
-Package pdftex.def Info: fig_nmt_encoder-decoder.png  used on input line 736.
+Package pdftex.def Info: fig_nmt_encoder-decoder.png  used on input line 737.
 (pdftex.def)             Requested size: 352.76468pt x 95.30518pt.
- [54 <./fig_text_clf_BERT-MSL.png> <./fig_nmt_encoder-decoder.png>]
-<fig_nmt_GNMT.png, id=946, 601.24625pt x 315.67938pt>
+ [54 <./fig_nmt_encoder-decoder.png>]
+<fig_nmt_GNMT.png, id=949, 601.24625pt x 315.67938pt>
 File: fig_nmt_GNMT.png Graphic file (type png)
 <use fig_nmt_GNMT.png>
-Package pdftex.def Info: fig_nmt_GNMT.png  used on input line 745.
+Package pdftex.def Info: fig_nmt_GNMT.png  used on input line 746.
 (pdftex.def)             Requested size: 360.75052pt x 189.40909pt.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[55] [56 <./fig_nmt_GNMT.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 762--762
+[55 <./fig_nmt_GNMT.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 763--763
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 764--764
+Underfull \hbox (badness 10000) in paragraph at lines 765--765
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 766--766
+Underfull \hbox (badness 10000) in paragraph at lines 767--767
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 768--768
+Underfull \hbox (badness 10000) in paragraph at lines 769--769
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 770--770
+Underfull \hbox (badness 10000) in paragraph at lines 771--771
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 772--772
+Underfull \hbox (badness 10000) in paragraph at lines 773--773
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Overfull \hbox (44.33855pt too wide) in paragraph at lines 758--776
+Overfull \hbox (44.33855pt too wide) in paragraph at lines 759--777
 [][]
  []
 
-[57] [58] [59]
-Underfull \hbox (badness 10000) in paragraph at lines 796--796
+[56] [57] [58] [59]
+Underfull \hbox (badness 10000) in paragraph at lines 797--797
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 798--798
+Underfull \hbox (badness 10000) in paragraph at lines 799--799
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 800--800
+Underfull \hbox (badness 10000) in paragraph at lines 801--801
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 802--802
+Underfull \hbox (badness 10000) in paragraph at lines 803--803
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 804--804
+Underfull \hbox (badness 10000) in paragraph at lines 805--805
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Overfull \hbox (44.33855pt too wide) in paragraph at lines 792--808
+Overfull \hbox (44.33855pt too wide) in paragraph at lines 793--809
 [][]
  []
 
-[60] [61] [62] [63] [64] [65]
-<fig_har_multi-head_cnn.png, id=1118, 571.63562pt x 376.90813pt>
+[60] [61] [62] [63] [64]
+<fig_har_multi-head_cnn.png, id=1113, 571.63562pt x 376.90813pt>
 File: fig_har_multi-head_cnn.png Graphic file (type png)
 <use fig_har_multi-head_cnn.png>
-Package pdftex.def Info: fig_har_multi-head_cnn.png  used on input line 835.
+Package pdftex.def Info: fig_har_multi-head_cnn.png  used on input line 836.
 (pdftex.def)             Requested size: 285.81711pt x 188.4536pt.
- [66 <./fig_har_multi-head_cnn.png>] [67]
-Underfull \hbox (badness 10000) in paragraph at lines 854--854
+
+Overfull \hbox (4.76462pt too wide) in paragraph at lines 841--842
+[]\T1/cmr/bx/n/12 Transformers\T1/cmr/m/n/12 : \T1/cmr/m/it/12 Trans-form-ers h
+ave been em-ployed in hu-man ac-tiv-ity recog-
+ []
+
+[65 <./fig_har_multi-head_cnn.png>] [66]
+Underfull \hbox (badness 10000) in paragraph at lines 855--855
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 856--856
+Underfull \hbox (badness 10000) in paragraph at lines 857--857
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 858--858
+Underfull \hbox (badness 10000) in paragraph at lines 859--859
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 860--860
+Underfull \hbox (badness 10000) in paragraph at lines 861--861
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 862--862
+Underfull \hbox (badness 10000) in paragraph at lines 863--863
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 864--864
+Underfull \hbox (badness 10000) in paragraph at lines 865--865
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 866--866
+Underfull \hbox (badness 10000) in paragraph at lines 867--867
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Overfull \hbox (44.33855pt too wide) in paragraph at lines 850--870
+Overfull \hbox (44.33855pt too wide) in paragraph at lines 851--871
 [][]
  []
 
-[68] [69] [70]
-<fig_speech_seq2seq.png, id=1205, 423.5825pt x 283.0575pt>
+[67] [68] [69]
+<fig_speech_seq2seq.png, id=1200, 423.5825pt x 283.0575pt>
 File: fig_speech_seq2seq.png Graphic file (type png)
 <use fig_speech_seq2seq.png>
-Package pdftex.def Info: fig_speech_seq2seq.png  used on input line 886.
+Package pdftex.def Info: fig_speech_seq2seq.png  used on input line 887.
 (pdftex.def)             Requested size: 254.15146pt x 169.8358pt.
- [71 <./fig_speech_seq2seq.png>] [72]
-Underfull \hbox (badness 10000) in paragraph at lines 907--907
+ [70 <./fig_speech_seq2seq.png>] [71] [72]
+Underfull \hbox (badness 10000) in paragraph at lines 908--908
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 909--909
+Underfull \hbox (badness 10000) in paragraph at lines 910--910
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 909--909
+Underfull \hbox (badness 10000) in paragraph at lines 910--910
 []\T1/cmr/m/n/8 This study in-tro-duced Aligner-Encoder, a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 911--911
+Underfull \hbox (badness 10000) in paragraph at lines 912--912
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 913--913
+Underfull \hbox (badness 10000) in paragraph at lines 914--914
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 915--915
+Underfull \hbox (badness 10000) in paragraph at lines 916--916
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Overfull \hbox (44.33855pt too wide) in paragraph at lines 903--919
+Overfull \hbox (44.33855pt too wide) in paragraph at lines 904--920
 [][]
  []
 
-[73] [74] [75] [76]
-Underfull \hbox (badness 10000) in paragraph at lines 940--940
+[73] [74] [75]
+Underfull \hbox (badness 10000) in paragraph at lines 941--941
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 942--942
+Underfull \hbox (badness 10000) in paragraph at lines 943--943
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 3098) in paragraph at lines 942--943
+Underfull \hbox (badness 3098) in paragraph at lines 943--944
 \T1/cmr/m/n/8 F1-Score: 0.45 (ATVI), 0.51 (AAPL), 0.48
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 944--944
+Underfull \hbox (badness 10000) in paragraph at lines 945--945
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 2884) in paragraph at lines 944--945
+Underfull \hbox (badness 2884) in paragraph at lines 945--946
 \T1/cmr/m/n/8 MSE: 0.0085 (Trans-former), 0.1972 (LSTM),
  []
 
 
-Underfull \hbox (badness 2884) in paragraph at lines 944--945
+Underfull \hbox (badness 2884) in paragraph at lines 945--946
 \T1/cmr/m/n/8 MSE: 0.0118 (Trans-former), 0.0095 (LSTM),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 946--946
+Underfull \hbox (badness 10000) in paragraph at lines 947--947
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 948--948
+Underfull \hbox (badness 10000) in paragraph at lines 949--949
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Overfull \hbox (44.33855pt too wide) in paragraph at lines 936--952
+Overfull \hbox (44.33855pt too wide) in paragraph at lines 937--953
 [][]
  []
 
-[77] [78] [79] [80]
-<fig_ecg_gan_ae.png, id=1381, 903.375pt x 491.8375pt>
+[76] [77] [78] [79] [80]
+<fig_ecg_gan_ae.png, id=1382, 903.375pt x 491.8375pt>
 File: fig_ecg_gan_ae.png Graphic file (type png)
 <use fig_ecg_gan_ae.png>
-Package pdftex.def Info: fig_ecg_gan_ae.png  used on input line 972.
+Package pdftex.def Info: fig_ecg_gan_ae.png  used on input line 973.
 (pdftex.def)             Requested size: 361.3436pt x 196.7315pt.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 985--985
+Underfull \hbox (badness 10000) in paragraph at lines 986--986
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 987--987
+Underfull \hbox (badness 10000) in paragraph at lines 988--988
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 989--989
+Underfull \hbox (badness 10000) in paragraph at lines 990--990
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 991--991
+Underfull \hbox (badness 10000) in paragraph at lines 992--992
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 993--993
+Underfull \hbox (badness 10000) in paragraph at lines 994--994
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 995--995
+Underfull \hbox (badness 10000) in paragraph at lines 996--996
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 997--997
+Underfull \hbox (badness 10000) in paragraph at lines 998--998
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Overfull \hbox (44.33855pt too wide) in paragraph at lines 981--1001
+Overfull \hbox (44.33855pt too wide) in paragraph at lines 982--1002
 [][]
  []
 
-[81] [82 <./fig_ecg_gan_ae.png>] [83] [84] [85]
-Underfull \hbox (badness 10000) in paragraph at lines 1027--1027
+[81 <./fig_ecg_gan_ae.png>] [82] [83] [84]
+Overfull \hbox (24.58876pt too wide) in paragraph at lines 1018--1019
+\T1/cmr/m/it/12 ing pipelines, where one ac-cepts clean sig-nals while the othe
+r han-dles noisy/artifact
+ []
+
+[85]
+Underfull \hbox (badness 10000) in paragraph at lines 1028--1028
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1029--1029
+Underfull \hbox (badness 10000) in paragraph at lines 1030--1030
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1031--1031
+Underfull \hbox (badness 10000) in paragraph at lines 1032--1032
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1033--1033
+Underfull \hbox (badness 10000) in paragraph at lines 1034--1034
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 3792) in paragraph at lines 1033--1033
+Underfull \hbox (badness 3792) in paragraph at lines 1034--1034
 []\T1/cmr/m/n/8 A frame-work com-prises two sep-a-rated deep
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1035--1035
+Underfull \hbox (badness 10000) in paragraph at lines 1036--1036
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1037--1037
+Underfull \hbox (badness 10000) in paragraph at lines 1038--1038
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1039--1039
+Underfull \hbox (badness 10000) in paragraph at lines 1040--1040
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1039--1040
+Underfull \hbox (badness 10000) in paragraph at lines 1040--1041
 []\T1/cmr/m/n/8 EEGdenoiseNet(EEG, EOG, EMG), MIT-
  []
 
 
-Underfull \hbox (badness 4752) in paragraph at lines 1039--1040
+Underfull \hbox (badness 4752) in paragraph at lines 1040--1041
 \T1/cmr/m/n/8 BIH Ar-rhyth-mia (ECG) and semi-simulated
  []
 
 
-Overfull \hbox (44.33855pt too wide) in paragraph at lines 1023--1043
+Overfull \hbox (44.33855pt too wide) in paragraph at lines 1024--1044
 [][]
  []
 
 [86] [87]
-Underfull \hbox (badness 10000) in paragraph at lines 1062--1062
+Underfull \hbox (badness 10000) in paragraph at lines 1063--1063
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1064--1064
+Underfull \hbox (badness 10000) in paragraph at lines 1065--1065
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 7832) in paragraph at lines 1064--1064
+Underfull \hbox (badness 7832) in paragraph at lines 1065--1065
 []\T1/cmr/m/n/8 Segment Any-thing ar-chi-tec-ture
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1066--1066
+Underfull \hbox (badness 10000) in paragraph at lines 1067--1067
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1068--1068
+Underfull \hbox (badness 10000) in paragraph at lines 1069--1069
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1070--1070
+Underfull \hbox (badness 10000) in paragraph at lines 1071--1071
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Overfull \hbox (27.8858pt too wide) in paragraph at lines 1058--1074
+Overfull \hbox (27.8858pt too wide) in paragraph at lines 1059--1075
 [][]
  []
 
-[88] [89]
-Underfull \hbox (badness 10000) in paragraph at lines 1090--1090
+[88]
+Overfull \hbox (8.07332pt too wide) in paragraph at lines 1081--1082
+[]\T1/cmr/m/it/12 In [[]], a method for or-chard robot nav-i-ga-tion uti-liz-in
+g a mod-i-fied YOLOv8
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1091--1091
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1092--1092
+Underfull \hbox (badness 10000) in paragraph at lines 1093--1093
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1094--1094
+Underfull \hbox (badness 10000) in paragraph at lines 1095--1095
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 5847) in paragraph at lines 1094--1094
+Underfull \hbox (badness 5847) in paragraph at lines 1095--1095
 []\T1/cmr/m/n/8 Mobile robot, In-tel Re-alSense
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1096--1096
+Underfull \hbox (badness 10000) in paragraph at lines 1097--1097
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 6252) in paragraph at lines 1096--1097
+Underfull \hbox (badness 6252) in paragraph at lines 1097--1098
 []\T1/cmr/m/n/8 Navigation path ex-
  []
 
 
-Overfull \hbox (27.8858pt too wide) in paragraph at lines 1086--1100
+Overfull \hbox (27.8858pt too wide) in paragraph at lines 1087--1101
 [][]
  []
 
-[90]
-<fig_hri_llm_grounding_architecture.png, id=1554, 541.02126pt x 225.84375pt>
+[89] [90]
+<fig_hri_llm_grounding_architecture.png, id=1557, 541.02126pt x 225.84375pt>
 File: fig_hri_llm_grounding_architecture.png Graphic file (type png)
 <use fig_hri_llm_grounding_architecture.png>
 Package pdftex.def Info: fig_hri_llm_grounding_architecture.png  used on input 
-line 1110.
+line 1111.
 (pdftex.def)             Requested size: 324.61525pt x 135.50728pt.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1123--1123
+Underfull \hbox (badness 10000) in paragraph at lines 1124--1124
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1125--1125
+Underfull \hbox (badness 10000) in paragraph at lines 1126--1126
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1127--1127
+Underfull \hbox (badness 10000) in paragraph at lines 1128--1128
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1127--1127
+Underfull \hbox (badness 10000) in paragraph at lines 1128--1128
 []\T1/cmr/m/n/8 Neuro-Inspired COL-lab-o-ra-tor
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+Underfull \hbox (badness 10000) in paragraph at lines 1130--1130
 []\T1/cmr/m/n/8 [[]],
  []
 
 
-Underfull \hbox (badness 1609) in paragraph at lines 1129--1129
+Underfull \hbox (badness 1609) in paragraph at lines 1130--1130
 []\T1/cmr/m/n/8 MStretch SE3 robot, In-tel Re-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+Underfull \hbox (badness 10000) in paragraph at lines 1130--1130
 []\T1/cmr/m/n/8 Object seg-men-ta-tion: YOLO
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1129--1130
+Underfull \hbox (badness 10000) in paragraph at lines 1130--1131
 []\T1/cmr/m/n/8 Robot be-hav-ior an-
  []
 
 
-Overfull \hbox (27.8858pt too wide) in paragraph at lines 1119--1133
+Overfull \hbox (27.8858pt too wide) in paragraph at lines 1120--1134
 [][]
  []
 
-[91] [92 <./fig_hri_llm_grounding_architecture.png>] [93] [94] [95] [96]
-[97] [98] [99] [100] [101] [102] [103] [104] (elsarticle-template-num_v2.bbl
+[91 <./fig_hri_llm_grounding_architecture.png>] [92] [93] [94] [95] [96]
+[97] [98] [99] [100] [101] [102] [103] (elsarticle-template-num_v2.bbl
 Underfull \hbox (badness 1043) in paragraph at lines 9--16
 []\T1/cmr/m/n/12 S. Shamshir-band, M. Fathi, A. De-hzangi, A. T. Chronopou-los,
 
@@ -1376,7 +1403,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--16
 cience / article / pii /
  []
 
-
+[104]
 Underfull \hbox (badness 10000) in paragraph at lines 18--24
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
@@ -1400,7 +1427,7 @@ Underfull \hbox (badness 1762) in paragraph at lines 120--126
 ],
  []
 
-[107]
+
 Underfull \hbox (badness 1831) in paragraph at lines 162--168
 []\T1/cmr/m/n/12 Y. A. Le-Cun, L. Bot-tou, G. B. Orr, K.-R. Müller, []Ef-fi-cie
 nt
@@ -1412,19 +1439,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 176--182
 files / paper / 2000 / hash /
  []
 
-
+[107]
 Underfull \hbox (badness 2189) in paragraph at lines 204--211
 []\T1/cmr/m/n/12 D.-A. Clev-ert, T. Un-terthiner, S. Hochre-iter, []Fast and Ac
 -cu-
  []
 
-[108]
+
 Underfull \hbox (badness 10000) in paragraph at lines 231--237
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
-[109]
+[108] [109]
 Underfull \hbox (badness 10000) in paragraph at lines 311--315
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . semanticscholar . org /
 
@@ -1470,7 +1497,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 460--467
 cience / article / pii /
  []
 
-[112]
+
 Underfull \hbox (badness 10000) in paragraph at lines 469--477
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
@@ -1498,7 +1525,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 479--486
 cience / article / pii /
  []
 
-
+[112]
 Underfull \hbox (badness 10000) in paragraph at lines 517--525
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
@@ -1516,7 +1543,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 563--569
 icle / Deep _ belief _
  []
 
-[114]
+
 Underfull \hbox (badness 5756) in paragraph at lines 596--603
 []\T1/cmr/m/n/12 P. Li, Y. Pei, J. Li, []A com-pre-hen-sive sur-vey on de-sign
  []
@@ -1533,7 +1560,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 596--603
 cience / article / pii /
  []
 
-[115] [116]
+[114] [115] [116]
 Underfull \hbox (badness 10000) in paragraph at lines 741--746
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / openaccess . thecvf . com / c
 ontent / ICCV2023W /
@@ -1551,7 +1578,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 802--808
 cience / article / pii /
  []
 
-[118]
+
 Underfull \hbox (badness 10000) in paragraph at lines 825--831
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / proceedings . neurips . cc / 
 paper _ files / paper /
@@ -1563,7 +1590,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 833--838
  openaccess / content _
  []
 
-[119]
+[118]
 Underfull \hbox (badness 10000) in paragraph at lines 890--898
 []\T1/cmr/m/n/12 A. Husham Al-Badri, N. Az-man Is-mail, K. Al-Dulaimi,
  []
@@ -1586,12 +1613,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 890--898
 cience / article / pii /
  []
 
-
+[119]
 Underfull \hbox (badness 2384) in paragraph at lines 920--927
 []\T1/cmr/m/n/12 N. Car-ion, F. Massa, G. Syn-naeve, N. Usunier, A. Kir-illov,
  []
 
-[120]
+
 Underfull \hbox (badness 10000) in paragraph at lines 933--938
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / openaccess . thecvf . com / c
 ontent / ICCV2021 / html /
@@ -1603,13 +1630,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 933--938
 th _ Dynamic _
  []
 
-[121]
+[120]
 Underfull \hbox (badness 10000) in paragraph at lines 989--995
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
-[122] [123]
+[121] [122]
 Underfull \hbox (badness 10000) in paragraph at lines 1092--1098
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / content . iospress . com / ar
 ticles /
@@ -1633,7 +1660,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1100--1107
 cience / article / pii /
  []
 
-
+[123]
 Underfull \hbox (badness 4013) in paragraph at lines 1140--1147
 []\T1/cmr/m/n/12 G. Liu, J. Guo, []Bidi-rec-tional LSTM with at-ten-tion mech-a
 -
@@ -1645,13 +1672,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 1140--1147
 cience / article / pii /
  []
 
-[124]
+
 Underfull \hbox (badness 10000) in paragraph at lines 1153--1160
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
-
+[124]
 Underfull \hbox (badness 4954) in paragraph at lines 1179--1185
 []\T1/cmr/m/n/12 B. Ro-drawang-pai, W. Daung-jai-boon, []Im-prov-ing text clas-
 si-fi-
@@ -1733,7 +1760,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1529--1536
 cience / article / pii /
  []
 
-[131]
+
 Underfull \hbox (badness 2521) in paragraph at lines 1538--1545
 \T1/cmr/m/n/12 wear-able sen-sors[], Ap-plied Soft Com-put-ing 111 (2021) 10772
 8.
@@ -1763,7 +1790,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1547--1554
 cience / article / pii /
  []
 
-
+[131]
 Underfull \hbox (badness 1377) in paragraph at lines 1586--1594
 \T1/cmr/m/n/12 tiv-ity recog-ni-tion: A deep con-vo-lu-tional transformer-based
  con-
@@ -1810,7 +1837,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1646--1654
 cience / article / pii /
  []
 
-[133] [134]
+[133]
 Underfull \hbox (badness 5696) in paragraph at lines 1727--1734
 []\T1/cmr/m/n/12 C. Hema, F. P. Gar-cia Mar-quez, []Emo-tional speech recog-
  []
@@ -1826,7 +1853,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1727--1734
 cience / article / pii /
  []
 
-[135]
+[134] [135]
 Underfull \hbox (badness 1242) in paragraph at lines 1797--1803
 []\T1/cmr/m/n/12 A. Rad-ford, J. W. Kim, T. Xu, G. Brock-man, C. McLeavey,
  []
@@ -1873,13 +1900,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 1886--1894
 cience / article / pii /
  []
 
-[137] [138]
+[137]
 Underfull \hbox (badness 10000) in paragraph at lines 1964--1970
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
-
+[138]
 Underfull \hbox (badness 10000) in paragraph at lines 1984--1992
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
@@ -1891,7 +1918,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2051--2059
 cience / article / pii /
  []
 
-[140]
+
 Underfull \hbox (badness 10000) in paragraph at lines 2061--2068
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
@@ -1903,7 +1930,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2070--2078
 cience / article / pii /
  []
 
-
+[140]
 Underfull \hbox (badness 10000) in paragraph at lines 2080--2087
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
@@ -1943,7 +1970,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2109--2116
 cience / article / pii /
  []
 
-[141]
+
 Underfull \hbox (badness 1584) in paragraph at lines 2118--2124
 []\T1/cmr/m/n/12 P. Aghao-midi, G. Wang, []ECG-SleepNet: Deep Learning-Based
  []
@@ -1977,7 +2004,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2126--2133
 p / AAAI / article / view /
  []
 
-
+[141]
 Underfull \hbox (badness 2343) in paragraph at lines 2153--2160
 []\T1/cmr/m/n/12 C. Msigwa, D. Bernard, J. Yun, []IoT-driven wear-able de-vices
 
@@ -2029,13 +2056,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 2162--2170
  doi / abs / 10 . 1002 / hbm .
  []
 
-[142] [143] [144]
+[142] [143]
 Underfull \hbox (badness 10000) in paragraph at lines 2274--2281
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
-
+[144]
 Underfull \hbox (badness 10000) in paragraph at lines 2294--2302
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
@@ -2194,7 +2221,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2708--2716
 cience / article / pii /
  []
 
-[152]
+
 Underfull \hbox (badness 6510) in paragraph at lines 2722--2728
 []\T1/cmr/m/n/12 A. Mu-muni, F. Mu-muni, []Data aug-men-ta-tion: A com-pre-
  []
@@ -2211,13 +2238,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 2722--2728
 cience / article / pii /
  []
 
-
+[152]
 Underfull \hbox (badness 10000) in paragraph at lines 2739--2745
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
  []
 
-[153]
+
 Underfull \hbox (badness 10000) in paragraph at lines 2784--2791
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
@@ -2246,13 +2273,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 2793--2800
 cience / article / pii /
  []
 
-[154]
+[153]
 Underfull \hbox (badness 1590) in paragraph at lines 2838--2845
 \T1/cmr/m/n/12 based ac-tiv-ity recog-ni-tion[], Jour-nal of Am-bi-ent In-tel-l
 i-gence and
  []
 
-
+[154]
 Underfull \hbox (badness 10000) in paragraph at lines 2847--2854
 \T1/cmr/m/n/12 URL []$\T1/cmtt/m/n/12 https : / / www . sciencedirect . com / s
 cience / article / pii /
@@ -2270,21 +2297,18 @@ Underfull \hbox (badness 2818) in paragraph at lines 2884--2891
  []
 
 [155]) [156] (elsarticle-template-num_v2.aux)
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package rerunfilecheck Info: File `elsarticle-template-num_v2.out' has not chan
 ged.
 (rerunfilecheck)             Checksum: 0A04BE93D245A094208CCFF65BA142BF;7167.
  ) 
 Here is how much of TeX's memory you used:
- 14170 strings out of 476331
- 242896 string characters out of 5787765
+ 14491 strings out of 476331
+ 248493 string characters out of 5787765
  1887660 words of memory out of 5000000
- 33717 multiletter control sequences out of 15000+600000
+ 34024 multiletter control sequences out of 15000+600000
  528883 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,76p,2667b,2195s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,76p,2667b,2204s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\mohal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1200.pk> <C:\Users\mohal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
 0\ectt1200.pk> <C:\Users\mohal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
@@ -2310,9 +2334,9 @@ ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/mohal/
 AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/User
 s/mohal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
 
-Output written on elsarticle-template-num_v2.pdf (156 pages, 2682555 bytes).
+Output written on elsarticle-template-num_v2.pdf (156 pages, 2696649 bytes).
 PDF statistics:
- 3791 PDF objects out of 4296 (max. 8388607)
+ 3813 PDF objects out of 4296 (max. 8388607)
  674 named destinations out of 1000 (max. 500000)
  486 words of extra memory for PDF output out of 10000 (max. 10000000)
 
